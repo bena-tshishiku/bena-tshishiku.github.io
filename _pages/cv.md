@@ -109,15 +109,51 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Advising and mentoring
+======
+* Graduate
+  * Trent Lucas: current PhD student
+  * Alina Al Beaini: current PhD student
+  * Tom Stone (masters 2021)
+
+* Undergraduate
+  * Alex Feiner: independent reading on sheaves, Fall 2022
+  * Junzhi Huang: research on curve complexes, Summer 2021
+  * Alex Bauman: research on configuration spaces of graphs, Summer 2020
+  * Dominick Joo: research on symmetries of surfaces, Summer 2020
+  * Eli Fonseca: independent reading on index theory and Bott periodicity, Fall 2019
+
+* UChicago Directed reading program (2012-2015)
+  * Jonathan Sorce (Lie groups) 
+  * Weston Ungemach (symplectic topology) 
+  * Jasha Sommer-Simpson (group theory and topology)
+  * Bruno Cabral (knot theory)
+  * Orest Xherija (point-set topology)
+  * Joshua Bosshardt (Fourier analysis)
+
+* UChicago REU (2012-2013)
+  * Jack Sempliner
+  * Jasha Sommer-Simpson
+  * Rachel Carandang
+  * Ang Li 
+  * Zihao Jiang
+  * Kerisha Burke (through Leadership Alliance) 
+
+* 2012-2013: UChicago REU, mentored 8 students including one through Leadership Alliance
+
+
 Service and leadership
 ======
-* 2022: Organizer of Brown-Yale Geometry-Topology Conference (GATSBY)
-* 2022: Organizer of Spring Topology and Dynamics Conference special session on GT (Baylor University)
-* 2019-present: Brown math circle at Blackstone Valley Prep (2019-2021) and Achievement First (2021-present)
-* 2019: Organizer of Spring Topology and Dynamics Conference special session on GT (UA-Birmingham)
-* 2016-2020: Directed Reading Program Network, Organizer
-* 2014-present: Referee (G&T, Forum Math Pi, JLMS, BLMS, JTop, QJM, Nagoya Math J, MMJ, AGT, JTA, GD)
-* 2014-2015: Upward Bound Saturday School instructor to 24 CPS students
-* 2012-2015: UChicago Directed Reading Program committee member, mentored 6 students
-* 2012-2013: UChicago REU, mentored 8 students including one through Leadership Alliance
+* Conference organization
+  * Fall 2022: Brown-Yale Geometry-Topology Conference (GATSBY)
+  * 2022: Spring Topology and Dynamics Conference special session on GT (Baylor University)
+  * 2019: Spring Topology and Dynamics Conference special session on GT (UA-Birmingham)
+* Outreach 
+  * 2019-present: Brown math circle at Blackstone Valley Prep (2019-2021) and Achievement First (2021-present)
+  * 2014-2015: Upward Bound Saturday School instructor to 24 CPS students
+* Refereeing 
+  * G&T, Forum Math Pi, JLMS, BLMS, JTop, QJM, Nagoya Math J, MMJ, AGT, JTA, GD
+* Other
+  * 2016-2020: Directed Reading Program Network, Organizer
+  * 2012-2015: UChicago Directed Reading Program committee member
