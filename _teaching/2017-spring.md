@@ -8,4 +8,6 @@ date: 2017-01-01
 location: "Cambridge, USA"
 ---
 
-[Here](files/topicscourse-2017.pdf) are notes from the course. 
+
+[Here](https://bena-tshishiku.github.io/files/topicscourse-2017.pdf) are notes from the course. 
+
