@@ -1,3 +1,13 @@
+---
+layout: archive
+title: "activities"
+permalink: /activities/
+author_profile: true
+
+---
+
+{% include base_path %}
+
 ## Math circle 
 
 See [this page](https://sites.google.com/view/bumc-activities/home) for a photo album of Brown's math circle. 
