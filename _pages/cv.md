@@ -138,7 +138,7 @@ Advising and mentoring
   * Rachel Carandang 
   * Ang Li 
   * Zihao Jiang
-  * Kerisha Burke 
+  * Kerisha Burke (through Leadership Alliance)
 
 Service and leadership
 ======
