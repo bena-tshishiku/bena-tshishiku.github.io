@@ -11,21 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Mathematics , University of Chicago, 2015
+  * Advisor: Benson Farb
+  * Thesis: Obstructions to realizing mapping classes by diffeomorphisms
+* B.S. in Mathematics, Washington and Lee University, 2010
 
-Work experience
+Employment
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-present: Assistant Professor, Brown University
+* 2016-2019: Benjamin Peirce Fellow, Harvard University
+* 2015-2016: NSF Postdoctoral Fellow, Stanford University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
