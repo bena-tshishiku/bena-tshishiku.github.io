@@ -26,9 +26,8 @@
           alt="">
       </div>
     {% endif %}
-    <h3 class="archive__item-title" itemprop="headline">
-      <p> {{ post.title }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-    </h3>
+    <p> {{ post.title }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
