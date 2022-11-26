@@ -8,4 +8,4 @@ date: 2017-01-01
 location: "Cambridge, USA"
 ---
 
-[Here]() are notes from the course. 
+[Here](files/topicscourse-2017.pdf) are notes from the course. 
