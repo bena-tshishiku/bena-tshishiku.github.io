@@ -111,4 +111,11 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2022: Organizer of Spring Topology and Dynamics Conference special session on GT (Baylor University)
+* 2019-present: Brown math circle at Blackstone Valley Prep (2019-2021) and Achievement First (2021-present)
+* 2019: Organizer of Spring Topology and Dynamics Conference special session on GT (UA-Birmingham)
+* 2016-2020: Directed Reading Program Network, Organizer
+* 2014-present: Referee (G&T, Forum Math Pi, JLMS, BLMS, JTop, QJM, Nagoya Math J, MMJ, AGT, JTA, GD)
+* 2014-2015: Upward Bound Saturday School instructor to 24 CPS students
+* 2012-2015: UChicago Directed Reading Program committee member, mentored 6 students
+* 2012-2013: UChicago REU, mentored 8 students including one through Leadership Alliance
