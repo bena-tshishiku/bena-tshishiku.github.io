@@ -133,15 +133,12 @@ Advising and mentoring
   * Joshua Bosshardt (Fourier analysis)
 
 * UChicago REU (2012-2013)
-  * Jack Sempliner
-  * Jasha Sommer-Simpson
-  * Rachel Carandang
+  * Jack Sempliner 
+  * Jasha Sommer-Simpson 
+  * Rachel Carandang 
   * Ang Li 
   * Zihao Jiang
-  * Kerisha Burke (through Leadership Alliance) 
-
-* 2012-2013: UChicago REU, mentored 8 students including one through Leadership Alliance
-
+  * Kerisha Burke 
 
 Service and leadership
 ======
