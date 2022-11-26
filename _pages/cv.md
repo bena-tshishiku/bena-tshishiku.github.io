@@ -40,6 +40,7 @@ Research articles
 Talks
 ======
 * 2022
+  * Upstate NY topology conference (Syracuse) 
   * Low dimensional topology and homeomorphism groups (UMaryland) 
   * PATCH (Temple) 
   * Colloquia: PUC-Chile
@@ -111,6 +112,7 @@ Teaching
   
 Service and leadership
 ======
+* 2022: Organizer of Brown-Yale Geometry-Topology Conference (GATSBY)
 * 2022: Organizer of Spring Topology and Dynamics Conference special session on GT (Baylor University)
 * 2019-present: Brown math circle at Blackstone Valley Prep (2019-2021) and Achievement First (2021-present)
 * 2019: Organizer of Spring Topology and Dynamics Conference special session on GT (UA-Birmingham)
