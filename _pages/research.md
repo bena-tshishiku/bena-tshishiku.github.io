@@ -17,10 +17,6 @@ Collaborators: Mauricio Bustamante, Lei Chen, Jeffrey Giansiracusa, Junzhi Huang
 
 Note: frequently the version on this page is more up-to-date than the version on the arXiv.
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
 
 {% for post in site.publications reversed %}
