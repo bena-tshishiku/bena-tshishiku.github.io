@@ -37,16 +37,24 @@ Research articles
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Conference Talks
+Talks
 ======
 * 2022
   * Low dimensional topology and homeomorphism groups (UMaryland) 
+  * PATCH (Temple) 
+  * Colloquia: PUC-Chile
+  * Seminars: U-Chicago, PUC-Chile, Yale, MIT, Boston College
+
 * 2021
   * Cohomology of Arithmetic Groups: Duality, Stability, and Computations (Banff) 
+  * Colloquia: Rice, Wesleyan, UW-Milwaukee
+  * Seminars: Michigan, UC-Riverside, CUNY, Tufts, UW-Milwaukee, Northeastern
 
 * 2020
   * Spring Topology and Dynamics Conference
   * Georgia Tech Topology Conference 
+  * Colloquia: Duke
+  * Seminars: Caltech, Tufts, U-Penn, Binghamton
 
 * 2019
   * AMS Sectional: Group actions on manifolds (Binghamton)
@@ -54,6 +62,8 @@ Conference Talks
   * 4-manifolds: confluence of high/low dimensions (Fields Institute) 
   * Redbud topology conference (Norman, OK)
   * Spring Topology and Dynamics Conference (Birmingham, AL)
+  * Colloquia: UCSD
+  * Seminars: Tufts, Michigan, Ohio State
 
 * 2018
   * AMS Sectional: Groups in low dimensional topology (Fayetteville, AR)
@@ -67,6 +77,8 @@ Conference Talks
   * Structure of 3-manifold groups (CIRM)
   * Joint Math Meetings (San Diego): Special session on research from the SMALL REU
   * Joint Math Meetings: Special session on boundaries for groups and spaces
+  * Colloquia: Minnesota, UIC, Rutgers, Madison, Brown
+  * Seminars: Irvine, MIT, Temple, UMass, Albany, Columbia, UVa
 
 * 2017
   * Canadian Math Society Winter meeting (Waterloo)
@@ -74,16 +86,20 @@ Conference Talks
   * Cohomology of arithmetic groups masterclass (Copenhagen)
   * G^3 conference (Pensacola) 
   * Spring Topology and Dynamics Conference (Jersey City)
+  * Seminars: MIT, Boston College, Madison, Notre Dame, Northwestern, Brandeis, Northeastern, Brown
 
 * 2016
   * Surface bundles (Oberwolfach)
   * Surgery and Geometry (Banff)
   * Workshop on group actions (Fields Institute)
   * Cornell topology festival
+  * Seminars: Purdue, Tufts, Binghamton, Boston U
 
 * 2015
   * Wasatch topology conference (Park City)
   * Topological methods in group theory (Ohio State)
+  * Graduate student workshop on diffeomorphism groups (Berkeley) 
+  * Seminars: LMU Munich, Northwestern, Indiana, Stanford, Berkeley, Rice, Ohio State, Purdue 
 
 
   
