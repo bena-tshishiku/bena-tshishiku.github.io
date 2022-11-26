@@ -14,7 +14,8 @@ location: "Cambridge, USA"
 This is a rigorous course on multivariable calculus with an emphasis on proof-writing and abstract mathematical reasoning. The main topics are differentiation, integration, and rigorous proofs of the classical theorems of calculus in a broad setting. 
 
 ## Textbooks 
-Spivak's _Calculus on manifolds_ and Munkres' _Analysis on manifolds_.
+* Spivak, _Calculus on manifolds_ 
+* Munkres', _Analysis on manifolds_
 
 ## Topic schedule 
 
