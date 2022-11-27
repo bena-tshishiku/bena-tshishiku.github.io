@@ -10,7 +10,7 @@ citation: 'J. Lie Theory. 29(2019) 4, 1093-1102.'
 
 ---
 
-[pdf](http://bena-tshishiku.github.io/files/borelrange.pdf)
+[pdf](http://bena-tshishiku.github.io/files/papers/borelrange.pdf)
 
 In this note, we remark on the range in Borel's theorem on the stable cohomology of 
 the arithmetic groups Sp(2n,Z) and SO(n,n;Z).  The main result improves the range stated 
