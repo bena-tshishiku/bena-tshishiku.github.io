@@ -11,7 +11,7 @@ citation: 'Groups Geom. Dyn. 14 (2020) 3, 791-811.'
 ---
 
 [pdf](http://bena-tshishiku.github.io/files/papers/relativePD3.pdf)
-[erratum](http://bena-tshishiku.github.io/files/relativePD3-erratum.pdf)
+[erratum](http://bena-tshishiku.github.io/files/papers/relativePD3-erratum.pdf)
 
 Bestvina-Mess showed that the duality properties of a group are encoded in any 
 boundary that gives a Z-set compactification; in particular, a hyperbolic group 
