@@ -32,7 +32,7 @@
     {% elsif post.collection == 'publications' %}
       <p> {{ post.title }}, <i>{{ post.venue }}</i> </p>
     {% endif %}
-      {% if post.venue%} <h3>{{ post.citation }} </h3> {% endif %}
+      {% if post.venue%} {{ post.citation }} {% endif %}
       
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
