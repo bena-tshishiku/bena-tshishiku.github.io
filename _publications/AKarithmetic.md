@@ -10,7 +10,7 @@ citation: 'Compositio Math. 156 (2020) 1, 114-157.'
 
 ---
 
-[pdf](http://bena-tshishiku.github.io/files/AKarithmetic.pdf)
+[pdf](http://bena-tshishiku.github.io/files/papers/AKarithmetic.pdf)
 
 In the 1960s Atiyah and Kodaira constructed surface bundles over 
 surfaces with many interesting properties. The topology of such a 
