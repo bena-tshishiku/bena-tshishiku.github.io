@@ -7,9 +7,9 @@ author_profile: true
 ---
 
 
-My research area is geometric topology. Some of my interests include low-dimensional topology; manifolds, fiber bundles, and their characteristic classes; mapping class groups, diffeomorphism groups, and arithmetic groups. 
+My research area is geometric topology. Some of my interests include low-dimensional topology; manifolds, fiber bundles, and characteristic classes; group actions and Nielsen realization; mapping class groups, diffeomorphism groups, and arithmetic groups. 
 
-Collaborators: Mauricio Bustamante, Lei Chen, Jeffrey Giansiracusa, Junzhi Huang, Manuel Krannich, Alexander Kupers, Jean-Francois Lafont, Kathryn Mann, Nick Salter, Daniel Studenmund, Genevieve Walsh
+Collaborators: [Mauricio Bustamante](https://bustamantemath.wixsite.com/math), [Lei Chen](https://sites.google.com/site/alicemath1991/home), [Jeffrey Giansiracusa](https://sites.google.com/view/jeffreygiansiracusa/home?authuser=0), Junzhi Huang, [Manuel Krannich](https://manuelkrannich.github.io/), [Alexander Kupers](https://www.utsc.utoronto.ca/people/kupers/), [Jean-Francois Lafont](https://people.math.osu.edu/lafont.1/), [Kathryn Mann](https://e.math.cornell.edu/people/mann/index.html), [Nick Salter](https://nsalter.science.nd.edu/), [Daniel Studenmund](https://sites.google.com/view/studenmund/home), [Genevieve Walsh](https://gwalsh01.pages.tufts.edu/)
 
 
 
