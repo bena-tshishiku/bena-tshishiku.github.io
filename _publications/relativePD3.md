@@ -3,8 +3,8 @@ title: "Borel's stable range for the cohomology of arithmetic groups"
 collection: publications
 permalink: publication/relativePD3
 excerpt: ''
-date: 2020-01-01
-venue: ''
+date: 2020-02-01
+venue: 'with G. Walsh'
 paperurl: ''
 citation: Groups Geom. Dyn. 14 (2020) 3, 791-811.'
 
