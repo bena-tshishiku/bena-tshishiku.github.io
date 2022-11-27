@@ -1,5 +1,5 @@
 ---
-title: "Borel's stable range for the cohomology of arithmetic groups"
+title: "Arithmeticity of the monodromy of some Kodaira fibrations"
 collection: publications
 permalink: publication/AKarithmetic
 excerpt: ''
