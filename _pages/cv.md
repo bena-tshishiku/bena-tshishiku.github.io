@@ -36,6 +36,15 @@ Research articles
   <ol reversed>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ol>
+
+
+
+Other articles
+======
+
+  <ol reversed>{% for post in site.expositions reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ol>
   
 Talks
 ======
