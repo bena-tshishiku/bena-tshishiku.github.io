@@ -29,5 +29,7 @@ Note: frequently the version on this page is more up-to-date than the version on
 {% include base_path %}
 
 {% for post in site.expositions reversed %}
-  {% include archive-single.html %}
+  {% if post.paperurl == 'exposition' %} 
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
