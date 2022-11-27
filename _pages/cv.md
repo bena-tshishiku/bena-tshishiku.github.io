@@ -33,18 +33,30 @@ Awards
 
 Research articles
 ======
-  <ol reversed>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ol>
+  <ol reversed>
+
+  {% for post in site.publications reversed %} 
+    {% if post.paperurl != 'exposition' %} 
+      {% include archive-single-cv.html %} 
+    {% endif %} 
+  {% endfor %}
+  
+</ol>
 
 
 
 Other articles
 ======
 
-  <ol reversed>{% for post in site.expositions reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ol>
+  <ol reversed>
+  
+  {% for post in site.publications reversed %} 
+    {% if post.paperurl == 'exposition' %} 
+      {% include archive-single-cv.html %} 
+    {% endif %} 
+  {% endfor %}
+
+</ol>
   
 Talks
 ======
