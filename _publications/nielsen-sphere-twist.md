@@ -4,7 +4,7 @@ collection: publications
 permalink: publication/nielsen-sphere-twist
 excerpt: ''
 date: 2022-07-01
-venue: ''
+venue: 'with L. Chen'
 paperurl: ''
 citation: 'Submitted. arxiv: 2204.04820'
 
