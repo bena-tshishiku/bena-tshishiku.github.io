@@ -16,6 +16,6 @@ Let K be the K3 manifold. In this note, we discuss two methods
 to prove that certain generalized Miller-Morita-Mumford classes for 
 smooth bundles with fiber K are non-zero. As a consequence, we fill a 
 gap in a paper of the first author, and prove that the homomorphism 
-Diff(K)→pi_0Diff(K) does not split. One of the two methods of proof uses 
+Diff(K)→pi_0Diff(K) does not split (even virtually). One of the two methods of proof uses 
 a result of Franke on the stable cohomology of arithmetic groups that 
 strengthens work of Borel, and may be of independent interest.
