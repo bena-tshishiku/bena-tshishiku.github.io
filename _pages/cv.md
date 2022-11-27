@@ -42,7 +42,7 @@ Research articles
 Other articles
 ======
 
-  <ol reversed>{% for post in sit.expo reversed %}
+  <ol reversed>{% for post in site.expo reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ol>
   
