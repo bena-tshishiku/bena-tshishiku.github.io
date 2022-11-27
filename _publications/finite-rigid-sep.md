@@ -3,7 +3,7 @@ title: "Finite rigid sets and the separating curve complex"
 collection: publications
 permalink: publication/finite-rigid-sep
 excerpt: ''
-date: 2022-02-01
+date: 2022-03-01
 venue: 'with J. Huang'
 paperurl: ''
 citation: 'Topology Appl. 312 (2022).'
