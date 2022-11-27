@@ -24,6 +24,6 @@ This was a course on mapping class groups of surfaces. Topics included:
   * Harer’s homological stability theorem
   * Madsen–Weiss theorem
   * Homotopy type of diffeomorphism groups, Earle–Eells theorem
-4. Lifting problems for Modg
+4. Lifting problems for Mod_g
   * Morita’s nonlifting theorem, flat connections on surface bundles
   * Lifting problems for surface braid groups
