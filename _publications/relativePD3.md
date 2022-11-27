@@ -10,7 +10,7 @@ citation: 'Groups Geom. Dyn. 14 (2020) 3, 791-811.'
 
 ---
 
-[pdf](http://bena-tshishiku.github.io/files/relativePD3.pdf)
+[pdf](http://bena-tshishiku.github.io/files/papers/relativePD3.pdf)
 [erratum](http://bena-tshishiku.github.io/files/relativePD3-erratum.pdf)
 
 In this note, we remark on the range in Borel's theorem on the stable cohomology of 

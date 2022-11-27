@@ -10,7 +10,7 @@ citation: 'Submitted. arxiv: 2206.11986'
 
 ---
 
-[pdf](http://bena-tshishiku.github.io/files/flat-cycle-count.pdf)
+[pdf](http://bena-tshishiku.github.io/files/papers/flat-cycle-count.pdf)
 
 Locally symmetric spaces like SL(n,ℤ)\SL_n(ℝ)/SO(n) contain immersed 
 compact flat manifolds of dimension equal to the real rank. We give a 

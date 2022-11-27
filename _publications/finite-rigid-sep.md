@@ -10,7 +10,7 @@ citation: 'Topology Appl. 312 (2022).'
 
 ---
 
-[pdf](http://bena-tshishiku.github.io/files/finite-rigid-sep.pdf)
+[pdf](http://bena-tshishiku.github.io/files/papers/finite-rigid-sep.pdf)
 
 For each closed surface of genus g ≥ 3, we find a finite subcomplex 
 of the separating curve complex that is rigid with respect to incidence-preserving maps. 

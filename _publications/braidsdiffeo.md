@@ -10,7 +10,7 @@ citation: 'Bull. Lond. Math. Soc., 48 (2016) 3, 457–471.'
 
 ---
 
-[pdf](http://bena-tshishiku.github.io/files/braidsdiffeo.pdf)
+[pdf](http://bena-tshishiku.github.io/files/papers/braidsdiffeo.pdf)
 
 For every compact surface we show that when n is sufficiently large there is no lift 
 of the surface braid group Br(n,S) to Diff(S,n), the group of diffeomorphisms 

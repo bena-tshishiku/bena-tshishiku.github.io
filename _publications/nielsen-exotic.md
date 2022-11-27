@@ -10,7 +10,7 @@ citation: 'J. Diff. Geom. 120 (2022) 2, 231-250.'
 
 ---
 
-[pdf](http://bena-tshishiku.github.io/files/nielsen-exotic.pdf)
+[pdf](http://bena-tshishiku.github.io/files/papers/nielsen-exotic.pdf)
 
 Let N be a smooth manifold that’s homeomorphic but not diffeomorphic 
 to a closed hyperbolic manifold M. In this paper, we study the extent 

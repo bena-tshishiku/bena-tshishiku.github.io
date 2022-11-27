@@ -10,7 +10,7 @@ citation: 'J. Topol. Anal. 11 (2019) 1, 233–247.'
 
 ---
 
-[pdf](http://bena-tshishiku.github.io/files/scbdry.pdf)
+[pdf](http://bena-tshishiku.github.io/files/papers/scbdry.pdf)
 
 The fundamental group of a closed aspherical manifold M is an 
 example of a Poincare duality group. Whether or not all 

@@ -10,7 +10,7 @@ citation: 'Comment. Math. Helv. 96 (2021) 1, 1-45.'
 
 ---
 
-[pdf](http://bena-tshishiku.github.io/files/geocycles.pdf)
+[pdf](http://bena-tshishiku.github.io/files/papers/geocycles.pdf)
 
 A basic problem in the study of fiber bundles is to compute the ring H*(BDiff(M)) 
 of characteristic classes of bundles with fiber a smooth manifold M. When M is a surface, 

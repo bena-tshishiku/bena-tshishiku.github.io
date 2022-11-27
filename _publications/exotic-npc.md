@@ -10,7 +10,7 @@ citation: 'Submitted. arXiv:2109.09196'
 
 ---
 
-[pdf](http://bena-tshishiku.github.io/files/exotic-npc.pdf)
+[pdf](http://bena-tshishiku.github.io/files/papers/exotic-npc.pdf)
 
 We study finite group actions on smooth manifolds of the form W#Σ, 
 where Σ is an exotic n-sphere and W is either a hyperbolic or a flat manifold. 

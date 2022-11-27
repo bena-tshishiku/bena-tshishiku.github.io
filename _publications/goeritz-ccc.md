@@ -10,7 +10,7 @@ citation: 'Submitted. arXiv:2109.06981'
 
 ---
 
-[pdf](http://bena-tshishiku.github.io/files/goeritz-ccc.pdf)
+[pdf](http://bena-tshishiku.github.io/files/papers/goeritz-ccc.pdf)
 
 We show that finitely-generated, purely pseudo-Anosov subgroups 
 of the genus-2 Goeritz group are convex cocompact in the genus-2 mapping class group. 
