@@ -6,7 +6,7 @@ excerpt: ''
 date: 2020-02-01
 venue: 'with G. Walsh'
 paperurl: ''
-citation: Groups Geom. Dyn. 14 (2020) 3, 791-811.'
+citation: 'Groups Geom. Dyn. 14 (2020) 3, 791-811.'
 
 ---
 
