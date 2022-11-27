@@ -1,5 +1,5 @@
 ---
-title: "Algebraic topology II (Math 242)"
+title: "Algebraic topology II (Math 2420)"
 collection: teaching
 type: "Graduate course"
 permalink:
