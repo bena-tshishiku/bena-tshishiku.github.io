@@ -5,7 +5,7 @@ permalink: /publication/pointpush
 excerpt: ''
 date: 2015-01-01
 venue: ''
-paperurl: 'http://bena-tshishiku.github.io/files/pointpush.pdf'
+paperurl: ''
 citation: ' J. Topol. 8 (2015) 2, 352–376.'
 
 ---
