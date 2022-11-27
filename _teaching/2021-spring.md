@@ -1,5 +1,5 @@
 ---
-title: "Graph theory"
+title: "Graph theory (Math 1230)"
 collection: teaching
 type: "Undergraduate course"
 permalink: 
@@ -94,3 +94,16 @@ West, _Introduction to graph theory_
   * Sameerah and Arturo: the 5-color theorem
   * Sreshtaa, Lily, Ryan: de Bruijn graphs and genome sequencing
   * David, Ken, Petar: the stable roommates problem
+
+
+## Homework assignments 
+
+[HW1](http://bena-tshishiku.github.io/files/courses/2021-spring/123-hw1.pdf)
+[HW2](http://bena-tshishiku.github.io/files/courses/2021-spring/123-hw2.pdf)
+[HW3](http://bena-tshishiku.github.io/files/courses/2021-spring/123-hw3.pdf)
+[HW4](http://bena-tshishiku.github.io/files/courses/2021-spring/123-hw4.pdf)
+[HW5](http://bena-tshishiku.github.io/files/courses/2021-spring/123-hw5.pdf)
+[HW6](http://bena-tshishiku.github.io/files/courses/2021-spring/123-hw6.pdf)
+[HW7](http://bena-tshishiku.github.io/files/courses/2021-spring/123-hw7.pdf)
+[HW8](http://bena-tshishiku.github.io/files/courses/2021-spring/123-hw8.pdf)
+[HW9](http://bena-tshishiku.github.io/files/courses/2021-spring/123-hw9.pdf)

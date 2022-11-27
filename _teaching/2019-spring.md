@@ -89,3 +89,20 @@ This course is focused on the study of functions of several variables, a topic b
   * Mon. Lecture 24: Stokes’ applications: Green’s theorem, FTA
   * Wed. Lecture 25: Stokes’ applications: FTA, planimeters
   * Fri. HW10 due.
+
+
+## Homework assignments 
+
+[HW1](http://bena-tshishiku.github.io/files/courses/2019-spring/25b-hw1.pdf)
+[HW2](http://bena-tshishiku.github.io/files/courses/2021-spring/25b-hw2.pdf)
+[HW3](http://bena-tshishiku.github.io/files/courses/2021-spring/25b-hw3.pdf)
+[HW4](http://bena-tshishiku.github.io/files/courses/2021-spring/25b-hw4.pdf)
+[HW5](http://bena-tshishiku.github.io/files/courses/2021-spring/25b-hw5.pdf)
+[HW6](http://bena-tshishiku.github.io/files/courses/2021-spring/25b-hw6.pdf)
+[HW7](http://bena-tshishiku.github.io/files/courses/2021-spring/25b-hw7.pdf)
+[HW8](http://bena-tshishiku.github.io/files/courses/2021-spring/25b-hw8.pdf)
+[HW9](http://bena-tshishiku.github.io/files/courses/2021-spring/25b-hw9.pdf)
+
+## Lecture notes
+
+A [pdf](http://bena-tshishiku.github.io/files/courses/2019-spring/beckham-lecture-notes.pdf) of lecture notes taken by Beckham Myers (course assistant). 

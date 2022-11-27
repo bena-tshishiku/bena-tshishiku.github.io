@@ -1,5 +1,5 @@
 ---
-title: "Signatures in topology, algebra, & dynamics"
+title: "Signatures in topology, algebra, & dynamics (Math 2720)"
 collection: teaching
 type: "Graduate topics course"
 permalink: 
@@ -7,6 +7,8 @@ venue: "Brown University"
 date: 2022-01-01
 location: "Providence, USA"
 ---
+
+[Here](https://bena-tshishiku.github.io/files/courses/topicscourse-2022.pdf) are some handwritten notes from the course. Use the topic schedule below if you want to search for something specific in them.
 
 ## Course summary 
 

@@ -1,5 +1,5 @@
 ---
-title: "Graph theory"
+title: "Graph theory (Math 1230)"
 collection: teaching
 type: "Undergraduate course"
 permalink: 

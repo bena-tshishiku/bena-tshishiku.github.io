@@ -1,5 +1,5 @@
 ---
-title: "Algebraic topology II"
+title: "Algebraic topology II (Math 242)"
 collection: teaching
 type: "Graduate course"
 permalink:
@@ -7,6 +7,8 @@ venue: "Brown University"
 date: 2020-01-01
 location: "Providence, USA"
 ---
+
+Note: This was the first COVID semester, so the course is unusual in some ways. 
 
 ## Summary 
 
@@ -87,3 +89,11 @@ This is part-two of a graduate course on algebraic topology. The main topics wil
   * Thurs(4/30). Brown representability (Alina+Veronica).
   * Fri(5/1). Cohomology of Eilenberg-Maclane spaces (Zhenghao). Computing π_4(S^3) (Anna)
   * Mon(5/4). Computing homology from the nerve of a cover (Yeqiu). Cell structures on manifolds (Owen+Caelan)
+
+
+## Homework assignments 
+
+[HW1](http://bena-tshishiku.github.io/files/courses/2020-spring/242-hw1.pdf)
+[HW2](http://bena-tshishiku.github.io/files/courses/2020-spring/242-hw2.pdf)
+[HW3](http://bena-tshishiku.github.io/files/courses/2020-spring/242-hw3.pdf)
+[HW4](http://bena-tshishiku.github.io/files/courses/2020-spring/242-hw4.pdf)

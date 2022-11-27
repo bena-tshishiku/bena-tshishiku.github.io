@@ -123,3 +123,18 @@ This is a rigorous course on multivariable calculus with an emphasis on proof-wr
 
   * Wed (last class): Stokes application (Green's theorem and planimeters)
 
+## Homework assignments 
+
+[HW1](http://bena-tshishiku.github.io/files/courses/2018-spring/25b-hw1.pdf)
+[HW2](http://bena-tshishiku.github.io/files/courses/2018-spring/25b-hw2.pdf)
+[HW3](http://bena-tshishiku.github.io/files/courses/2018-spring/25b-hw3.pdf)
+[HW4](http://bena-tshishiku.github.io/files/courses/2018-spring/25b-hw4.pdf)
+[HW5](http://bena-tshishiku.github.io/files/courses/2018-spring/25b-hw5.pdf)
+[HW6](http://bena-tshishiku.github.io/files/courses/2018-spring/25b-hw6.pdf)
+[HW7](http://bena-tshishiku.github.io/files/courses/2018-spring/25b-hw7.pdf)
+[HW8](http://bena-tshishiku.github.io/files/courses/2018-spring/25b-hw8.pdf)
+[HW9](http://bena-tshishiku.github.io/files/courses/2018-spring/25b-hw9.pdf)
+
+## Lecture notes
+
+A [pdf](http://bena-tshishiku.github.io/files/courses/2018-spring/michele-lecture-notes.pdf) of lecture notes taken by Michele Tienne (course assistant). 
