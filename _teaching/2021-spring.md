@@ -107,3 +107,7 @@ West, _Introduction to graph theory_
 [HW7](http://bena-tshishiku.github.io/files/courses/2021-spring/123-hw7.pdf)
 [HW8](http://bena-tshishiku.github.io/files/courses/2021-spring/123-hw8.pdf)
 [HW9](http://bena-tshishiku.github.io/files/courses/2021-spring/123-hw9.pdf)
+
+## Lecture notes
+
+Some handwritten lecture notes: [part 1](http://bena-tshishiku.github.io/files/courses/2021-spring/123-lecture2.pdf), [part 2](http://bena-tshishiku.github.io/files/courses/2021-spring/123-lecture1.pdf)
