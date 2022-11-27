@@ -3,7 +3,7 @@ title: "Borel's stable range for the cohomology of arithmetic groups"
 collection: publications
 permalink: publication/borelrange
 excerpt: ''
-date: 2016-01-01
+date: 2019-02-01
 venue: ''
 paperurl: ''
 citation: 'J. Lie Theory. 29(2019) 4, 1093-1102.'
