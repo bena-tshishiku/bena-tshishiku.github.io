@@ -10,7 +10,7 @@ citation: 'Tunis. J. Math. 3 (2021) 1, 75-92.'
 
 ---
 
-[pdf](http://bena-tshishiku.github.io/files/papers/papers/K3nielsen.pdf)
+[pdf](http://bena-tshishiku.github.io/files/papers/K3nielsen.pdf)
 
 Let K be the K3 manifold. In this note, we discuss two methods 
 to prove that certain generalized Miller-Morita-Mumford classes for 
