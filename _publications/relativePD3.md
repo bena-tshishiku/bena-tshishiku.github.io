@@ -1,5 +1,5 @@
 ---
-title: "Borel's stable range for the cohomology of arithmetic groups"
+title: "Groups with 2-sphere Bowditch boundary"
 collection: publications
 permalink: publication/relativePD3
 excerpt: ''
