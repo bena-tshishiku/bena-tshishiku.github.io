@@ -1,7 +1,7 @@
 ---
 title: "Realization problems for diffeomorphism groups"
 collection: publications
-permalink: exposition/nielsen-survey
+permalink: publication/nielsen-survey
 excerpt: ''
 date: 2019-01-01
 venue: 'with K. Mann'

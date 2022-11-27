@@ -1,7 +1,7 @@
 ---
 title: "Surface bundles in topology, algebraic geometry, and group theory"
 collection: publications
-permalink: notices-surface-bundles
+permalink: publication/notices-surface-bundles
 excerpt: ''
 date: 2020-02-01
 venue: 'with N. Salter'
