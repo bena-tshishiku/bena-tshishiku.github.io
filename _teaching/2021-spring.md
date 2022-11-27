@@ -110,4 +110,4 @@ West, _Introduction to graph theory_
 
 ## Lecture notes
 
-Some handwritten lecture notes: [part 1](http://bena-tshishiku.github.io/files/courses/2021-spring/123-lecture2.pdf), [part 2](http://bena-tshishiku.github.io/files/courses/2021-spring/123-lecture1.pdf)
+Some handwritten lecture notes: [part 1](http://bena-tshishiku.github.io/files/courses/2021-spring/123-lecture1.pdf), [part 2](http://bena-tshishiku.github.io/files/courses/2021-spring/123-lecture2.pdf)
