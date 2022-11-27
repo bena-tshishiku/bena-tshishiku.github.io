@@ -8,7 +8,7 @@ date: 2017-01-01
 location: "Cambridge, USA"
 ---
 
-[Here](https://bena-tshishiku.github.io/files/courses/topicscourse-2017.pdf) are (hand-written) notes from the course. 
+[Here](https://bena-tshishiku.github.io/files/courses/topicscourse-2017.pdf) are hand-written notes from the course. 
 
 This was a course on mapping class groups of surfaces. Topics included: 
 
