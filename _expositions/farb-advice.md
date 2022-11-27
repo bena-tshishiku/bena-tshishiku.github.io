@@ -1,7 +1,7 @@
 ---
 title: "Advice from our advisor: Benson Farb"
 collection: publications
-permalink:
+permalink: publication/farb-advice
 excerpt: ''
 date: 2021-11-01
 venue: ''
