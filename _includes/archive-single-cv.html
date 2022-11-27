@@ -26,8 +26,14 @@
           alt="">
       </div>
     {% endif %}
-    <p> {{ post.title }}, <i>{{ post.venue }}</i> </p>
-    {% if post.venue%} <h3>{{ post.citation }} </h3> {% endif %}
+      
+    {% if page.collection == 'teaching' %}
+      <p> {{ page.title }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>      
+    {% elsif page.collection == 'publications' %}
+      <p> {{ post.title }}, <i>{{ post.venue }}</i> </p>
+    {% endif %}
+      {% if post.venue%} <h3>{{ post.citation }} </h3> {% endif %}
+      
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
