@@ -1,7 +1,7 @@
 ---
 title: "Cohomological obstructions to Nielsen realization"
 collection: publications
-permalink: 
+permalink: publication/pointpush
 excerpt: ''
 date: 2015-01-01
 venue: ''
