@@ -15,7 +15,7 @@ This is a rigorous course on multivariable calculus with an emphasis on proof-wr
 
 ## Textbooks 
 * Spivak, _Calculus on manifolds_ 
-* Munkres', _Analysis on manifolds_
+* Munkres, _Analysis on manifolds_
 
 ## Topic schedule 
 
