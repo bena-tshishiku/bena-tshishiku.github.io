@@ -4,7 +4,7 @@ collection: publications
 permalink: publication/scbdry
 excerpt: ''
 date: 2019-01-01
-venue: ''
+venue: 'with J. Lafont'
 paperurl: ''
 citation: 'J. Topol. Anal. 11 (2019) 1, 233–247.'
 
