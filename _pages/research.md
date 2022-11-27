@@ -28,6 +28,6 @@ Note: frequently the version on this page is more up-to-date than the version on
 
 {% include base_path %}
 
-{% for post in site.expositions reversed %}
+{% for post in site.expo reversed %}
   {% include archive-single.html %}
 {% endfor %}
