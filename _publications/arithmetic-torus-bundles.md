@@ -10,7 +10,7 @@ citation: 'Indiana Univ. Math. J. 71 (2022) 4, 1797-1818.'
 
 ---
 
-[pdf](http://bena-tshishiku.github.io/files/arithmetic-torus-bundles.pdf)
+[pdf](http://bena-tshishiku.github.io/files/papers/arithmetic-torus-bundles.pdf)
 
 We study when the group ℤ^n⋊ℤ  is arithmetic, where ℤ acts on ℤ^n by a 
 hyperbolic, semisimple A∈ GL(n,ℤ). We give a characterization of arithmeticity 
