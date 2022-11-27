@@ -3,7 +3,7 @@ title: "Hyperbolic groups with boundary an n-dimensional Sierpinski space"
 collection: publications
 permalink: publication/scbdry
 excerpt: ''
-date: 2016-01-01
+date: 2019-01-01
 venue: ''
 paperurl: ''
 citation: 'J. Topol. Anal. 11 (2019) 1, 233–247.'
