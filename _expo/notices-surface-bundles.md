@@ -1,10 +1,10 @@
 ---
 title: "Surface bundles in topology, algebraic geometry, and group theory"
 collection: publications
-permalink: publication/nielsen-survey
+permalink: publication/notices-surface-bundles
 excerpt: ''
 date: 2020-02-01
-venue: 'with K. Mann'
+venue: 'with N. Salter'
 paperurl: ''
 citation: 'AMS Notices, Feb. 2020.'
 
