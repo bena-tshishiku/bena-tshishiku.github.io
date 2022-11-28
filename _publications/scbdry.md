@@ -23,3 +23,8 @@ G = pi_1(W) for some aspherical n-manifold W with boundary. The proof
 involves the total surgery obstruction and is based on work of Bartels-Lueck-Weinberger. 
 Concerning the converse, we construct examples of aspherical manifolds with 
 boundary whose fundamental group is hyperbolic but with visual boundary not homeomorphic to a Sierpinski space. 
+
+
+## Talk notes 
+
+[1](http://bena-tshishiku.github.io/files/talks/scbdry.pdf)

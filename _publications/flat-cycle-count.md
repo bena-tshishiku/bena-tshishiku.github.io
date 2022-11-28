@@ -16,3 +16,7 @@ Locally symmetric spaces like SL(n,ℤ)\SL_n(ℝ)/SO(n) contain immersed
 compact flat manifolds of dimension equal to the real rank. We give a 
 lower bound for the contribution of these cycles to the homology of congruence 
 covers. Similar results are proved for other families of locally symmetric spaces. 
+
+## Talk notes 
+
+[1](http://bena-tshishiku.github.io/files/talks/flat-cycle-count.pdf)

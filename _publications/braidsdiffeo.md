@@ -19,3 +19,10 @@ This generalizes work of Bestvina-Church-Souto, but our main tool (the Thurston 
 Our methods are applied to give a new proof of Morita's non-lifting theorem in the best possible range. 
 These techniques extend to the more general setting of spaces of codimension-2 embeddings, 
 and we obtain corresponding results for spherical motion groups, including the string motion group. 
+
+## Talk notes 
+
+[1](http://bena-tshishiku.github.io/files/talks/braidsdiffeo1.pdf)
+[2](http://bena-tshishiku.github.io/files/talks/braidsdiffeo2.pdf)
+
+[Video](https://video-archive.fields.utoronto.ca/view/5452)

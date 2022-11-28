@@ -20,3 +20,9 @@ the bundle is reflected in algebraic properties of the monodromy.
 The main result of this paper is that the Atiyah–Kodaira bundles have arithmetic monodromy groups.
 This addresses a question of Griffiths-Schmid. As an application, using work of N. Salter and L. Chen, 
 we show that Atiyah-Kodaira bundles fiber in exactly two ways. 
+
+
+## Talk notes 
+
+[1](http://bena-tshishiku.github.io/files/talks/AKarithmetic1.pdf)\\
+[2](http://bena-tshishiku.github.io/files/talks/AKarithmetic2.pdf)

@@ -19,3 +19,9 @@ maximal symmetry, i.e. Isom(M) acts on N by isometries with respect to
 some negatively curved metric on N. For these examples, Isom(M) can be 
 made arbitrarily large. On the other hand, we find N with little symmetry, 
 i.e. no subgroup of Isom(M) of “small” index acts by diffeomorphisms of N.
+
+
+## Talk notes 
+
+[1](http://bena-tshishiku.github.io/files/talks/nielsen-exotic1.pdf)
+[2](http://bena-tshishiku.github.io/files/talks/nielsen-exotic2.pdf)
