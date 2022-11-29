@@ -10,7 +10,8 @@ citation: 'Groups Geom. Dyn. 14 (2020) 3, 791-811.'
 
 ---
 
-[pdf](http://bena-tshishiku.github.io/files/papers/relativePD3.pdf)
+[pdf](http://bena-tshishiku.github.io/files/papers/relativePD3.pdf) 
+
 [erratum](http://bena-tshishiku.github.io/files/papers/relativePD3-erratum.pdf)
 
 Bestvina-Mess showed that the duality properties of a group are encoded in any 
@@ -21,5 +22,6 @@ Nevertheless we show that if the Bowditch boundary of (G,P) is a 2-sphere, then 
 
 ## Talks
 
-[Notes](http://bena-tshishiku.github.io/files/talks/relativePD3.pdf)\\
+[Notes](http://bena-tshishiku.github.io/files/talks/relativePD3.pdf) 
+
 [Video](https://www.youtube.com/watch?v=Kmt_ogvIYvU)
