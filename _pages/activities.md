@@ -8,6 +8,10 @@ author_profile: true
 
 {% include base_path %}
 
+## Brown Geom-Top seminar
+
+See [here](https://www.math.brown.edu/reschwar/seminar.html).
+
 ## Math circle 
 
 See [this page](https://sites.google.com/view/bumc-activities/home) for a photo album of Brown's math circle. 
