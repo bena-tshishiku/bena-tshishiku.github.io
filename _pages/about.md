@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm an assistant professor at Brown University working in geometry and topology. I received my PhD in 2015 from UChicago, advised by Benson Farb. 
+I'm an assistant professor at Brown University working in geometry and topology. I received my PhD in 2015 at UChicago, advised by Benson Farb. 
