@@ -24,5 +24,5 @@ we show that Atiyah-Kodaira bundles fiber in exactly two ways.
 
 ## Talk notes 
 
-[1](http://bena-tshishiku.github.io/files/talks/AKarithmetic1.pdf)\\
+[1](http://bena-tshishiku.github.io/files/talks/AKarithmetic1.pdf) 
 [2](http://bena-tshishiku.github.io/files/talks/AKarithmetic2.pdf)
