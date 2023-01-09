@@ -21,3 +21,5 @@ Address: Brown University, Mathematics Department, 151 Thayer St. Providence, RI
 Office: Kassar 304
 
 Email: bena_tshishiku at brown dot edu
+
+Name pronunciation: BAY-nuh (same vowel sounds as β) chee-SHE-koo  
