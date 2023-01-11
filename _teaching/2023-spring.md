@@ -15,14 +15,6 @@ location: "Providence, USA"
 ## Course information
 This is an undergraduate course in the study of graphs. Graphs appear all over the place: both in pure and applied mathematics as well as other sciences, such as chemistry, physics, computer science, and linguistics. We will focus on the theoretical aspects of graph theory, although we will also discuss some applications. 
 
-Some highlights of what we’ll learn in this course: 
-* basic properties of graphs (bipartite, Eulerian, matchings, connectivity, colorability, planarity)
-* classical theorems about graphs (e.g. Hall’s matching theorem, max-flow/min-cut)
-* classical algorithms about graphs (e.g. Gale-Shapely proposal algorithm)
-* theoretical trends in graph theory (TONCAS, dual problems, extremal problems, spectral theory)
-* applications of graph theory (4-color theorem, applications of Ramsey theory)
-* how to read/write proofs and critique arguments
-
 ### Course objectives
 * learn about basic properties of graphs (bipartite, Eulerian, matchings, connectivity, colorability, planarity,...)
 * prove foundational results (Menger, Hall matching, matrix tree, Kuratowski,...); 
@@ -71,7 +63,7 @@ There will be weekly assignments posted below as the semester progresses. The ho
 
 Collaboration: Please collaborate! Working together with your classmates can help you learn the material better. Some of the homework problems may be difficult, so it is recommended that you talk to someone when you are stuck. You are required to write your solutions alone and acknowledge the students you worked with. For any solution you submit, you should understand it well enough that you can explain it to someone else and answer questions about it. If you find yourself writing down things that you can’t explain, you should go back and think more about the problem. 
 
-LaTeX: It is required that you type your solutions in LaTeX. You can either download LaTex or use sharelatex which allows you download, edit, and compile LaTeX files online. See here for a guide to notation in LaTeX. Also Detexify is a useful tool for finding the commands for various symbols. The source code for the assignments should be a helpful guide. 
+LaTeX: It is required that you type your solutions in LaTeX. You can either [download](https://www.latex-project.org/get/) LaTex or use [sharelatex](https://www.sharelatex.com/) which allows you download, edit, and compile LaTeX files online. See [here](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols) for some commonly used symbols in LaTeX. Also [Detexify](http://detexify.kirelabs.org/classify.html) is a useful tool for finding the commands for various symbols. The source code for the assignments should be a helpful guide. The most basic thing to know/remember is that math always goes in between dollar signs. 
 
 Late homework policy: For your homework grade, I will drop the score from your lowest assignment. View this as a one-time "get out of jail free card" in the event that you oversleep, forget, have a midterm, etc. As a general rule, late homework will not be accepted. If you suspect you won’t be able to submit the assignment in time, please notify me as soon as possible. 
 
@@ -81,7 +73,7 @@ HW1 (due 2/3).
 
 ## Course materials
 
-* [Here](https://www.youtube.com/watch?v=1C_vxhsSbp8) is a video explaining some proof techniques and strategies. Highly recommended if you have less experience with proof writing.  
+* [Here](https://www.youtube.com/watch?v=1C_vxhsSbp8) is a video explaining some proof techniques and strategies. Highly recommended if you have less experience with proof writing or if you want a refresher. 
 
 ## Final Project
 Working in groups of 2-3, you’ll choose some topic related to the course that you want to investigate further. More details to come. 
