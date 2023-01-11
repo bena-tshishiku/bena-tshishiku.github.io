@@ -73,7 +73,7 @@ HW1 (due 2/3).
 
 ## Course materials
 
-* [Here](https://www.youtube.com/watch?v=1C_vxhsSbp8) is a video explaining some proof techniques and strategies. Highly recommended if you have less experience with proof writing or if you want a refresher. 
+* 
 
 ## Final Project
 Working in groups of 2-3, you’ll choose some topic related to the course that you want to investigate further. More details to come. 
