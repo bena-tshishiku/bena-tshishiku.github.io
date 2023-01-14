@@ -7,15 +7,16 @@ excerpt: ''
 date: 2022-07-01
 venue: 'with L. Chen'
 paperurl: ''
-citation: 'arxiv: '
+citation: 'arxiv:'
 
 ---
 
 [pdf](http://bena-tshishiku.github.io/files/papers/mod-circle-bundle.pdf)
 
 In this paper, we study the algebraic structure of mapping class group 
-$\Mod(X)$ of 3-manifolds $X$ that fiber as a circle bundle over a surface 
-$S^1\to X\to S_g$. There is an exact sequence $1\to H^1(S_g)\to \Mod(X)\to\Mod(S_g)\to1$. 
-We relate this to the Birman exact sequence and determine when this sequence splits. 
+of 3-manifolds that fiber as a circle bundle over a surface. 
+This mapping class group surjects to the mapping class group of the base surface. 
+We determine when this surjection splits. In the process we relate the 3-manifold 
+mapping class group to the Birman exact sequence. 
 
 
