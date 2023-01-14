@@ -2,7 +2,7 @@
 ---
 title: "Mapping class groups of circle bundles over a surface"
 collection: publications
-permalink: publication/nielsen-sphere-twist
+permalink: publication/mod-circle-bundle
 excerpt: ''
 date: 2023-01-01
 venue: 'with L. Chen'
