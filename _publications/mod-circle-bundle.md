@@ -1,4 +1,3 @@
-
 ---
 title: "Mapping class groups of circle bundles over a surface"
 collection: publications
