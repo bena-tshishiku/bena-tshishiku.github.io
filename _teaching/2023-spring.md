@@ -17,7 +17,7 @@ This is an undergraduate course in the study of graphs. Graphs appear all over t
 
 ### Course objectives
 * learn about basic properties of graphs (bipartite, Eulerian, matchings, connectivity, colorability, planarity,...)
-* prove foundational results (Menger, Hall matching, matrix tree, Kuratowski,...); 
+* prove foundational results (Menger, Hall matching, matrix tree,...); 
 * understand theoretical trends in graph theory (local-to-global, duality, extremal problems, Ramsey theory); 
 * investigate connections of graph theory to different areas (combinatorics, topology, linear algebra, probability); 
 * improve your ability to read/write proofs and critique arguments; 
