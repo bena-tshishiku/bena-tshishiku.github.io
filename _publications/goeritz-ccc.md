@@ -6,7 +6,7 @@ excerpt: ''
 date: 2022-06-01
 venue: ''
 paperurl: ''
-citation: 'Submitted. arXiv:2109.06981'
+citation: 'accepted to Trans. Amer. Math. Soc.'
 
 ---
 
