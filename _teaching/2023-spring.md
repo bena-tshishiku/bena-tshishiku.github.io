@@ -45,7 +45,7 @@ homework 50%, midterm 25%, final project 25%
 ## Contact information 
 
 * (Instructor) Bena Tshishiku: bena_tshishiku at brown.edu
-* (TA) TBD
+* TAs: Eli Sporn and Noah Whelpley
 
 ## Course events 
 
@@ -76,7 +76,7 @@ HW1 (due 2/3).
 * 
 
 ## Final Project
-Working in groups of 2-3, you’ll choose some topic related to the course that you want to investigate further. More details to come. 
+More details to come. 
 
 ## Tentative schedule (subject to change)
 
@@ -106,22 +106,22 @@ Working in groups of 2-3, you’ll choose some topic related to the course that 
 * Week 6: Connectivity
   * Tues (2/28). 
   * Thurs (3/2). 
-  * Fri (3/3). Take-home midterm due at 5pm. 
+  * Fri (3/3). HW5 due
 
 * Week 7: Coloring
   * Tues (3/7). 
   * Thurs (3/9).
-  * Fri (3/10). HW5 due
+  * Fri (3/10). HW6 due
 
 * Week 8: Planarity
   * Tues (3/14). 
   * Thurs (3/16). 
-  * Fri (3/17). HW6 due
+  * Fri (3/17). HW7 due
 
 * Week 9: Ramsey theory
   * Tues (3/21). 
   * Thurs (3/23). 
-  * Fri (3/24). HW7 due
+  * Fri (3/24). Take-home midterm due at 5pm. 
 
 * Week 10: Spring Break
 
