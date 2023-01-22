@@ -33,3 +33,8 @@ Note: frequently the version on this page is more up-to-date than the version on
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+
+
+## Notes 
+
+Local coefficients and Poincare duality [pdf](http://bena-tshishiku.github.io/files/papers/Poincare-duality-local-coefficients.pdf)
