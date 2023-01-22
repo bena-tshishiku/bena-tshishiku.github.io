@@ -1,5 +1,5 @@
 ---
-title: "Arithmeticity of groups Z^n\rtimes Z"
+title: "Arithmeticity of groups Z^n rtimes Z"
 collection: publications
 permalink: publication/arithmetic-torus-bundles
 excerpt: ''
