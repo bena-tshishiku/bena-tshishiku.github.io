@@ -10,7 +10,7 @@ location: "Providence, USA"
 
 ## Announcements
 
-* None currently. 
+* Join the course campuswire page via this [link](https://campuswire.com/p/GCDD00E4D). The access code is 9665. 
 
 ## Course information
 This is an undergraduate course in the study of graphs. Graphs appear all over the place: both in pure and applied mathematics as well as other sciences, such as chemistry, physics, computer science, and linguistics. We will focus on the theoretical aspects of graph theory, although we will also discuss some applications. 
@@ -45,7 +45,7 @@ homework 50%, midterm 25%, final project 25%
 ## Contact information 
 
 * (Instructor) Bena Tshishiku: bena_tshishiku at brown.edu
-* TAs: Eli Sporn and Noah Whelpley
+* TAs: Eli Sporn (eli_sporn at brown.edu) and Noah Whelpley (noah_whelpley at brown.edu)
 
 ## Course events 
 
