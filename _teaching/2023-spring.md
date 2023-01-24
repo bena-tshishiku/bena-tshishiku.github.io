@@ -36,7 +36,7 @@ West, _Introduction to graph theory_
 Just the textbook. In practice, the text may not be absolutely necessary for the course, although you may want it as a reference. 
 
 ## Grading
-homework 50%, midterm 25%, final project 25%
+homework 35%, midterm 30%, final project 30%, participation 5%
 
 * a grade of 90% or higher is guaranteed an A
 * a grade of 80% or higher is guaranteed an B
