@@ -6,7 +6,7 @@ excerpt: ''
 date: 2022-07-01
 venue: 'with L. Chen'
 paperurl: ''
-citation: 'Submitted. arxiv: 2204.04820'
+citation: 'accepted to Israel J. Math.'
 
 ---
 
