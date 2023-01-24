@@ -21,7 +21,7 @@ This is an undergraduate course in the study of graphs. Graphs appear all over t
 * understand theoretical trends in graph theory (local-to-global, duality, extremal problems, Ramsey theory); 
 * investigate connections of graph theory to different areas (combinatorics, topology, linear algebra, probability); 
 * improve your ability to read/write proofs and critique arguments; 
-* be exposed to things you haven’t seen and be challenged through problem solving.
+* expose you to things you haven’t seen and challenge you through problem solving.
 
 
 
