@@ -149,7 +149,7 @@ More details to come.
   * Tues (4/25). 
   * Thurs (4/27). 
 
-![image](images/123-meme1.jpeg)
-![image](images/123-meme2.jpeg)
-![image](images/123-meme3.jpeg)
+![image](./images/123-meme1.jpeg)
+![image](./images/123-meme2.jpeg)
+![image](./images/123-meme3.jpeg)
 
