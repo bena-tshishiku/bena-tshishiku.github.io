@@ -11,6 +11,7 @@ location: "Providence, USA"
 ## Announcements
 
 * Join the course campuswire page via this [link](https://campuswire.com/p/GCDD00E4D). The access code is 9665. We will use this for asynchronous discussions (e.g. questions about homework). 
+* I will hold an office hour Friday, Jan 27 4-5p. My office is Kassar 304.
 
 ## Course information
 This is an undergraduate course in the study of graphs. Graphs appear all over the place: both in pure and applied mathematics as well as other sciences, such as chemistry, physics, computer science, and linguistics. We will focus on the theoretical aspects of graph theory, although we will also discuss some applications. 
@@ -54,7 +55,7 @@ Lectures: Tu-Th 9-10:30am
 Office hours: TBD
 
 Important dates: 
-* Midterm (take home): 
+* Midterm (take home): due Friday, March 24 by 5pm. 
 * Final projects: 
 
 ## Homework 
@@ -70,6 +71,10 @@ Late homework policy: For your homework grade, I will drop the score from your l
 ### Homework assignments. 
 
 HW1 (due 2/3). 
+
+## Participation
+
+Occasionally, we may have small assignments or quizzes in class, which are graded more-or-less based on completion. These will count toward the participation part of your grade (5%). 
 
 ## Course materials
 
