@@ -149,6 +149,6 @@ More details to come.
   * Tues (4/25). 
   * Thurs (4/27). 
 
-[meme1](https://bena-tshishiku.github.io/files/courses/2023-spring/123-meme1.jpeg)
-[meme2](https://bena-tshishiku.github.io/files/courses/2023-spring/123-meme2.jpeg)
-[meme3](https://bena-tshishiku.github.io/files/courses/2023-spring/123-meme3.jpeg)
+![image](https://bena-tshishiku.github.io/files/courses/2023-spring/123-meme1.jpeg)
+![image](https://bena-tshishiku.github.io/files/courses/2023-spring/123-meme2.jpeg)
+![image](https://bena-tshishiku.github.io/files/courses/2023-spring/123-meme3.jpeg)
