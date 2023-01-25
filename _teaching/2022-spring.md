@@ -80,3 +80,4 @@ Ghys-Ranicki, _Signatures in algebra, topology, and dynamics_
 * Week 15
   * Tuesday 5/3: Fixed points of surface diffeomorphism, Arnold conjecture
   * Thursday 5/5: Conley-Zehnder index, Floer theory, Arnold conjecture (lecture by Kenny Blakey)
+
