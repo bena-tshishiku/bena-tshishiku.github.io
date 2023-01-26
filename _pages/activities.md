@@ -22,8 +22,11 @@ Some past and upcoming travel/talks:
 
 **2023** \
 June 12-16. Groups around 3-manifolds (Montreal)\
+May 29-Jun 2. Interactions between Algebraic Topology and Geometric Group Theory (Oaxaca)\
 Apr 27-28. Visiting SUNY Buffalo \
-Mar 18-19. AMS sectional meeting (GaTech)
+Apr 15-16. Mid-Atlantic topology conference\
+Mar 18-19. AMS sectional meeting (GaTech)\
+Mar 16-18. Spring topology and dynamics conference (virtual)
 
 **2022** \
 Nov 10. BC Geom-Top seminar\
@@ -40,7 +43,7 @@ Jun 15-17. Curt McMullen birthday conference (Boston)\
 May 30-Jun 9. visiting Mauricio Bustamante (Santiago, Chile)\
 Mar 26-27. AMS Sectional (Purdue)\
 Mar 9-13. Spring topology and dynamics conference (Waco)\
-Feb 22-25. Visiting UChicago \
+Feb 22-25. Visiting UChicago
 
 **2021** \
 Dec 3. Michigan geometry seminar\
@@ -52,7 +55,7 @@ Oct 5. CUNY G&T seminar\
 May 12-15. Spring topology and dynamics conference\
 Apr 8. Wesleyan colloquium\
 Mar 4. Rice colloquium\
-Feb 18. Michigan topology seminar \
+Feb 18. Michigan topology seminar
 
 **2020** \
 Dec 4-5. GaTech Topology Conference\
@@ -69,7 +72,7 @@ April 4-5. AMS Sectional (Purdue). _Moved online_\
 Mar 21-22. AMS Sectional (Tufts). _Canceled_ \
 Mar 19-21. Spring topology and dynamics conference (Murray State). Canceled \
 Mar 7-8. Redbud topology conference (University of Arkansas)\
-Feb 7. Caltech geometry seminar\
+Feb 7. Caltech geometry seminar
 
 **2019**\
 Oct 12-13. AMS Sectional (SUNY Binghamton) \
@@ -81,7 +84,7 @@ April 26-28. Redbud topology conference (U Oklahoma) \
 April 18-19. visiting Jean Lafont at OSU \
 March 25-29. Cohomology of Arithmetic Groups, Lattices and Number Theory (CIRM)\
 March 14-16. Spring topology and dynamics conference (Birmingham) \
-Feb 21-22. Michigan topology seminar\
+Feb 21-22. Michigan topology seminar
 
 **2018**\
 Nov 13. UVa geometry seminar\
@@ -101,7 +104,7 @@ March 17-18. AMS sectional (Ohio State)\
 Feb 26-Mar 2. Structures of 3-manifold groups (Luminy)\
 Feb 12. MIT topology seminar\
 Jan 12-14. Joint math meetings (San Diego)\
-Jan 8. Irvine topology seminar\
+Jan 8. Irvine topology seminar
 
 **2017**\
 Dec 8-11. CMS Winter Meeting (Waterloo) \
@@ -119,4 +122,4 @@ April 28. Madison geometry seminar\
 April 11. Boston College geometry seminar\
 March 23-25. G^3 conference (Pensacola) \
 March 20. MIT topology seminar\
-March 8-11. Spring Topology and Dynamics Conference (Jersey City)\
+March 8-11. Spring Topology and Dynamics Conference (Jersey City)
