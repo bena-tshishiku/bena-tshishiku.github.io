@@ -12,6 +12,7 @@ location: "Providence, USA"
 
 * (1/23) Join the course campuswire page via this [link](https://campuswire.com/p/GCDD00E4D). The access code is 9665. We will use this for asynchronous discussions (e.g. questions about homework). 
 * (1/26) The first homework assignment is posted below and due Friday 2/3. 
+* (1/28) I will have an office hour Tuesday 12:30-2p. There will be TA office hours later in the week (time will be announced soon). 
 
 ## Course information
 This is an undergraduate course in the study of graphs. Graphs appear all over the place: both in pure and applied mathematics as well as other sciences, such as chemistry, physics, computer science, and linguistics. We will focus on the theoretical aspects of graph theory, although we will also discuss some applications. 
