@@ -90,10 +90,10 @@ More details to come.
 ## Tentative schedule (subject to change)
 
 * Week 1: Introduction
-  * Thurs (1/26). 
+  * Thurs (1/26). Graphs, vertex degrees, isomorphism, subgraphs, what is graph theory?
 
 * Week 2: Fundamental concepts
-  * Tues (1/31). 
+  * Tues (1/31). Degree sequences, bipartite graphs
   * Thurs (2/2). 
   * Fri (2/3). HW1 due
 
