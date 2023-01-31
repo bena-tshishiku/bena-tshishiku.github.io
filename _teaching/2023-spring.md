@@ -90,7 +90,7 @@ More details to come.
 ## Tentative schedule (subject to change)
 
 * Week 1: Introduction
-  * Thurs (1/26). Graphs, vertex degrees, isomorphism, subgraphs, what is graph theory?
+  * Thurs (1/26). Graphs, vertex degrees, isomorphism, subgraphs, what is graph theory? [notes](https://bena-tshishiku.github.io/files/courses/2023-spring/lecture1.pdf)
 
 * Week 2: Fundamental concepts
   * Tues (1/31). Degree sequences, bipartite graphs
