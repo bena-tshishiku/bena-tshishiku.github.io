@@ -14,7 +14,7 @@ location: "Providence, USA"
 * (1/26) The first homework assignment is posted below and due Friday 2/3. 
 * (1/28) Office hours this week:
   * Bena: Tuesday 12:30-2p in Kassar 304 (my office)
-  * Noah: Wednesday 3-4p in BH 153
+  * Noah: Wednesday 3-4p in BH 155
   * Eli: Friday 2-3p location TBD
 
 ## Course information
