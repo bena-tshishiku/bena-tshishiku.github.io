@@ -11,11 +11,11 @@ location: "Providence, USA"
 ## Announcements
 
 * (1/23) Join the course campuswire page via this [link](https://campuswire.com/p/GCDD00E4D). The access code is 9665. We will use this for asynchronous discussions (e.g. questions about homework). 
-* (1/26) The first homework assignment is posted below and due Friday 2/3. 
+* (1/26) The first homework assignment is posted below and due Friday 2/3 by 5pm on Gradescope.
 * (1/28) Office hours this week:
   * Bena: Tuesday 12:30-2p in Kassar 304 (my office)
   * Noah: Wednesday 3-4p in BH 155
-  * Eli: Friday 2-3p location TBD
+  * Eli: Friday 2-3p in Foxboro auditorium (in Kassar)
 
 ## Course information
 This is an undergraduate course in the study of graphs. Graphs appear all over the place: both in pure and applied mathematics as well as other sciences, such as chemistry, physics, computer science, and linguistics. We will focus on the theoretical aspects of graph theory, although we will also discuss some applications. 
