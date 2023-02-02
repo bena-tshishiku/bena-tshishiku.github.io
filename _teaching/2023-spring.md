@@ -10,10 +10,7 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (1/23) Join the course __campuswire page__ via this [link](https://campuswire.com/p/GCDD00E4D). The access code is 9665. We will use this for asynchronous discussions (e.g. questions about homework). 
-* (1/28) __Office hours__ this week:
-  * Bena: Tuesday 12:30-2p in Kassar 304 (my office)
-  * Noah: Wednesday 3-4p in BH 155
+* (1/28) Remaining __office hours__ this week:
   * Eli: Friday 2-3p in Foxboro auditorium (in Kassar)
 * Please use this [when2meet](https://tinyurl.com/math123officehours) to help __determine future office hours__. 
 
@@ -84,7 +81,7 @@ Occasionally, we may have small assignments or quizzes in class, which are grade
 
 ## Course materials
 
-* 
+* Join the course __campuswire page__ via this [link](https://campuswire.com/p/GCDD00E4D). The access code is 9665. We will use this for asynchronous discussions (e.g. questions about homework). 
 
 ## Final Project
 More details to come. 
