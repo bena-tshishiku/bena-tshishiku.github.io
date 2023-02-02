@@ -1,0 +1,108 @@
+\documentclass[11pt]{article}
+
+\author{Math 123}
+\date{Due February 10, 2023 by 5pm} 
+\title{Homework 2}
+
+\usepackage{graphicx,xypic}
+\usepackage{amsthm}
+\usepackage{amsmath,amssymb}
+\usepackage{amsfonts}
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage[shortlabels]{enumitem}
+\newtheorem{problem}{Problem}
+\renewcommand*{\proofname}{{\color{blue}Solution}}
+
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\rhead{Math 123, Homework 2}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1.25ex}
+
+
+\begin{document}
+
+\maketitle
+
+% You are required to put your name here:
+{\bf\Large Name:} 
+
+
+\vspace{.3in}
+Topics covered: bipartite graphs, Euler tours, degree sum formula, trees
+
+Instructions: 
+\begin{itemize}
+\item This assignment must be submitted on Gradescope by the due date. 
+\item If you collaborate with other students (which is encouraged!), please mention this near the corresponding problems. You must type your solutions alone. 
+\item If you are stuck, please ask for help (from me, a TA, a classmate). Use Campuswire!  
+\end{itemize}
+\pagebreak 
+
+
+
+\begin{problem}
+The complete bipartite graph $K_{n,m}$ is the graph with $n+m$ vertices $v_1,\ldots,v_n$ and $u_1,\ldots,u_m$ and edges $\{v_i,u_j\}$ for each $1\le i\le n$ and $1\le j\le m$. Determine the values $n,m$ so that $K_{n,m}$ is Eulerian.
+\end{problem}
+
+\begin{proof}
+
+\end{proof} 
+
+\begin{problem}
+Prove or disprove: 
+\begin{enumerate}[(a)]
+\item Every Eulerian bipartite graph has an even number of edges. 
+\item Every Eulerian graph with an even number of vertices has an even number of edges. 
+\end{enumerate} 
+\end{problem}
+
+\begin{proof}
+
+
+\end{proof}
+
+
+\begin{problem}Prove that every tree has at least two vertices of degree $1$. Classify trees with exactly two vertices of degree $1$. \footnote{Useful fact: a tree with $n$ vertices has $n-1$ edges. We will show this in class next week.}
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\begin{problem}
+Determine the number of graphs with $7$-vertices, each of degree $4$ (up to isomorphism). \footnote{Hint: consider the complement. Your solution should not be long. Use may want to use the previous problem.} 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\begin{problem}
+Use induction on the number of edges to prove that a graph with no odd cycle is bipartite. 
+\end{problem}
+
+
+\begin{proof}
+
+\end{proof}
+
+\begin{problem}
+Suppose there are two mountain trails, each starting at sea level and ending at the same elevation. Suppose hikers $A$,$B$ start hiking these two different trails at the same time. The Mountain Climber Problem asks if it is possible for $A$ and $B$ to hike to the top of their individual trails in a way so that they have the same elevation at every time.\footnote{It is important to note that the hikers are allowed to backtrack.} We model the trails by functions $f,g:[0,1]\rightarrow[0,1]$ with $f(0)=g(0)=0$ and $f(1)=g(1)=1$. In this problem you solve the Mountain Climber Problem in the case when $f$ and $g$ are piecewise linear continuous functions.\footnote{A function $f:[0,1]\rightarrow\mathbb R$ is piecewise linear if it's possible to express $[0,1]$ as a union of finitely many intervals, so that $f$ is linear ($x\mapsto ax+b$) on each. }
+\begin{enumerate}[(a)]
+\item Consider \[Z=\{(x,y)\in[0,1]\times[0,1]: f(x)=g(y)\}\]
+Assuming $f,g$ are piecewise linear, determine the local picture near $(x,y)$ in $Z$, considering cases based on the local pictures of $f$ and $g$ near $x$ and $y$, respectively.
+\item Observe that $Z$ can be given the structure of a graph $G$. Show that $G$ has exactly two vertices of odd degree. Deduce that there is a path in $G$ from $(0,0)$ to $(1,1)$.
+\end{enumerate} 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+
+
+\end{document}
