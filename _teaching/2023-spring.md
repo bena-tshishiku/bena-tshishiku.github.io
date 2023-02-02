@@ -10,12 +10,12 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (1/23) Join the course campuswire page via this [link](https://campuswire.com/p/GCDD00E4D). The access code is 9665. We will use this for asynchronous discussions (e.g. questions about homework). 
-* (1/26) The first homework assignment is posted below and due Friday 2/3 by 5pm on Gradescope.
-* (1/28) Office hours this week:
+* (1/23) Join the course __campuswire page__ via this [link](https://campuswire.com/p/GCDD00E4D). The access code is 9665. We will use this for asynchronous discussions (e.g. questions about homework). 
+* (1/28) __Office hours__ this week:
   * Bena: Tuesday 12:30-2p in Kassar 304 (my office)
   * Noah: Wednesday 3-4p in BH 155
   * Eli: Friday 2-3p in Foxboro auditorium (in Kassar)
+* Please use this [when2meet](https://tinyurl.com/math123officehours) to help __determine future office hours__. 
 
 ## Course information
 This is an undergraduate course in the study of graphs. Graphs appear all over the place: both in pure and applied mathematics as well as other sciences, such as chemistry, physics, computer science, and linguistics. We will focus on the theoretical aspects of graph theory, although we will also discuss some applications. 
@@ -76,6 +76,8 @@ Late homework policy: For your homework grade, I will drop the score from your l
 
 HW1 (due 2/3). [tex file](http://bena-tshishiku.github.io/files/courses/2023-spring/123-hw1.tex) (type your solutions in this file), [image](http://bena-tshishiku.github.io/files/courses/2023-spring/petersen.pdf) (include in same folder as tex file), [pdf](http://bena-tshishiku.github.io/files/courses/2023-spring/123-hw1.pdf)
 
+HW2 (due 2/10). [tex file](http://bena-tshishiku.github.io/files/courses/2023-spring/123-hw2.tex)
+
 ## Participation
 
 Occasionally, we may have small assignments or quizzes in class, which are graded more-or-less based on completion. These will count toward the participation part of your grade (5%). 
@@ -94,7 +96,7 @@ More details to come.
 
 * Week 2: Fundamental concepts
   * Tues (1/31). Degree sequences, bipartite graphs
-  * Thurs (2/2). 
+  * Thurs (2/2). Bipartite graphs, Eulerian graphs, counting trees
   * Fri (2/3). HW1 due
 
 * Week 3: Trees
