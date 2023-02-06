@@ -10,9 +10,8 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (1/28) Remaining __office hours__ this week:
-  * Eli: Friday 2-3p in Foxboro auditorium (in Kassar)
-* Please use this [when2meet](https://tinyurl.com/math123officehours) to help __determine future office hours__. 
+* (2/3) __HW2__ is posted below and is due Friday at 5p. 
+* (2/6) __Office hours__ will be announced soon. 
 
 ## Course information
 This is an undergraduate course in the study of graphs. Graphs appear all over the place: both in pure and applied mathematics as well as other sciences, such as chemistry, physics, computer science, and linguistics. We will focus on the theoretical aspects of graph theory, although we will also discuss some applications. 
