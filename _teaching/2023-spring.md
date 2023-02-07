@@ -14,7 +14,7 @@ location: "Providence, USA"
 * (2/6) __Office hours__ for the semester
   * Noah: Tues 7-8p in BH 165
   * Bena: Wed 11-noon
-  * Eli: Fri 2-3 in Foxboro (tentative)
+  * Eli: Fri 2-3 in Foxboro 
 
 ## Course information
 This is an undergraduate course in the study of graphs. Graphs appear all over the place: both in pure and applied mathematics as well as other sciences, such as chemistry, physics, computer science, and linguistics. We will focus on the theoretical aspects of graph theory, although we will also discuss some applications. 
