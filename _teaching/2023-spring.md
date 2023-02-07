@@ -12,7 +12,7 @@ location: "Providence, USA"
 
 * (2/3) __HW2__ is posted below and is due Friday at 5p. 
 * (2/6) __Office hours__ for the semester
-  * Noah: Tues 7-8p in BH 165
+  * Noah: Tues 7-8p in Page-Robinson 402
   * Bena: Wed 11-noon
   * Eli: Fri 2-3 in Foxboro 
 
