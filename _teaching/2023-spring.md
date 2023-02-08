@@ -99,8 +99,8 @@ More details to come.
   * Fri (2/3). HW1 due
 
 * Week 3: Trees
-  * Tues (2/7). 
-  * Thurs (2/9).
+  * Tues (2/7). Characterization of trees, Cayley's theorem
+  * Thurs (2/9). Cayley's theorem, spanning trees
   * Fri (2/10). HW2 due
 
 * Week 4: Matchings
