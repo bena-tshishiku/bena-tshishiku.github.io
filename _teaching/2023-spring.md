@@ -14,7 +14,7 @@ location: "Providence, USA"
 * (2/6) __Office hours__ for the semester
   * Noah: Tues 7-8p in Page-Robinson 402
   * Bena: Wed 11-noon (my office)
-  * Eli: Fri 2-3 in Foxboro 
+  * Eli: Fri 2-3 in Kassar 205  
 
 ## Course information
 This is an undergraduate course in the study of graphs. Graphs appear all over the place: both in pure and applied mathematics as well as other sciences, such as chemistry, physics, computer science, and linguistics. We will focus on the theoretical aspects of graph theory, although we will also discuss some applications. 
@@ -100,7 +100,7 @@ More details to come.
 
 * Week 3: Trees
   * Tues (2/7). Characterization of trees, Cayley's theorem
-  * Thurs (2/9). Cayley's theorem, spanning trees
+  * Thurs (2/9). Cayley's theorem, spanning trees, Bridg-it
   * Fri (2/10). HW2 due
 
 * Week 4: Matchings
