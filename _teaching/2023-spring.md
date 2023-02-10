@@ -10,7 +10,7 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (2/3) __HW2__ is posted below and is due Friday at 5p. 
+* (2/9) __HW3__ is posted below.
 * (2/6) __Office hours__ for the semester
   * Noah: Tues 7-8p in Page-Robinson 402
   * Bena: Wed 11-noon (my office)
@@ -76,6 +76,8 @@ Late homework policy: For your homework grade, I will drop the score from your l
 HW1 (due 2/3). [tex file](http://bena-tshishiku.github.io/files/courses/2023-spring/123-hw1.tex) (type your solutions in this file), [image](http://bena-tshishiku.github.io/files/courses/2023-spring/petersen.pdf) (include in same folder as tex file), [solutions](http://bena-tshishiku.github.io/files/courses/2023-spring/123-hw1-solutions.pdf), [student solutions](http://bena-tshishiku.github.io/files/courses/2023-spring/hw1-student.pdf)
 
 HW2 (due 2/10). [tex file](http://bena-tshishiku.github.io/files/courses/2023-spring/123-hw2.tex)
+
+HW3 (due 2/17). [tex file](http://bena-tshishiku.github.io/files/courses/2023-spring/123-hw3.tex)
 
 ## Participation
 
