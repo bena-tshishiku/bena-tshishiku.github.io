@@ -10,7 +10,6 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (2/9) __HW3__ is posted below.
 * (2/6) __Office hours__ for the semester
   * Noah: Tues 7-8p in Page-Robinson 402
   * Bena: Wed 11-noon (my office)
