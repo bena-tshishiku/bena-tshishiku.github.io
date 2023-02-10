@@ -1,0 +1,109 @@
+\documentclass[11pt]{article}
+
+\author{Math 123}
+\date{Due February 17, 2023 by 5pm} 
+\title{Homework 3}
+
+\usepackage{graphicx,xypic}
+\usepackage{amsthm}
+\usepackage{amsmath,amssymb}
+\usepackage{amsfonts}
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage[shortlabels]{enumitem}
+\newtheorem{problem}{Problem}
+\renewcommand*{\proofname}{{\color{blue}Solution}}
+
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\rhead{Math 123, Homework 3}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1.25ex}
+
+
+\begin{document}
+
+\maketitle
+
+% You are required to put your name here:
+{\bf\Large Name:} 
+
+
+\vspace{.3in}
+Topics covered: trees, Pr\"ufer codes, spanning trees, counting graphs
+
+Instructions: 
+\begin{itemize}
+\item This assignment must be submitted on Gradescope by the due date. 
+\item If you collaborate with other students (which is encouraged!), please mention this near the corresponding problems. You must type your solutions alone. 
+\item If you are stuck, please ask for help (from me, a TA, a classmate). Use Campuswire!  
+\end{itemize}
+\pagebreak 
+
+
+
+\begin{problem}
+Determine which trees have Pr\"ufer codes that 
+\begin{enumerate}[(a)]
+\item contain only one value;
+\item contain exactly two values;
+\item have distinct values. 
+\end{enumerate} 
+You should explain your answer, but you don't need to give careful proof. 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+
+\begin{problem}
+Prove that if $T_1,\ldots,T_k$ are pairwise-intersecting subtrees of a tree $T$, then $T$ has a vertex that belongs to all of $T_1,\ldots,T_k$. \footnote{Remark: This is a graph-theoretic analog of Helly's theorem.} \footnote{Hint: use induction on $k$.}
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\begin{problem}
+Let $G_n$ be the graph whose vertices are orderings of the elements of $\{1,\ldots,n\}$ with $(a_1,\ldots,a_n)$ and $(b_1,\ldots,b_n)$ adjacent if they differ by switching a pair of adjacent entries.\footnote{Note: Here the sequence $(a_1,\ldots,a_n)$ does not have repetition. Each element of $\{1,\ldots,n\}$ appears exactly once.}
+\begin{enumerate}[(a)]
+\item The graph $G_3$ is isomorphic to a familiar graph. Which one is it? 
+\item Show that $G_n$ is connected. \footnote{Tangential remark: here you are proving that a certain collection of permutations generate the symmetric group.} 
+\end{enumerate} 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+
+\begin{problem}
+Use Cayley's formula to prove that the graph obtained from $K_n$ by deleting an edge has $(n-2)n^{n-3}$ spanning trees. 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\begin{problem}
+Call a graph ``even" if every vertex has even degree. Prove that the number of even graphs with vertex set $\{1,\ldots,n\}$ is $2^{{n-1\choose 2}}$. \footnote{Hint: establish a bijection to the set of all graphs with vertex set $\{1,\ldots,n-1\}$. }
+\end{problem}
+
+
+\begin{proof}
+
+\end{proof}
+
+
+\begin{problem}
+Consider an alternative version of Bridg-it, where the player that forms a path connecting their ends loses. Give a strategy that shows that Player $2$ can always win. \footnote{You may use the following fact, which is similar to one we proved: Given spanning trees, $T,T'\subset G$ and an edge $e$ of $T$ but not $T'$, there exists an edge of $e'$ of $T'$ but not $T$ such that $T'-e'+e$ is a spanning tree. (Note the difference between this and the statement we proved in class!)}
+\end{problem} 
+
+\begin{proof}
+
+\end{proof}
+
+\end{document}
