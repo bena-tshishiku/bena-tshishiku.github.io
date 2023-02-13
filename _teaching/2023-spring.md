@@ -75,7 +75,7 @@ Late homework policy: For your homework grade, I will drop the score from your l
 
 HW1 (due 2/3). [tex file](http://bena-tshishiku.github.io/files/courses/2023-spring/123-hw1.tex) (type your solutions in this file), [image](http://bena-tshishiku.github.io/files/courses/2023-spring/petersen.pdf) (include in same folder as tex file), [solutions](http://bena-tshishiku.github.io/files/courses/2023-spring/123-hw1-solutions.pdf), [student solutions](http://bena-tshishiku.github.io/files/courses/2023-spring/hw1-student.pdf)
 
-HW2 (due 2/10). [tex file](http://bena-tshishiku.github.io/files/courses/2023-spring/123-hw2.tex)
+HW2 (due 2/10). [tex file](http://bena-tshishiku.github.io/files/courses/2023-spring/123-hw2.tex), [solutions](http://bena-tshishiku.github.io/files/courses/2023-spring/123-hw2-solutions.pdf)
 
 HW3 (due 2/17). [tex file](http://bena-tshishiku.github.io/files/courses/2023-spring/123-hw3.tex)
 
