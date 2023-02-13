@@ -10,11 +10,8 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (2/10) __HW3__ is posted below. 
-* (2/6) __Office hours__ for the semester
-  * Noah: Tues 7-8p in Page-Robinson 402
-  * Bena: Wed 11-noon (my office)
-  * Eli: Fri 2-3 in Kassar 205  
+* (2/10) HW3 is posted below. 
+* (2/13) My office hour this week will be Wednesday 5p. This is a one-time change. 
 
 ## Course information
 This is an undergraduate course in the study of graphs. Graphs appear all over the place: both in pure and applied mathematics as well as other sciences, such as chemistry, physics, computer science, and linguistics. We will focus on the theoretical aspects of graph theory, although we will also discuss some applications. 
@@ -55,7 +52,10 @@ homework 35%, midterm 30%, final project 30%, participation 5%
 
 Lectures: Tu-Th 9-10:30am 
 
-Office hours: TBD
+Office hours: 
+* Noah: Tues 7-8p in Page-Robinson 402
+* Bena: Wed 11-noon (my office)
+* Eli: Fri 2-3 in Kassar 205  
 
 Important dates: 
 * Midterm (take home): due Friday, March 24 by 5pm. 
