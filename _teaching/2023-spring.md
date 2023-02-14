@@ -96,17 +96,17 @@ More details to come.
   * Thurs (1/26). Graphs, vertex degrees, isomorphism, subgraphs, what is graph theory? [notes](https://bena-tshishiku.github.io/files/courses/2023-spring/lecture1.pdf) (just this once)
 
 * Week 2: Fundamental concepts
-  * Tues (1/31). Degree sequences, bipartite graphs
-  * Thurs (2/2). Bipartite graphs, Eulerian graphs, counting trees
+  * Tues (1/31). degree sequences, bipartite graphs
+  * Thurs (2/2). bipartite graphs, Eulerian graphs, counting trees
   * Fri (2/3). HW1 due
 
 * Week 3: Trees
-  * Tues (2/7). Characterization of trees, Cayley's theorem
+  * Tues (2/7). characterization of trees, Cayley's theorem
   * Thurs (2/9). Cayley's theorem, spanning trees, Bridg-it
   * Fri (2/10). HW2 due
 
 * Week 4: Matchings
-  * Tues (2/14).  
+  * Tues (2/14). matchings, Hall's theorem, vertex covers
   * Thurs (2/16). 
   * Fri (2/17). HW3 due
 
