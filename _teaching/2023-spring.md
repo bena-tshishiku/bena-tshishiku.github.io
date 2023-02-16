@@ -11,7 +11,6 @@ location: "Providence, USA"
 ## Announcements
 
 * (2/10) HW3 is posted below. 
-* (2/13) My office hour this week will be Wednesday 5p. This is a one-time change. 
 
 ## Course information
 This is an undergraduate course in the study of graphs. Graphs appear all over the place: both in pure and applied mathematics as well as other sciences, such as chemistry, physics, computer science, and linguistics. We will focus on the theoretical aspects of graph theory, although we will also discuss some applications. 
@@ -79,6 +78,8 @@ HW2 (due 2/10). [tex file](http://bena-tshishiku.github.io/files/courses/2023-sp
 
 HW3 (due 2/17). [tex file](http://bena-tshishiku.github.io/files/courses/2023-spring/123-hw3.tex)
 
+HW4 (due 2/24). [tex file](http://bena-tshishiku.github.io/files/courses/2023-spring/123-hw4.tex), [image](http://bena-tshishiku.github.io/files/courses/2023-spring/matchings.pdf)
+
 ## Participation
 
 Occasionally, we may have small assignments or quizzes in class, which are graded more-or-less based on completion. These will count toward the participation part of your grade (5%). 
@@ -107,7 +108,7 @@ More details to come.
 
 * Week 4: Matchings
   * Tues (2/14). matchings, Hall's theorem, vertex covers
-  * Thurs (2/16). 
+  * Thurs (2/16). maximum matchings, Konig's theorem, Hall's theorem
   * Fri (2/17). HW3 due
 
 * Week 5: 
