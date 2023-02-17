@@ -10,6 +10,8 @@ location: "Providence, USA"
 
 ## Announcements
 
+
+* (2/17) __Quick poll__ [here](https://forms.gle/BcXbxS3f4yCs7jzA7). Please tell me how the course is going for you so far, so we can make any necessary adjustments. I would like to hear from everyone! 
 * (2/10) HW3 is posted below. 
 
 ## Course information
