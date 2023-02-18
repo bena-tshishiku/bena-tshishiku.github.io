@@ -153,7 +153,7 @@ More details to come.
 * Week 13: 
   * Tues (4/18). 
   * Thurs (4/20). 
-  * Fri (4/21). HW10 due
+  * Fri (4/21). HW10 due 
 
 * Week 14: 
   * Tues (4/25). 
