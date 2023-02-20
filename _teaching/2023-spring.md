@@ -95,20 +95,20 @@ More details to come.
 
 ## Tentative schedule (subject to change)
 
-* Week 1: Introduction
+* Week 1: Introduction (West 1.1-1.3) 
   * Thurs (1/26). Graphs, vertex degrees, isomorphism, subgraphs, what is graph theory? [notes](https://bena-tshishiku.github.io/files/courses/2023-spring/lecture1.pdf) (just this once)
 
-* Week 2: Fundamental concepts
+* Week 2: Fundamental concepts (West 1.1-1.3) 
   * Tues (1/31). degree sequences, bipartite graphs
   * Thurs (2/2). bipartite graphs, Eulerian graphs, counting trees
   * Fri (2/3). HW1 due
 
-* Week 3: Trees
+* Week 3: Trees (West 2.1-2.2) 
   * Tues (2/7). characterization of trees, Cayley's theorem
   * Thurs (2/9). Cayley's theorem, spanning trees, Bridg-it
   * Fri (2/10). HW2 due
 
-* Week 4: Matchings
+* Week 4: Matchings (West 3.1) 
   * Tues (2/14). matchings, Hall's theorem, vertex covers
   * Thurs (2/16). maximum matchings, Konig's theorem, Hall's theorem
   * Fri (2/17). HW3 due
@@ -118,34 +118,34 @@ More details to come.
   * Thurs (2/23). 
   * Fri (2/24). HW4 due
 
-* Week 6: Connectivity
+* Week 6: Connectivity (West 4.1, 4.3) 
   * Tues (2/28). 
   * Thurs (3/2). 
   * Fri (3/3). HW5 due
 
-* Week 7: Coloring
+* Week 7: Coloring (West 5.1-5.3) 
   * Tues (3/7). 
   * Thurs (3/9).
   * Fri (3/10). HW6 due
 
-* Week 8: Planarity
+* Week 8: Planarity (West 6.1-6.2)
   * Tues (3/14). 
   * Thurs (3/16). 
   * Fri (3/17). HW7 due
 
-* Week 9: Ramsey theory
+* Week 9: Ramsey theory (West 8.3) 
   * Tues (3/21). 
   * Thurs (3/23). 
   * Fri (3/24). Take-home midterm due at 5pm. 
 
 * Week 10: Spring Break
 
-* Week 11: Random graphs
+* Week 11: Random graphs (West 8.5) 
   * Tues (4/4). 
   * Thurs (4/6). 
   * Fri (4/7). HW8 due
 
-* Week 12: Spectral graph theory
+* Week 12: Spectral graph theory (West 8.6) 
   * Tues (4/11). 
   * Thurs (4/13). 
   * Fri (4/14). HW9 due
