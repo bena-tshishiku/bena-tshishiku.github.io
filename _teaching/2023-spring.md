@@ -75,13 +75,13 @@ Late homework policy: For your homework grade, I will drop the score from your l
 
 ### Homework assignments. 
 
-HW1 (due 2/3). [tex file](http://bena-tshishiku.github.io/files/courses/2023-spring/123-hw1.tex) (type your solutions in this file), [image](http://bena-tshishiku.github.io/files/courses/2023-spring/petersen.pdf) (include in same folder as tex file), [solutions](http://bena-tshishiku.github.io/files/courses/2023-spring/123-hw1-solutions.pdf), [student solutions](http://bena-tshishiku.github.io/files/courses/2023-spring/hw1-student.pdf)
+HW1 (due 2/3). [tex file](https://bena-tshishiku.github.io/files/courses/2023-spring/123-hw1.tex) (type your solutions in this file), [image](http://bena-tshishiku.github.io/files/courses/2023-spring/petersen.pdf) (include in same folder as tex file), [solutions](http://bena-tshishiku.github.io/files/courses/2023-spring/123-hw1-solutions.pdf), [student solutions](http://bena-tshishiku.github.io/files/courses/2023-spring/hw1-student.pdf)
 
-HW2 (due 2/10). [tex file](http://bena-tshishiku.github.io/files/courses/2023-spring/123-hw2.tex), [solutions](http://bena-tshishiku.github.io/files/courses/2023-spring/123-hw2-solutions.pdf), [student solutions](http://bena-tshishiku.github.io/files/courses/2023-spring/hw2-student.pdf)
+HW2 (due 2/10). [tex file](https://bena-tshishiku.github.io/files/courses/2023-spring/123-hw2.tex), [solutions](http://bena-tshishiku.github.io/files/courses/2023-spring/123-hw2-solutions.pdf), [student solutions](http://bena-tshishiku.github.io/files/courses/2023-spring/hw2-student.pdf)
 
-HW3 (due 2/17). [tex file](http://bena-tshishiku.github.io/files/courses/2023-spring/123-hw3.tex)
+HW3 (due 2/17). [tex file](https://bena-tshishiku.github.io/files/courses/2023-spring/123-hw3.tex)
 
-HW4 (due 2/24). [tex file](http://bena-tshishiku.github.io/files/courses/2023-spring/123-hw4.tex), [image](http://bena-tshishiku.github.io/files/courses/2023-spring/matchings.pdf); __Please take a minute to complete this feedback__ [poll](https://forms.gle/BcXbxS3f4yCs7jzA7)  
+HW4 (due 2/24). [tex file](https://bena-tshishiku.github.io/files/courses/2023-spring/123-hw4.tex), [image](http://bena-tshishiku.github.io/files/courses/2023-spring/matchings.pdf); __Please take a minute to complete this feedback__ [poll](https://forms.gle/BcXbxS3f4yCs7jzA7)  
 
 ## Participation
 
