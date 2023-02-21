@@ -13,7 +13,7 @@ location: "Providence, USA"
 
 * (2/17) __Quick poll__ [here](https://forms.gle/BcXbxS3f4yCs7jzA7). Please tell me how the course is going for you so far, so we can make any necessary adjustments. I would like to hear from everyone! 
 * (2/17) HW4 is posted below. 
-* (2/20) __Noah's Tuesday office hour__ is moved to Wednesday 7-8p. Room will be confirmed soon. 
+* (2/20) __Noah's Tuesday office hour__ is moved to Wednesday 7-8p in Page-Robinson 401. 
 
 ## Course information
 This is an undergraduate course in the study of graphs. Graphs appear all over the place: both in pure and applied mathematics as well as other sciences, such as chemistry, physics, computer science, and linguistics. We will focus on the theoretical aspects of graph theory, although we will also discuss some applications. 
