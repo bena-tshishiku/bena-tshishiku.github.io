@@ -96,25 +96,25 @@ More details to come.
 
 ## Tentative schedule (subject to change)
 
-* Week 1: Introduction (West 1.1-1.3) 
+* Week 1: Introduction (West pg 1-11, 13, 34-36, 38) 
   * Thurs (1/26). Graphs, vertex degrees, isomorphism, subgraphs, what is graph theory? [notes](https://bena-tshishiku.github.io/files/courses/2023-spring/lecture1.pdf) (just this once)
 
-* Week 2: Fundamental concepts (West 1.1-1.3) 
+* Week 2: Fundamental concepts (West 19-30, 44-46) 
   * Tues (1/31). degree sequences, bipartite graphs
   * Thurs (2/2). bipartite graphs, Eulerian graphs, counting trees
   * Fri (2/3). HW1 due
 
-* Week 3: Trees (West 2.1-2.2) 
+* Week 3: Trees (West 68-71, 73-75, 81-83) 
   * Tues (2/7). characterization of trees, Cayley's theorem
   * Thurs (2/9). Cayley's theorem, spanning trees, Bridg-it
   * Fri (2/10). HW2 due
 
-* Week 4: Matchings (West 3.1) 
+* Week 4: Matchings (West 107-115) 
   * Tues (2/14). matchings, Hall's theorem, vertex covers
   * Thurs (2/16). maximum matchings, Konig's theorem, Hall's theorem
   * Fri (2/17). HW3 due
 
-* Week 5: 
+* Week 5: Matchings (West 130-132)
   * Tues (2/21). No class (university holiday)
   * Thurs (2/23). Konig's theorem, stable matchings, Gale-Shapely
   * Fri (2/24). HW4 due
