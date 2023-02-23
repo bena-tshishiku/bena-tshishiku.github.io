@@ -81,7 +81,7 @@ HW2 (due 2/10). [tex file](https://bena-tshishiku.github.io/files/courses/2023-s
 
 HW3 (due 2/17). [tex file](https://bena-tshishiku.github.io/files/courses/2023-spring/123-hw3.tex), [solutions](http://bena-tshishiku.github.io/files/courses/2023-spring/123-hw3-solutions.pdf)
 
-HW4 (due 2/24). [tex file](https://bena-tshishiku.github.io/files/courses/2023-spring/123-hw4.tex), [image](http://bena-tshishiku.github.io/files/courses/2023-spring/matchings.pdf); __Please take a minute to complete this feedback__ [poll](https://forms.gle/BcXbxS3f4yCs7jzA7)  
+HW4 (due 2/24). [tex file](https://bena-tshishiku.github.io/files/courses/2023-spring/123-hw4.tex), [image](http://bena-tshishiku.github.io/files/courses/2023-spring/matchings.pdf)
 
 ## Participation
 
