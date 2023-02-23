@@ -82,6 +82,8 @@ HW3 (due 2/17). [tex file](https://bena-tshishiku.github.io/files/courses/2023-s
 
 HW4 (due 2/24). [tex file](https://bena-tshishiku.github.io/files/courses/2023-spring/123-hw4.tex), [image](http://bena-tshishiku.github.io/files/courses/2023-spring/matchings.pdf)
 
+HW5 (due 2/24). [tex file](https://bena-tshishiku.github.io/files/courses/2023-spring/123-hw5.tex), [image](http://bena-tshishiku.github.io/files/courses/2023-spring/stable-match.pdf)
+
 ## Participation
 
 Occasionally, we may have small assignments or quizzes in class, which are graded more-or-less based on completion. These will count toward the participation part of your grade (5%). 
