@@ -10,10 +10,9 @@ location: "Providence, USA"
 
 ## Announcements
 
-
-* (2/17) Quick poll [here](https://forms.gle/BcXbxS3f4yCs7jzA7). Please tell me how the course is going for you so far, so we can make any necessary adjustments. I would like to hear from everyone! 
 * (2/17) HW4 is posted below. 
 * (2/23) Some comments on the feedback [here](https://docs.google.com/document/d/1t-uGUi8qUdifml4mkHPOv0g5Q24RYjExHp-2QgYCjV0/edit?usp=sharing)
+* (2/23) __Homework deadline__ has permanently been moved to midnight (11:59pm) Friday.
 
 ## Course information
 This is an undergraduate course in the study of graphs. Graphs appear all over the place: both in pure and applied mathematics as well as other sciences, such as chemistry, physics, computer science, and linguistics. We will focus on the theoretical aspects of graph theory, although we will also discuss some applications. 
