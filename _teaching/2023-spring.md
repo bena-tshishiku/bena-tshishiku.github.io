@@ -11,9 +11,9 @@ location: "Providence, USA"
 ## Announcements
 
 
-* (2/17) __Quick poll__ [here](https://forms.gle/BcXbxS3f4yCs7jzA7). Please tell me how the course is going for you so far, so we can make any necessary adjustments. I would like to hear from everyone! 
+* (2/17) Quick poll [here](https://forms.gle/BcXbxS3f4yCs7jzA7). Please tell me how the course is going for you so far, so we can make any necessary adjustments. I would like to hear from everyone! 
 * (2/17) HW4 is posted below. 
-* (2/20) __Noah's Tuesday office hour__ is moved to Wednesday 7-8p in Page-Robinson 401 (this week only).
+* (2/23) Some comments on the feedback [here](https://docs.google.com/document/d/1t-uGUi8qUdifml4mkHPOv0g5Q24RYjExHp-2QgYCjV0/edit?usp=sharing)
 
 ## Course information
 This is an undergraduate course in the study of graphs. Graphs appear all over the place: both in pure and applied mathematics as well as other sciences, such as chemistry, physics, computer science, and linguistics. We will focus on the theoretical aspects of graph theory, although we will also discuss some applications. 
@@ -116,7 +116,7 @@ More details to come.
 
 * Week 5: 
   * Tues (2/21). No class (university holiday)
-  * Thurs (2/23). 
+  * Thurs (2/23). Konig's theorem, stable matchings, Gale-Shapely
   * Fri (2/24). HW4 due
 
 * Week 6: Connectivity (West 4.1, 4.3) 
