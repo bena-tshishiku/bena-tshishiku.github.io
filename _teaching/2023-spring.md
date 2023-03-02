@@ -81,7 +81,9 @@ HW3 (due 2/17). [tex file](https://bena-tshishiku.github.io/files/courses/2023-s
 
 HW4 (due 2/24). [tex file](https://bena-tshishiku.github.io/files/courses/2023-spring/123-hw4.tex), [image](http://bena-tshishiku.github.io/files/courses/2023-spring/matchings.pdf)
 
-HW5 (due 2/24). [tex file](https://bena-tshishiku.github.io/files/courses/2023-spring/123-hw5.tex), [image](http://bena-tshishiku.github.io/files/courses/2023-spring/stable-match.pdf)
+HW5 (due 3/3). [tex file](https://bena-tshishiku.github.io/files/courses/2023-spring/123-hw5.tex), [image](http://bena-tshishiku.github.io/files/courses/2023-spring/stable-match.pdf)
+
+HW6 (due 3/10). [tex file](https://bena-tshishiku.github.io/files/courses/2023-spring/123-hw6.tex)
 
 ## Participation
 
@@ -119,7 +121,7 @@ More details to come.
   * Thurs (2/23). Konig's theorem, stable matchings, Gale-Shapely
   * Fri (2/24). HW4 due
 
-* Week 6: Connectivity (West 4.1, 4.3) 
+* Week 6: Connectivity (West 149-150, 167-168, 176-181, 183) 
   * Tues (2/28). vertex cut, Menger's theorem, flows on networks, matrix-tree theorem
   * Thurs (3/2). Menger's theorem, Ford-Fulkerson, sports elimination
   * Fri (3/3). HW5 due
