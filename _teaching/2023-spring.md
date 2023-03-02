@@ -120,8 +120,8 @@ More details to come.
   * Fri (2/24). HW4 due
 
 * Week 6: Connectivity (West 4.1, 4.3) 
-  * Tues (2/28). 
-  * Thurs (3/2). 
+  * Tues (2/28). vertex cut, Menger's theorem, flows on networks, matrix-tree theorem
+  * Thurs (3/2). Menger's theorem, Ford-Fulkerson, sports elimination
   * Fri (3/3). HW5 due
 
 * Week 7: Coloring (West 5.1-5.3) 
