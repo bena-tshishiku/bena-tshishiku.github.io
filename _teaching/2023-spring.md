@@ -11,7 +11,6 @@ location: "Providence, USA"
 ## Announcements
 
 * (2/24) HW5 is posted below. It is due next Friday at midnight. 
-* (2/23) Some comments on the feedback [here](https://docs.google.com/document/d/1t-uGUi8qUdifml4mkHPOv0g5Q24RYjExHp-2QgYCjV0/edit?usp=sharing)
 * (2/23) __Homework deadline__ has permanently been moved to Friday at midnight (11:59pm).
 
 ## Course information
