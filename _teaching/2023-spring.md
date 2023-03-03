@@ -138,7 +138,7 @@ More details to come.
 
 * Week 9: Ramsey theory (West 8.3) 
   * Tues (3/21). 
-  * Thurs (3/23). 
+  * Thurs (3/23). No class (work on the midterm)
   * Fri (3/24). Take-home midterm due at 5pm. 
 
 * Week 10: Spring Break
