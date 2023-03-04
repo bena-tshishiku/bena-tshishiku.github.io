@@ -79,7 +79,7 @@ HW2 (due 2/10). [tex file](https://bena-tshishiku.github.io/files/courses/2023-s
 
 HW3 (due 2/17). [tex file](https://bena-tshishiku.github.io/files/courses/2023-spring/123-hw3.tex), [solutions](http://bena-tshishiku.github.io/files/courses/2023-spring/123-hw3-solutions.pdf), [student solutions](http://bena-tshishiku.github.io/files/courses/2023-spring/hw3-student.pdf)
 
-HW4 (due 2/24). [tex file](https://bena-tshishiku.github.io/files/courses/2023-spring/123-hw4.tex), [image](http://bena-tshishiku.github.io/files/courses/2023-spring/matchings.pdf)
+HW4 (due 2/24). [tex file](https://bena-tshishiku.github.io/files/courses/2023-spring/123-hw4.tex), [image](http://bena-tshishiku.github.io/files/courses/2023-spring/matchings.pdf), [student solutions](http://bena-tshishiku.github.io/files/courses/2023-spring/hw4-student.pdf)
 
 HW5 (due 3/3). [tex file](https://bena-tshishiku.github.io/files/courses/2023-spring/123-hw5.tex), [image](http://bena-tshishiku.github.io/files/courses/2023-spring/stable-match.pdf)
 
