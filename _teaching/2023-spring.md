@@ -10,8 +10,7 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (2/24) HW5 is posted below. It is due next Friday at midnight. 
-* (2/23) __Homework deadline__ has permanently been moved to Friday at midnight (11:59pm).
+* (3/3) HW6 is posted below. It is due next Friday at midnight. 
 
 ## Course information
 This is an undergraduate course in the study of graphs. Graphs appear all over the place: both in pure and applied mathematics as well as other sciences, such as chemistry, physics, computer science, and linguistics. We will focus on the theoretical aspects of graph theory, although we will also discuss some applications. 
@@ -23,8 +22,6 @@ This is an undergraduate course in the study of graphs. Graphs appear all over t
 * investigate connections of graph theory to different areas (combinatorics, topology, linear algebra, probability); 
 * improve your ability to read/write proofs and critique arguments; 
 * expose you to things you haven’t seen and challenge you through problem solving.
-
-
 
 ## Recommended prerequisites
 
