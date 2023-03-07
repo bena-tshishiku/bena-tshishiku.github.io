@@ -124,7 +124,7 @@ More details to come.
   * Fri (3/3). HW5 due
 
 * Week 7: Coloring (West 191-194, 204-208) 
-  * Tues (3/7). 
+  * Tues (3/7). Chromatic number, greedy coloring, Brooks' theorem, Mycielski construction, extremal problem
   * Thurs (3/9).
   * Fri (3/10). HW6 due
 
