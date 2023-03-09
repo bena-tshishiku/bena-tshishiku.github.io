@@ -131,28 +131,28 @@ More details to come.
   * Fri (3/10). HW6 due
 
 * Week 8: Planarity (West 6.1-6.2)
-  * Tues (3/14). 
+  * Tues (3/14). chromatic polynomial, planar graphs, 
   * Thurs (3/16). 
   * Fri (3/17). HW7 due
 
-* Week 9: Ramsey theory (West 8.3) 
+* Week 9: Planarity
   * Tues (3/21). 
   * Thurs (3/23). No class (work on the midterm)
   * Fri (3/24). Take-home midterm due at 5pm. 
 
 * Week 10: Spring Break
 
-* Week 11: Random graphs (West 8.5) 
+* Week 11: Ramsey theory (West 8.3) 
   * Tues (4/4). 
   * Thurs (4/6). 
   * Fri (4/7). HW8 due
 
-* Week 12: Spectral graph theory (West 8.6) 
+* Week 12: Random graphs (West 8.5) 
   * Tues (4/11). 
   * Thurs (4/13). 
   * Fri (4/14). HW9 due
 
-* Week 13: 
+* Week 13: Spectral graph theory (West 8.6) 
   * Tues (4/18). 
   * Thurs (4/20). 
   * Fri (4/21). HW10 due 
