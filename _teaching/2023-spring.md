@@ -82,6 +82,8 @@ HW5 (due 3/3). [tex file](https://bena-tshishiku.github.io/files/courses/2023-sp
 
 HW6 (due 3/10). [tex file](https://bena-tshishiku.github.io/files/courses/2023-spring/123-hw6.tex), [image](http://bena-tshishiku.github.io/files/courses/2023-spring/hw6-graph.pdf)
 
+HW7 (due 3/17). [tex file](https://bena-tshishiku.github.io/files/courses/2023-spring/123-hw7.tex), [image](http://bena-tshishiku.github.io/files/courses/2023-spring/hw7-graph.pdf)
+
 ## Participation
 
 Occasionally, we may have small assignments or quizzes in class, which are graded more-or-less based on completion. These will count toward the participation part of your grade (5%). 
