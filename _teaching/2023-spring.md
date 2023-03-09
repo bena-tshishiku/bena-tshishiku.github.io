@@ -127,7 +127,7 @@ More details to come.
 
 * Week 7: Coloring (West 191-194, 204-208) 
   * Tues (3/7). Chromatic number, greedy coloring, Brooks' theorem, Mycielski construction, extremal problem
-  * Thurs (3/9).
+  * Thurs (3/9). Turan graphs, chromatic polynomial, sudoku
   * Fri (3/10). HW6 due
 
 * Week 8: Planarity (West 6.1-6.2)
