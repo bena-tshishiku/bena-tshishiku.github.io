@@ -10,7 +10,7 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (3/3) HW6 is posted below. It is due next Friday at midnight. 
+* (3/10) HW7 is posted below. It is due next Friday at midnight. 
 
 ## Course information
 This is an undergraduate course in the study of graphs. Graphs appear all over the place: both in pure and applied mathematics as well as other sciences, such as chemistry, physics, computer science, and linguistics. We will focus on the theoretical aspects of graph theory, although we will also discuss some applications. 
