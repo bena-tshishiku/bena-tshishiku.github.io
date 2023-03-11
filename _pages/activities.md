@@ -8,13 +8,11 @@ author_profile: true
 
 {% include base_path %}
 
-## Brown Geom-Top seminar
+## Things I'm co-organizing
 
-See [here](https://www.math.brown.edu/reschwar/seminar.html).
-
-## Math circle 
-
-See [this page](https://sites.google.com/view/bumc-activities/home) for a photo album of Brown's math circle. 
+[Brown Geom-Top seminar](https://www.math.brown.edu/reschwar/seminar.html)\
+[GASTBY](https://sites.google.com/view/gatsby-spring2023/) \
+[Brown's math circle](https://sites.google.com/view/bumc-activities/home) 
 
 ## Travel 
 
