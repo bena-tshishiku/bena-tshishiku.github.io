@@ -21,10 +21,15 @@ See [this page](https://sites.google.com/view/bumc-activities/home) for a photo 
 Some past and upcoming travel/talks: 
 
 **2023** \
+July 24-28. Topics in K-theory and NCG (Buenos Aires)\
+July 17-21. Visiting Catholic University of Chile (Santiago)\
 June 12-16. Groups around 3-manifolds (Montreal)\
+June 5-9. A panorama of homotopy theory/Hopkins 65 (Oxford)\
 May 29-Jun 2. Interactions between Algebraic Topology and Geometric Group Theory (Oaxaca)\
+Maty 15-19. Dynamics rigidity and arithmetic in hyperbolic geometry (ICERM)\
 Apr 27-28. Visiting SUNY Buffalo \
 Apr 15-16. Mid-Atlantic topology conference\
+Apr 1. GATSBY conference (Yale)\
 Mar 18-19. AMS sectional meeting (GaTech)\
 Mar 16-18. Spring topology and dynamics conference (virtual)
 
