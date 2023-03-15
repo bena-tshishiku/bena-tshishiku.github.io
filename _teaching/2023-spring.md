@@ -11,8 +11,8 @@ location: "Providence, USA"
 ## Announcements
 
 * (3/10) HW7 is posted below. It is due next Friday at midnight. 
-* (3/12) **Bena's office hour** is moved to Wednesday at 5p for this week only. 
 * (3/12) The **midterm** will be released Wednesday, March 22 at 9am and due Friday at 5pm. 
+* (3/15) [Here](https://bena-tshishiku.github.io/files/courses/2023-spring/midterm-instructions.pdf) is the midterm instructions and a sample problem. 
 
 ## Course information
 This is an undergraduate course in the study of graphs. Graphs appear all over the place: both in pure and applied mathematics as well as other sciences, such as chemistry, physics, computer science, and linguistics. We will focus on the theoretical aspects of graph theory, although we will also discuss some applications. 
@@ -133,7 +133,7 @@ More details to come.
   * Fri (3/10). HW6 due
 
 * Week 8: Planarity (West 6.1-6.2)
-  * Tues (3/14). chromatic polynomial, planar graphs, 
+  * Tues (3/14). chromatic polynomial, planar graphs, Kuratowski's theorem
   * Thurs (3/16). 
   * Fri (3/17). HW7 due
 
