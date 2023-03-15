@@ -12,7 +12,7 @@ location: "Providence, USA"
 
 * (3/10) HW7 is posted below. It is due next Friday at midnight. 
 * (3/12) The **midterm** will be released Wednesday, March 22 at 9am and due Friday at 5pm. 
-* (3/15) [Here](https://bena-tshishiku.github.io/files/courses/2023-spring/midterm-instructions.pdf) is the midterm instructions and a sample problem. 
+* (3/15) [Here](https://bena-tshishiku.github.io/files/courses/2023-spring/123-midterm-instructions.pdf) is the midterm instructions and a sample problem. 
 
 ## Course information
 This is an undergraduate course in the study of graphs. Graphs appear all over the place: both in pure and applied mathematics as well as other sciences, such as chemistry, physics, computer science, and linguistics. We will focus on the theoretical aspects of graph theory, although we will also discuss some applications. 
