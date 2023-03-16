@@ -134,7 +134,7 @@ More details to come.
 
 * Week 8: Planarity (West 6.1-6.2)
   * Tues (3/14). chromatic polynomial, planar graphs, Kuratowski's theorem
-  * Thurs (3/16). 
+  * Thurs (3/16). Kuratowksi's theorem, linear planar embeddings, [untangle](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/untangle.html) 
   * Fri (3/17). HW7 due
 
 * Week 9: Planarity
