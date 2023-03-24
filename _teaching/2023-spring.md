@@ -57,7 +57,7 @@ Office hours:
 
 Important dates: 
 * Midterm (take home): due Friday, March 24 by 5pm. 
-* Final projects: 
+* Final projects: due Friday, April 28 by 5pm 
 
 ## Homework 
 
@@ -94,7 +94,41 @@ Occasionally, we may have small assignments or quizzes in class, which are grade
 * Join the course __campuswire page__ via this [link](https://campuswire.com/p/GCDD00E4D). The access code is 9665. We will use this for asynchronous discussions (e.g. questions about homework). 
 
 ## Final Project
-More details to come. 
+Working in groups of 2, you'll choose a topic and create a 10-minute video. During reading period we'll watch as many of these as we can. 
+
+Some potential topics to get you started (not in any particular order): 
+1. Any section listed as "Optional" in West that we didn't cover
+2. Graceful labelings and graceful tree conjecture 
+3. Kasteleyn’s Theorem: Domino tilings for planar regions 
+4. Hadwiger--Nelson problem
+5. Linkless embeddings of graphs
+6. Groups and Cayley graphs
+7. Counting tilings of a chessboard and the permanent of a matrix
+8. Dinitz problem 
+9. Art gallery problem
+10. 5 color theorem
+11. stable roommates problem
+12. Hall's matching theorem for infinite graphs
+13. Heawood conjecture
+14. Errera graph and the 4-color theorem
+15. Well-covered graphs
+16. Graph girth and cages
+17. Frucht graph and Frucht theorem
+18. Hamiltonian graphs
+19. Polyhedral graphs
+20. unit distance graphs
+21. De Bruijn graphs
+22. graph isomorphism problem
+23. perfect graphs
+24. Erdos-Gyarfas conjecture
+25. Tait conjecture
+26. Tutte's spring theorem
+27. Whitney's planarity criterion
+28. Knight's tour problem
+29. circle packing theorem
+30. Szemerédi regularity lemma 
+31. Forbidden subgraph problem
+32. Anything else that is related to the course and interests you! 
 
 ## Tentative schedule (subject to change)
 
@@ -137,7 +171,7 @@ More details to come.
   * Fri (3/17). HW7 due
 
 * Week 9: Planarity
-  * Tues (3/21). 
+  * Tues (3/21). Art gallery problem, map coloring, platonic solids
   * Thurs (3/23). No class (work on the midterm)
   * Fri (3/24). Take-home midterm due at 5pm. 
 
@@ -145,22 +179,30 @@ More details to come.
 
 * Week 11: Ramsey theory (West 8.3) 
   * Tues (4/4). 
-  * Thurs (4/6). 
+  * Thurs (4/6). No class: start working on your final project
   * Fri (4/7). HW8 due
 
-* Week 12: Random graphs (West 8.5) 
+* Week 12: Ramsey theory, Random graphs (West 8.5) 
   * Tues (4/11). 
   * Thurs (4/13). 
   * Fri (4/14). HW9 due
 
-* Week 13: Spectral graph theory (West 8.6) 
+* Week 13: Random graphs, Spectral graph theory (West 8.6) 
   * Tues (4/18). 
   * Thurs (4/20). 
   * Fri (4/21). HW10 due 
 
 * Week 14: 
   * Tues (4/25). 
-  * Thurs (4/27). 
+  * Thurs (4/27). No class: finish your final project
+  * Fri (4/28). Final project due
+
+* Week 15: final projects
+  * Tues (5/2). presentation watch party
+  * Thurs (5/4). presentation watch party
+
+* Week 16: final projects
+  * Tues (5/9). presentation watch party (end of course)
 
 ![image](https://bena-tshishiku.github.io/files/courses/2023-spring/123-meme1.jpeg)
 ![image](https://bena-tshishiku.github.io/files/courses/2023-spring/123-meme2.jpeg)
