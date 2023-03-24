@@ -97,7 +97,7 @@ Occasionally, we may have small assignments or quizzes in class, which are grade
 Working in groups of 2, you'll choose a topic and create a 10-minute video. During reading period we'll watch as many of these as we can. 
 
 Some potential topics to get you started (not in any particular order): 
-1. Any section listed as "Optional" in West that we didn't cover
+1. Art gallery problem
 2. Graceful labelings and graceful tree conjecture 
 3. Kasteleyn’s Theorem: Domino tilings for planar regions 
 4. Hadwiger--Nelson problem
@@ -105,7 +105,7 @@ Some potential topics to get you started (not in any particular order):
 6. Groups and Cayley graphs
 7. Counting tilings of a chessboard and the permanent of a matrix
 8. Dinitz problem 
-9. Art gallery problem
+9. graph isomorphism problem
 10. 5 color theorem
 11. stable roommates problem
 12. Hall's matching theorem for infinite graphs
@@ -118,17 +118,23 @@ Some potential topics to get you started (not in any particular order):
 19. Polyhedral graphs
 20. unit distance graphs
 21. De Bruijn graphs
-22. graph isomorphism problem
+22. Knight's tour problem
 23. perfect graphs
 24. Erdos-Gyarfas conjecture
 25. Tait conjecture
 26. Tutte's spring theorem
 27. Whitney's planarity criterion
-28. Knight's tour problem
+28. Forbidden subgraph problem
 29. circle packing theorem
 30. Szemerédi regularity lemma 
-31. Forbidden subgraph problem
-32. Anything else that is related to the course and interests you! 
+31. Anything else that is related to the course and interests you! 
+
+Potential sources for further ideas:
+* Sections listed as "Optional" in West
+* Wikipedia [here](https://en.wikipedia.org/wiki/List_of_graph_theory_topics) and [here](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics#Graph_theory)
+* [Proofs from the book](https://link.springer.com/book/10.1007/978-3-662-57265-8) has a chapter on graph theory
+* [Linear algebra miniatures](https://kam.mff.cuni.cz/~matousek/stml-53-matousek-1.pdf) has some sections on graph theory applications (of course this requires some familiarity with linear algebra)
+
 
 ## Tentative schedule (subject to change)
 
