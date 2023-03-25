@@ -123,11 +123,12 @@ Some potential topics to get you started (not in any particular order):
 24. Erdos-Gyarfas conjecture
 25. Tait conjecture
 26. Tutte's spring theorem
-27. Whitney's planarity criterion
-28. Forbidden subgraph problem
-29. circle packing theorem
-30. Szemerédi regularity lemma 
-31. Anything else that is related to the course and interests you! 
+27. Tutte's theorem (generalizing Hall)
+28. Whitney's planarity criterion
+29. Forbidden subgraph problem
+30. circle packing theorem
+31. Szemerédi regularity lemma 
+32. Anything else that is related to the course and interests you! 
 
 Potential sources for further ideas:
 * Sections listed as "Optional" in West
