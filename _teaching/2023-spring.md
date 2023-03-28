@@ -10,8 +10,8 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (3/15) [Midterm](https://bena-tshishiku.github.io/files/courses/2023-spring/123-midterm.pdf). It's due Friday at 5pm. 
-* (3/20) There won't be any office hours during the midterm. If you have (clarification) questions related to the midterm, please ask privately on Campuswire. 
+* (3/27). Some preliminary information about final projects is posted below. As part of HW8, I will ask you to choose a project and a partner (so it's not too early to start thinking about this!).
+* (3/27). HW8 will be posted by the end of the week. 
 
 ## Course information
 This is an undergraduate course in the study of graphs. Graphs appear all over the place: both in pure and applied mathematics as well as other sciences, such as chemistry, physics, computer science, and linguistics. We will focus on the theoretical aspects of graph theory, although we will also discuss some applications. 
