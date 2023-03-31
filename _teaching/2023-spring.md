@@ -95,7 +95,7 @@ Occasionally, we may have small assignments or quizzes in class, which are grade
 
 ## Course materials
 
-* Join the course __campuswire page__ via this [link](https://campuswire.com/p/GCDD00E4D). The access code is 9665. We will use this for asynchronous discussions (e.g. questions about homework). 
+* Join the course __campuswire page__ via this [link](https://campuswire.com/p/GCDD00E4D). We will use this for asynchronous discussions (e.g. questions about homework). 
 
 ## Final Project
 Working in groups of 2, you'll choose a topic and create a 10-minute video. During reading period we'll watch as many of these as we can. 
