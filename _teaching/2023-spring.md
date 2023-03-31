@@ -10,9 +10,9 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (3/27). Some preliminary information about **final projects** is posted below. As part of HW8, I will ask you to choose a project and a partner (so it's not too early to start thinking about this!).
-* (3/27). HW8 will be posted by the end of the week. 
+* (3/27). Some information about **final projects** is posted below.
 * (3/28). Some **midterm [solutions](http://bena-tshishiku.github.io/files/courses/2023-spring/midterm-student.pdf)**
+* (3/30). HW8 is posted below together with instructions for your final project proposal. 
 
 ## Course information
 This is an undergraduate course in the study of graphs. Graphs appear all over the place: both in pure and applied mathematics as well as other sciences, such as chemistry, physics, computer science, and linguistics. We will focus on the theoretical aspects of graph theory, although we will also discuss some applications. 
@@ -85,6 +85,9 @@ HW5 (due 3/3). [tex file](https://bena-tshishiku.github.io/files/courses/2023-sp
 HW6 (due 3/10). [tex file](https://bena-tshishiku.github.io/files/courses/2023-spring/123-hw6.tex), [image](http://bena-tshishiku.github.io/files/courses/2023-spring/hw6-graph.pdf), [solutions](http://bena-tshishiku.github.io/files/courses/2023-spring/123-hw6-solutions.pdf)
 
 HW7 (due 3/17). [tex file](https://bena-tshishiku.github.io/files/courses/2023-spring/123-hw7.tex), [image](http://bena-tshishiku.github.io/files/courses/2023-spring/hw7-graph.pdf), [solutions](http://bena-tshishiku.github.io/files/courses/2023-spring/123-hw7-solutions.pdf)
+
+HW8 (due 3/17). [tex file](https://bena-tshishiku.github.io/files/courses/2023-spring/123-hw8.tex), [final project proposal](http://bena-tshishiku.github.io/files/courses/2023-spring/final-project-proposal.pdf)
+
 
 ## Participation
 
