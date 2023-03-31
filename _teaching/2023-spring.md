@@ -190,7 +190,7 @@ Potential sources for further ideas:
 
 * Week 11: Ramsey theory (West 8.3) 
   * Tues (4/4). 
-  * Thurs (4/6). No class: start working on your final project
+  * Thurs (4/6). No class: work on your final project!
   * Fri (4/7). HW8 due
 
 * Week 12: Ramsey theory, Random graphs (West 8.5) 
@@ -205,7 +205,7 @@ Potential sources for further ideas:
 
 * Week 14: 
   * Tues (4/25). 
-  * Thurs (4/27). No class: finish your final project
+  * Thurs (4/27). No class: finish your final project!
   * Fri (4/28). Final project due
 
 * Week 15: final projects
