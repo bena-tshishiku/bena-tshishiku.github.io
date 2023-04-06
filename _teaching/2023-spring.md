@@ -11,7 +11,6 @@ location: "Providence, USA"
 ## Announcements
 
 * (3/27). Some information about **final projects** is posted below.
-* (3/28). Some **midterm [solutions](http://bena-tshishiku.github.io/files/courses/2023-spring/midterm-student.pdf)**
 * (3/30). HW8 is posted below together with instructions for your final project proposal. 
 * (4/3). There will be no class this Thursday (because I'm traveling). Please use it as an opportunity to work on your final project.
 
@@ -87,7 +86,9 @@ HW6 (due 3/10). [tex file](https://bena-tshishiku.github.io/files/courses/2023-s
 
 HW7 (due 3/17). [tex file](https://bena-tshishiku.github.io/files/courses/2023-spring/123-hw7.tex), [image](http://bena-tshishiku.github.io/files/courses/2023-spring/hw7-graph.pdf), [solutions](http://bena-tshishiku.github.io/files/courses/2023-spring/123-hw7-solutions.pdf)
 
-HW8 (due 3/17). [tex file](https://bena-tshishiku.github.io/files/courses/2023-spring/123-hw8.tex), [final project proposal](http://bena-tshishiku.github.io/files/courses/2023-spring/final-project-proposal.pdf)
+HW8 (due 4/7). [tex file](https://bena-tshishiku.github.io/files/courses/2023-spring/123-hw8.tex), [final project proposal](http://bena-tshishiku.github.io/files/courses/2023-spring/final-project-proposal.pdf)
+
+HW9 (due 4/14). [tex file](https://bena-tshishiku.github.io/files/courses/2023-spring/123-hw9.tex), [final project proposal](http://bena-tshishiku.github.io/files/courses/2023-spring/final-project-outline.pdf)
 
 
 ## Participation
@@ -97,6 +98,8 @@ Occasionally, we may have small assignments or quizzes in class, which are grade
 ## Course materials
 
 * Join the course __campuswire page__ via this [link](https://campuswire.com/p/GCDD00E4D). We will use this for asynchronous discussions (e.g. questions about homework). 
+* Some midterm [solutions](http://bena-tshishiku.github.io/files/courses/2023-spring/midterm-student.pdf)
+
 
 ## Final Project
 Working in groups of 2, you'll choose a topic and create a 10-minute video. During reading period we'll watch as many of these as we can. 
@@ -190,7 +193,7 @@ Potential sources for further ideas:
 * Week 10: Spring Break
 
 * Week 11: Ramsey theory (West 8.3) 
-  * Tues (4/4). 
+  * Tues (4/4). Ramsey theory for graphs, numbers, and knots
   * Thurs (4/6). No class: work on your final project!
   * Fri (4/7). HW8 due
 
