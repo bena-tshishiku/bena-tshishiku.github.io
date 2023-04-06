@@ -1,0 +1,117 @@
+\documentclass[11pt]{article}
+
+\author{Math 123}
+\date{Due April 14, 2023 by midnight} 
+\title{Homework 9}
+
+\usepackage{graphicx,xypic}
+\usepackage{amsthm}
+\usepackage{amsmath,amssymb}
+\usepackage{amsfonts}
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage[shortlabels]{enumitem}
+\newtheorem{problem}{Problem}
+\renewcommand*{\proofname}{{\color{blue}Solution}}
+
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\rhead{Math 123, Homework 9}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1.25ex}
+
+
+\begin{document}
+
+\maketitle
+
+% You are required to put your name here:
+{\bf\Large Name:} 
+
+
+\vspace{.3in}
+Topics covered: Ramsey theory
+
+Instructions: 
+\begin{itemize}
+\item This assignment must be submitted on Gradescope by the due date. 
+\item If you collaborate with other students (which is encouraged!), please mention this somewhere on the assignment. 
+\item If you are stuck, please ask for help (from me, a TA, a classmate). Use Campuswire!  
+\item You may freely use any fact proved in class. In general, you should provide proof for facts used that were not proved in class. 
+\item Please restrict your solution to each problem to a single page. Usually solutions can be even shorter than that. If your solution is very long, you should think more about how to express it concisely.
+\end{itemize}
+
+
+\pagebreak 
+
+
+\begin{problem}
+Prove that $R(k,\ell)\le{k+\ell-2\choose k-1}$ and deduce that $R(k,k)\le 4^k$. \footnote{Use induction for the first part. You will probably want to use some well-known facts about binomial coefficients, which you can google.} 
+\end{problem}
+
+\begin{proof} 
+
+\end{proof}
+
+\pagebreak
+
+
+\begin{problem}
+Use the pigeonhole principle\footnote{The pigeonhole principle says that if you put $m$ pigeons into $n$ holes, then there is a hole with at least $\lceil m/n\rceil$ pigeons. We used this implicitly multiple times in the lecture 4/4 (it may be helpful to look back over the notes to see where it was used). } to prove that every set of $n$ integers $\{a_1,\ldots,a_n\}$ contains a nonempty subset whose sum is divisible by $n$. \footnote{Hint: consider the partial sums $S_i=a_1+\cdots+a_i$.}\footnote{Remark: The set $\{1,n+1,2n+1,\ldots,(n-1)n+1\}$ shows you cannot improve this result to a set of $n-1$ integers.} Give a collection of $n-1$ integers with no such subset. 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak
+
+
+\begin{problem}
+You're given two concentric discs, each with $20$ radial sectors of equal size. For each disc, $10$ sectors are painted red and $10$ blue, in some (arbitrary) arrangement. Prove that the two discs can be aligned so that at least $10$ sectors on the inner disc match colors with the corresponding sector on the outer disc. \footnote{Hint: There is a very short solution using the pigeonhole principle.} \footnote{Hint: count the total number of inner/outer sector pairs with matching colors.}
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak
+
+\begin{problem}
+Fix $r\ge2$ and let $R(k,\ldots,k)$ (with $r$ copies of $k$) denote the minimal $n$ so that any $r$-coloring of the edges of $K_n$ contains at a monochromatic $K_k$ (i.e.\ we are generalizing the Ramsey numbers to more colors). Prove that every $r$ coloring of the numbers $1,\ldots,R(3,\ldots,3)$ (with $r$ copies of $3$) contains a monochromatic $x,y,z$ so that $x+y=z$. \footnote{Hint: set $n=R(3,\ldots,3)$. Given a coloring of $1,\ldots,n$, construct an edge 2-coloring of $K_n$ so that a monochromatic triangle in $K_n$ corresponds to monochromatic $x,y,z$ with $x+y=z$.} \footnote{Hint: labelling the vertices of $K_n$ by $v_1,\ldots,v_n$, choose the coloring of the edge $v_iv_j$ using the color of $|j-i|$ as a guide.}
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+
+\pagebreak
+
+\begin{problem}
+A theorem similar to Negami's theorem says that for any embedding of $K_6$ in $\mathbb R^3$, there exists a pair of triangles that form a Hopf link.\footnote{Google this.} Verify this result for the following set of 6 points in $\mathbb R^3$. 
+\[A=(0,3,2), \>\>\>B=(-2,-6,0), \>\>\>C=(6,3,2), \>\>\>D=(-6,-10,7), \>\>\>E=(-9,-6,9),\>\>\>F=(3,-1,9)\]
+To help solve this, use this Geo-gebra notebook: 
+\texttt{https://www.geogebra.org/m/ng6pspkh} \footnote{Click the circles on the left to make line segments appear/disappear.} Include a screenshot in your solution. 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak
+
+
+
+{\it Submit a final project outline. See other document for instructions. }
+
+
+
+
+
+
+
+
+\end{document}
