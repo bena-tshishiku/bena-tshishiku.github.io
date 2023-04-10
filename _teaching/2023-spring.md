@@ -107,35 +107,35 @@ Working in groups of 2, you'll choose a topic and create a 10-minute video. Duri
 Some potential topics to get you started (not in any particular order): 
 1. Art gallery problem
 2. Graceful labelings and graceful tree conjecture 
-3. Kasteleyn’s Theorem: Domino tilings for planar regions 
-4. Hadwiger--Nelson problem
-5. Linkless embeddings of graphs
+3. Szemerédi regularity lemma 
+4. forbidden subgraph problem
+5. Tutte's spring theorem
 6. Groups and Cayley graphs
 7. Counting tilings of a chessboard and the permanent of a matrix
 8. Dinitz problem 
-9. graph isomorphism problem
-10. 5 color theorem
-11. stable roommates problem
-12. Hall's matching theorem for infinite graphs
-13. Heawood conjecture
+9. 5 color theorem
+10. stable roommates problem
+11. Hall's matching theorem for infinite graphs
+12. perfect graphs
+13. De Bruijn graphs
 14. Errera graph and the 4-color theorem
-15. Well-covered graphs
-16. Graph girth and cages
-17. Frucht graph and Frucht theorem
+15. Polyhedral graphs
+16. Knight's tour problem
+17. circle packing theorem
 18. Hamiltonian graphs
-19. Polyhedral graphs
+19. Frucht graph and Frucht theorem
 20. unit distance graphs
-21. De Bruijn graphs
-22. Knight's tour problem
-23. perfect graphs
-24. Erdos-Gyarfas conjecture
-25. Tait conjecture
-26. Tutte's spring theorem
+21. Graph girth and cages
+22. Well-covered graphs
+23. Erdos-Gyarfas conjecture
+24. Tait conjecture
+25. graph isomorphism problem
+26. Heawood conjecture
 27. Tutte's theorem (generalizing Hall)
 28. Whitney's planarity criterion
-29. Forbidden subgraph problem
-30. circle packing theorem
-31. Szemerédi regularity lemma 
+29. Linkless embeddings of graphs
+30. Hadwiger--Nelson problem
+31. Kasteleyn’s Theorem: Domino tilings for planar regions 
 32. Anything else that is related to the course and interests you! 
 
 Potential sources for further ideas:
