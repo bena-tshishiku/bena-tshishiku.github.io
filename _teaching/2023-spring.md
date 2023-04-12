@@ -10,9 +10,8 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (3/27). Some information about **final projects** is posted below.
-* (3/30). HW8 is posted below together with instructions for your final project proposal. 
-* (4/3). There will be no class this Thursday (because I'm traveling). Please use it as an opportunity to work on your final project.
+* (4/9). HW9 is posted below together with instructions for your final project outline. 
+* (4/12). Bena's Wednesday office hour is moved to 5p. Sorry for any inconvenience. 
 
 ## Course information
 This is an undergraduate course in the study of graphs. Graphs appear all over the place: both in pure and applied mathematics as well as other sciences, such as chemistry, physics, computer science, and linguistics. We will focus on the theoretical aspects of graph theory, although we will also discuss some applications. 
