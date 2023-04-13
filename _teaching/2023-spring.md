@@ -11,7 +11,6 @@ location: "Providence, USA"
 ## Announcements
 
 * (4/9). HW9 is posted below together with instructions for your final project outline. 
-* (4/12). Bena's Wednesday office hour is moved to 5p. Sorry for any inconvenience. 
 
 ## Course information
 This is an undergraduate course in the study of graphs. Graphs appear all over the place: both in pure and applied mathematics as well as other sciences, such as chemistry, physics, computer science, and linguistics. We will focus on the theoretical aspects of graph theory, although we will also discuss some applications. 
@@ -88,6 +87,8 @@ HW7 (due 3/17). [tex file](https://bena-tshishiku.github.io/files/courses/2023-s
 HW8 (due 4/7). [tex file](https://bena-tshishiku.github.io/files/courses/2023-spring/123-hw8.tex), [final project proposal](http://bena-tshishiku.github.io/files/courses/2023-spring/final-project-proposal.pdf)
 
 HW9 (due 4/14). [tex file](https://bena-tshishiku.github.io/files/courses/2023-spring/123-hw9.tex), [final project outline](http://bena-tshishiku.github.io/files/courses/2023-spring/final-project-outline.pdf)
+
+HW10 (due 4/21). [tex file](https://bena-tshishiku.github.io/files/courses/2023-spring/123-hw10.tex), [final project outline](http://bena-tshishiku.github.io/files/courses/2023-spring/final-project-slides.pdf)
 
 
 ## Participation
@@ -197,8 +198,8 @@ Potential sources for further ideas:
   * Fri (4/7). HW8 due
 
 * Week 12: Ramsey theory, Random graphs (West 8.5) 
-  * Tues (4/11). 
-  * Thurs (4/13). 
+  * Tues (4/11). Ramsey lower bound, random graphs 
+  * Thurs (4/13). Connectedness and diameter of random graphs, Rado graph
   * Fri (4/14). HW9 due
 
 * Week 13: Random graphs, Spectral graph theory (West 8.6) 
