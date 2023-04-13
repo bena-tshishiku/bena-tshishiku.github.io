@@ -88,7 +88,7 @@ HW8 (due 4/7). [tex file](https://bena-tshishiku.github.io/files/courses/2023-sp
 
 HW9 (due 4/14). [tex file](https://bena-tshishiku.github.io/files/courses/2023-spring/123-hw9.tex), [final project outline](http://bena-tshishiku.github.io/files/courses/2023-spring/final-project-outline.pdf)
 
-HW10 (due 4/21). [tex file](https://bena-tshishiku.github.io/files/courses/2023-spring/123-hw10.tex), [final project outline](http://bena-tshishiku.github.io/files/courses/2023-spring/final-project-slides.pdf)
+HW10 (due 4/21). [tex file](https://bena-tshishiku.github.io/files/courses/2023-spring/123-hw10.tex), [final project slides](http://bena-tshishiku.github.io/files/courses/2023-spring/final-project-slides.pdf)
 
 
 ## Participation
