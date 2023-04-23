@@ -10,8 +10,10 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (4/14). HW10 is posted below together with instructions for your final project slides. 
-* (4/17). Bena's office hours this week will be Wednesday 3-4:30p. 
+* (4/23). The **final project** is due Sunday 4/30 by midnight. I would prefer if you could submit it as a YouTube video, but please discuss with me if you would an alternative way to submit. 
+* There is **no class** Thursday 4/27. I suggest you use this time to work on your final project. 
+* I will have **office hours** Tuesday noon-2p *by appointment*. Please email me if you want to meet. 
+
 
 ## Course information
 This is an undergraduate course in the study of graphs. Graphs appear all over the place: both in pure and applied mathematics as well as other sciences, such as chemistry, physics, computer science, and linguistics. We will focus on the theoretical aspects of graph theory, although we will also discuss some applications. 
