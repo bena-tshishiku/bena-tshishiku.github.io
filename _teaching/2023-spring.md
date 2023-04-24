@@ -206,12 +206,12 @@ Potential sources for further ideas:
   * Fri (4/14). HW9 due
 
 * Week 13: Random graphs, Spectral graph theory (West 8.6) 
-  * Tues (4/18). 
-  * Thurs (4/20). 
+  * Tues (4/18). Erdos-Renyi random graphs, phase transitions, Rado graph properties
+  * Thurs (4/20). Adjacency matrix and its eigenvalues, matrix tree theorem, Cauchy-Binet
   * Fri (4/21). HW10 due 
 
 * Week 14: 
-  * Tues (4/25). 
+  * Tues (4/25). matrix tree theorem, graph Laplacian
   * Thurs (4/27). No class: finish your final project!
   * Fri (4/28). Final project due
 
