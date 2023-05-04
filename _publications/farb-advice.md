@@ -4,7 +4,7 @@ collection: publications
 permalink: publication/farb-advice
 excerpt: ''
 date: 2021-11-01
-venue: ''
+venue: 'coordinating editor'
 paperurl: 'exposition'
 citation: 'AMS Notices, Nov 2021.'
 
