@@ -10,9 +10,7 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (4/23). The **final project** is due Sunday 4/30 by midnight. I would prefer if you could submit it as a YouTube video, but please discuss with me if you would an alternative way to submit. 
-* There is **no class** Thursday 4/27. I suggest you use this time to work on your final project. 
-* I will have **office hours** Tuesday noon-2p *by appointment*. Please email me if you want to meet. 
+* (5/4). The final class will be next Tuesday (5/9). 
 
 
 ## Course information
@@ -216,8 +214,8 @@ Potential sources for further ideas:
   * Fri (4/28). Final project due
 
 * Week 15: final projects
-  * Tues (5/2). presentation watch party
-  * Thurs (5/4). presentation watch party
+  * Tues (5/2). presentation watch party (art gallery problem, de Bruijn graphs, infinite Hall, 4-color theorem, register allocation, Dinitz problem, Tutte's generalization of Hall's theorem)
+  * Thurs (5/4). presentation watch party (Good Will Hunting, ant colony optimization, stable roommates problem, knight's tours) 
 
 * Week 16: final projects
   * Tues (5/9). presentation watch party (end of course)
