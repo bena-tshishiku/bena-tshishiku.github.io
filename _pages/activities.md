@@ -19,6 +19,7 @@ author_profile: true
 Some past and upcoming travel/talks: 
 
 **2023** \
+Nov 27-Dec 1. Spaces of manifolds (Banff)\
 Sept 9-10. AMS sectional meeting (Buffalo)\
 Aug 7-11. Groups, actions, and geometry (Tufts)\
 July 24-28. Topics in K-theory and NCG (Buenos Aires)\
