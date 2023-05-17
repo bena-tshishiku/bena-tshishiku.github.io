@@ -20,8 +20,10 @@ Some past and upcoming travel/talks:
 
 **2023** \
 Sept 9-10. AMS sectional meeting (Buffalo)\
+Aug 7-11. Groups, actions, and geometry (Tufts)\
 July 24-28. Topics in K-theory and NCG (Buenos Aires)\
 July 17-21. Visiting Catholic University of Chile (Santiago)\
+July 1-2. Grad student topology and geometry conference (Harvard)\
 June 12-16. Groups around 3-manifolds (Montreal)\
 June 5-9. A panorama of homotopy theory/Hopkins 65 (Oxford)\
 May 29-Jun 2. Interactions between Algebraic Topology and Geometric Group Theory (Oaxaca)\
