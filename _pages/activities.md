@@ -19,7 +19,7 @@ author_profile: true
 Some past and upcoming travel/talks: 
 
 **2023** \
-Sept 9-10. AMS sectional meeting (Buffalo)
+Sept 9-10. AMS sectional meeting (Buffalo)\
 July 24-28. Topics in K-theory and NCG (Buenos Aires)\
 July 17-21. Visiting Catholic University of Chile (Santiago)\
 June 12-16. Groups around 3-manifolds (Montreal)\
