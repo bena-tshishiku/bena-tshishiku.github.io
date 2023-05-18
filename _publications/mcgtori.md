@@ -3,7 +3,7 @@ title: "Mapping class groups of exotic tori and actions by SL(d,Z)"
 collection: publications
 permalink: publication/mgctori
 excerpt: ''
-date: 2020-01-01
+date: 2023-05-01
 venue: 'with M. Bustamante, M. Krannich, A. Kupers'
 paperurl: ''
 citation: 'arxiv:2305.08065'
