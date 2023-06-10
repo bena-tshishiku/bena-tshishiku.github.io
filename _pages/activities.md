@@ -26,7 +26,6 @@ July 24-28. Topics in K-theory and NCG (Buenos Aires)\
 July 17-21. Visiting Catholic University of Chile (Santiago)\
 July 1-2. Grad student topology and geometry conference (Harvard)\
 June 12-16. Groups around 3-manifolds (Montreal)\
-June 5-9. A panorama of homotopy theory/Hopkins 65 (Oxford)\
 May 29-Jun 2. Interactions between Algebraic Topology and Geometric Group Theory (Oaxaca)\
 Maty 15-19. Dynamics rigidity and arithmetic in hyperbolic geometry (ICERM)\
 Apr 27-28. Visiting SUNY Buffalo \
