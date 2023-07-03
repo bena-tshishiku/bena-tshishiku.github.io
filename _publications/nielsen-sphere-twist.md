@@ -6,7 +6,7 @@ excerpt: ''
 date: 2022-07-01
 venue: 'with L. Chen'
 paperurl: ''
-citation: 'accepted to Israel J. Math.'
+citation: 'Israel J. Math., to appear'
 
 ---
 
