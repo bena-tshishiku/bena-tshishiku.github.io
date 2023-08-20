@@ -21,10 +21,8 @@ Some past and upcoming travel/talks:
 **2023** \
 Nov 27-Dec 1. Spaces of manifolds (Banff)\
 Nov 10-12. Texas Geometry and Topology Conference (Rice)\
-Oct 25. Purdue Topology seminar\ 
+Oct 25. Purdue Topology seminar\
 Sept 9-10. AMS sectional meeting (Buffalo)\
-Aug 7-11. Groups, actions, and geometry (Tufts)\
-July 24-28. Topics in K-theory and NCG (Buenos Aires)\
 July 17-21. Visiting Catholic University of Chile (Santiago)\
 July 1-2. Grad student topology and geometry conference (Harvard)\
 June 12-16. Groups around 3-manifolds (Montreal)\
