@@ -22,6 +22,7 @@ Some past and upcoming travel/talks:
 Nov 27-Dec 1. Spaces of manifolds (Banff)\
 Nov 10-12. Texas Geometry and Topology Conference (Rice)\
 Oct 25. Purdue Topology seminar\
+Oct 11. Vanderbilt Topology and group theory seminar\
 Sept 9-10. AMS sectional meeting (Buffalo)\
 July 17-21. Visiting Catholic University of Chile (Santiago)\
 July 1-2. Grad student topology and geometry conference (Harvard)\
