@@ -1,0 +1,113 @@
+\documentclass[11pt]{article}
+
+\author{Math 106}
+\date{Due Friday, Sept 15 by 5pm} 
+\title{Homework 1}
+
+\usepackage{graphicx,xypic}
+\usepackage{amsthm}
+\usepackage{amsmath,amssymb}
+\usepackage{amsfonts}
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage[shortlabels]{enumitem}
+\newtheorem{problem}{Problem}
+\renewcommand*{\proofname}{{\color{blue}Solution}}
+
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1.25ex}
+
+
+\begin{document}
+
+\maketitle
+
+% You are required to put your name here:
+{\bf\Large Name:} 
+
+
+\vspace{.3in}
+Topics covered: curves, arclength
+
+Instructions: 
+\begin{itemize}
+\item This assignment must be submitted on Gradescope by the due date. Gradescope Entry Code: XXV57E. 
+\item If you collaborate with other students (which is encouraged!), please mention this near the corresponding problems. 
+\item If you are stuck, please ask for help (from me, a TA, a classmate). Use Ed Discussion!  
+\item You are free to use any fact proved in class. In general, you should provide proof for facts used that were not proved in class. 
+\end{itemize}
+\pagebreak 
+
+
+\begin{problem}
+Let $\alpha:I\to\mathbb R^3$ and $\beta:I\to\mathbb R^3$ be two curves. Let $\alpha\cdot\beta:I\to\mathbb R$ be the function defined by $(\alpha\cdot\beta)(t)=\alpha(t)\cdot\beta(t)$ (dot product). Prove that 
+\[(\alpha\cdot\beta)'(t)=\alpha'(t)\cdot\beta(t)+\alpha(t)\cdot\beta'(t).\]
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak
+
+\begin{problem}
+Let $\alpha:I\to\mathbb R^3$ be a curve. Prove that $|\alpha(t)|$ is constant if and only if $\alpha(t)$ is orthogonal to $\alpha'(t)$ for all $t\in I$. 
+\end{problem}
+
+\begin{proof}
+
+\end{proof} 
+
+\pagebreak
+
+\begin{problem}
+Find a parameterized curve $\alpha:\mathbb R\to\mathbb R^2$ whose trace is the cycloid. Compute the length of one period of the cycloid.\footnote{Hint: at some point you may want to use the half-angle formula.}
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak
+
+\begin{problem}
+The curve $\alpha(t)=(e^{-t}\cos(t),e^{-t}\sin(t))$ for $t\in[0,\infty)$ is called the logarithmic spiral. Sketch this curve, and compute its length. 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+
+\pagebreak 
+
+\begin{problem}
+Let $\alpha:[a,b]\to\mathbb R^3$ be a curve. Let $v$ be a unit vector. Prove that 
+\[(\alpha(b)-\alpha(a))\cdot v=\int_a^b\alpha'(t)\cdot v\>dt\le\int_a^b|\alpha'(t)|\>dt.\]
+Choose $v$ appropriately to deduce that the shortest path between any two points is a straight line. 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak 
+
+
+\begin{problem}
+Fix a curve $\alpha:I\to\mathbb R^3$ and fix $[a,b]\subset I$. For a partition 
+\[P=\{a=t_0<t_1<\cdots<t_n=b\},\] we defined $L(\alpha,P)=\sum|\alpha(t_{i+1})-\alpha(t_{i})|$ and $|P|=\max(t_{i+1}-t_{i})$. Prove that for each $\epsilon>0$, there exists $\delta>0$ so that if $|P|<\delta$, then 
+\[\left|\int_a^b|\alpha'(t)|\>dt-L(\alpha,P)\right|<\epsilon.\]
+\footnote{Suggestion: First replace $\int_a^b|\alpha'(t)|\>dt$ by a Riemann sum, and compare the Riemann sum to $L(\alpha,P)$. For the latter, it may help to use the mean value theorem for vector-valued functions (you will need to figure out which function to apply it to).} \footnote{This problem is probably harder than most HW problems for the course. Please ask questions if you are stuck. }
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+
+
+
+
+\end{document}
