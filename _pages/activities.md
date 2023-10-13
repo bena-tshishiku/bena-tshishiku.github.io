@@ -10,8 +10,9 @@ author_profile: true
 
 ## Things I'm co-organizing
 
+[GASTBY Fall 2023!](https://sites.google.com/view/gatsby-fall2023) 
+
 [Brown Geom-Top seminar](https://www.math.brown.edu/reschwar/seminar.html)\
-[GASTBY](https://sites.google.com/view/gatsby-spring2023/) \
 [Brown's math circle](https://sites.google.com/view/bumc-activities/home) 
 
 ## Travel 
