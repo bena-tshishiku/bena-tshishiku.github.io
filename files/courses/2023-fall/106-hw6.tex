@@ -1,0 +1,104 @@
+\documentclass[11pt]{article}
+
+\author{Math 106}
+\date{Due Friday, Oct 19 by 11:59pm} 
+\title{Homework 6}
+
+\usepackage{graphicx,xypic}
+\usepackage{amsthm}
+\usepackage{amsmath,amssymb}
+\usepackage{amsfonts}
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage[shortlabels]{enumitem}
+\newtheorem{problem}{Problem}
+\renewcommand*{\proofname}{{\color{blue}Solution}}
+
+
+
+\DeclareMathOperator{\sech}{sech}
+
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1.25ex}
+
+
+\begin{document}
+
+\maketitle
+
+% You are required to put your name here:
+{\bf\Large Name:} 
+
+
+\vspace{.3in}
+Topics covered: second fundamental form, surface curvatures
+
+Instructions: 
+\begin{itemize}
+\item This assignment must be submitted on Gradescope by the due date. 
+\item If you collaborate with other students (which is encouraged!), please mention this near the corresponding problems. 
+\item If you are stuck, please ask for help (from me, a TA, a classmate). Use ed discussions!  
+\item You may freely use any fact proved in class. In general, you should provide proof for facts used that were not proved in class. 
+\item Please restrict your solution to each problem to a single page. Usually solutions can be even shorter than that. If your solution is very long, you should think more about how to express it concisely.
+\end{itemize}
+\pagebreak 
+
+
+\begin{problem}
+The helicoid is the surface given by the chart
+\[\phi(u,v)=(v\cos u,v\sin u,u), \>\>\>u,v\in\mathbb R.\]
+Use a mathematica \texttt{ParametricPlot3D} (or similar) to plot this surface. Compute (by hand) the first and second fundamental forms $\mathrm I,\mathrm{I\!I}$ and mean curvature $H$ of this surface.\footnote{Hint: Your answer for the mean curvature, if correct, will be exceedingly simple.} 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak
+
+
+\begin{problem}
+Consider the curve\footnote{Recall the hyperbolic trig functions are defined by $\cosh(t)=\frac{e^t+e^{-t}}{2}$, $\sinh(t)=\frac{e^t-e^{-t}}{2}$, etc. I suggest you look up formulas for the derivatives and identities satisfied by these functions.}
+\[\alpha(t)=(t-\tanh t,\sech t,0),\>\>\>t>0.\]
+Let $S$ be the surface obtained by revolving $\alpha$ about the $x$-axis. Use a mathematica \texttt{ParametricPlot3D} (or similar) to plot this surface. Compute (by hand) the first and second fundamental forms $\mathrm I,\mathrm{I\!I}$ and Gauss curvature $K$ of this surface.\footnote{Hint: Your answer for the Gauss curvature, if correct, will be exceedingly simple.} 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak
+
+\begin{problem}
+Let $S$ be a surface with a unit normal $N:S\to S^2$. Let $\alpha:I\to S$ be a curve. 
+Assume that $\alpha'(t)$ is a principal direction for each $t$.\footnote{Remark: In this case, $\alpha$ is a called a \emph{line of curvature}.}  Show that the curvature $\kappa=\kappa_\alpha$ of $\alpha$ satisfies $\kappa=|k_nk_N|$, where $k_n$ is the normal curvature and $k_N$ is the curvature of $N\circ\alpha$. \footnote{Hint: note that $\alpha$ and $N\circ\alpha$ are not necessarily unit speed. Use a formula for curvature from a previous problem.} 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak
+
+\begin{problem}
+Let $S$ be a surface, and fix $q\in\mathbb R^3$. Define $f:S\to\mathbb R$ by $f(p)=|p-q|^2$. Give a formula for $Df_p(w)$ directly using the way we defined the derivative of a function on a surface in class. When is $p$ a critical point\footnote{We say that $p\in S$ is a critical point of $f:S\to\mathbb R$ if $Df_p=0$.}  of $f$? 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak
+
+\begin{problem}
+Let $S\subset\mathbb R^3$ be a surface. Suppose that there exists a point $q\in\mathbb R^3$ such that the normal line through $p\in S$ passes through $q$ for each $p\in S$. Prove that $S$ is contained in a sphere. \footnote{Hint: Define an appropriate function on $S$ whose derivative is constant...}
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+
+
+\end{document}
