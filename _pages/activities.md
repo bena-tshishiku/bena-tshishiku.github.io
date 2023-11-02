@@ -21,7 +21,9 @@ Some past and upcoming travel/talks:
 
 **2023** \
 Nov 27-Dec 1. Spaces of manifolds (Banff)\
+Nov 18. GATSBY conference at Brown\
 Nov 10-12. Texas Geometry and Topology Conference (Rice)\
+Nov 6. Holly Cross Colloquium\
 Oct 25. Purdue Topology seminar\
 Oct 11. Vanderbilt Topology and group theory seminar\
 Sept 9-10. AMS sectional meeting (Buffalo)\
