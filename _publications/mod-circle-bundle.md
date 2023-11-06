@@ -6,7 +6,7 @@ excerpt: ''
 date: 2023-01-01
 venue: 'with L. Chen'
 paperurl: ''
-citation: 'Submitted. arxiv: 2301.05375'
+citation: 'Michigan Math J., to appear'
 
 ---
 
