@@ -8,7 +8,7 @@ date: 2024-01-01
 location: "Providence, USA"
 ---
 
-## Textbooks
+## Announcements
 
 This page is under construction. 
 
@@ -16,10 +16,7 @@ This page is under construction.
 This is part-two of a graduate course on algebraic topology. The main topics will be homotopy groups, cohomology, and Poincare duality. 
 
 ### Course objectives
-* prove foundational results: 
-* do computations: 
-* understand theoretical trends:
-* see applications: 
+* prove foundational results, do computations, understand theoretical trends, see applications 
 
 ## Prerequisites
 
@@ -31,10 +28,10 @@ Math 2410
 
 
 ## Course expenses
-Just the textbook. In practice, the text may not be absolutely necessary for the course, although you may want it as a reference. 
+Potentially none. Both textbooks are available online (Bredon through the Brown library webpage).
 
 ## Grading
-homework 25%, 1st midterm 25%, 2nd midterm 25%, final project 25%
+homework 30%, 1st midterm 30%, 2nd midterm 30%, final project 10%
 
 ## Contact information 
 
