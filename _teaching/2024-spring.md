@@ -10,7 +10,7 @@ location: "Providence, USA"
 
 ## Announcements
 
-This page is under construction. 
+* (1/24) First lecture tomorrow (1/25) in 85 Waterman 015. 
 
 ## Course information
 This is part-two of a graduate course on algebraic topology. The main topics will be homotopy groups, cohomology, and Poincare duality. 
@@ -61,12 +61,12 @@ Late homework policy: For your homework grade, I will drop the score from your l
 
 ### Homework assignments. 
 
-HW1 (due ). 
+HW1 (due 2/2). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw1.tex) 
 
 
 ## Course materials
 
-* For asynchronous discussions (e.g. questions about homework) we will use Ed Discussion. You should be able to access Ed Discussion from the course Canvas page. 
+* For asynchronous discussions (e.g. questions about homework) we will use campuswire. Join [here](https://campuswire.com/p/G95A9847A) with access code 1053. 
 
 
 ## Final Project
@@ -82,4 +82,75 @@ As part of completing the final project, I will ask you to submit:
 
 ## Topic schedule (subject to change)
 
-Coming soon. 
+
+* Week 1: 
+  * Thurs (1/25). Homotopy classes of maps, homotopy groups, H-groups, mapping spaces
+
+* Week 2: 
+  * Tues (1/30). 
+  * Thurs (2/1). 
+  * Fri (2/2). HW1 due
+
+* Week 3: 
+  * Tues (2/6). 
+  * Thurs (2/8). 
+  * Fri (2/9). HW2 due
+
+* Week 4: 
+  * Tues (2/13). 
+  * Thurs (2/15). 
+  * Fri (2/16). HW3 due
+
+* Week 5: 
+  * Tues (2/20). No class (university holiday)
+  * Thurs (2/22). 
+  * Fri (2/23). HW4 due
+
+* Week 6: 
+  * Tues (2/27). 
+  * Thurs (2/29). 
+  * Fri (3/1). HW5 due
+
+* Week 7: 
+  * Tues (3/5). 
+  * Thurs (3/7). 
+  * Fri (3/8). HW6 due
+
+* Week 8: 
+  * Tues (3/12). 
+  * Thurs (3/14). 
+  * Fri (3/15). HW7 due
+
+* Week 9:
+  * Tues (3/19). 
+  * Thurs (3/21). 
+  * Fri (3/22). 
+
+* Week 10: Spring Break
+
+* Week 11: 
+  * Tues (4/2). 
+  * Thurs (4/4). 
+  * Fri (4/5). HW8 due
+
+* Week 12: 
+  * Tues (4/9). 
+  * Thurs (4/11). 
+  * Fri (4/12). HW9 due
+
+* Week 13: 
+  * Tues (4/16). 
+  * Thurs (4/18). 
+  * Fri (4/19). HW10 due 
+
+* Week 14: 
+  * Tues (4/23). 
+  * Thurs (4/25). 
+  * Fri (4/26). Final project due
+
+* Week 15: final projects
+  * Tues (4/30). 
+  * Thurs (5/2). 
+
+* Week 16: final projects
+  * Tues (5/7). (end of course)
