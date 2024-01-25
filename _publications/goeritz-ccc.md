@@ -6,7 +6,7 @@ excerpt: ''
 date: 2022-06-01
 venue: ''
 paperurl: ''
-citation: 'Trans. Amer. Math. Soc., to appear'
+citation: 'Trans. Amer. Math. Soc. 377 (2024), no. 1, 271–322.'
 
 ---
 

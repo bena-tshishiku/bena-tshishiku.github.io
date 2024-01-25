@@ -11,6 +11,7 @@ location: "Providence, USA"
 ## Announcements
 
 * (1/24) First lecture tomorrow (1/25) in 85 Waterman 015. 
+* (1/24) Homework 1 is posted below. It's due Friday, February 2 at 5pm.
 
 ## Course information
 This is part-two of a graduate course on algebraic topology. The main topics will be homotopy groups, cohomology, and Poincare duality. 
@@ -117,14 +118,14 @@ As part of completing the final project, I will ask you to submit:
   * Fri (3/8). HW6 due
 
 * Week 8: 
-  * Tues (3/12). 
+  * Tues (3/12). Midterm 1
   * Thurs (3/14). 
-  * Fri (3/15). HW7 due
+  * Fri (3/15). 
 
-* Week 9:
+* Week 9: 
   * Tues (3/19). 
   * Thurs (3/21). 
-  * Fri (3/22). 
+  * Fri (3/22). HW7 due
 
 * Week 10: Spring Break
 
