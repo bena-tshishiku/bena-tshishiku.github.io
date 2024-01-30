@@ -11,7 +11,7 @@ location: "Providence, USA"
 ## Announcements
 
 * (1/24) Homework 1 is posted below. It's due Friday, February 2 at 5pm.
-* (1/29) Office hours this week: Tuesday and Thursday 3-4 (these may change slightly in future weeks)
+* (1/29) Office hours for the semester: Tuesday and Thursday 4:30-5:30
 
 
 ## Course information
@@ -44,8 +44,7 @@ homework 30%, 1st midterm 30%, 2nd midterm 30%, final project 10%
 
 Lectures: Tu-Th 9-10:20am in Kassar 105
 
-Office hours: 
-* Bena: 
+Office hours: Tuesday, Thursday 4:30-5:30 in Kassar 304
 
 Important dates: 
 * Midterm 1: 
