@@ -10,14 +10,16 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (1/24) First lecture tomorrow (1/25) in 85 Waterman 015. 
 * (1/24) Homework 1 is posted below. It's due Friday, February 2 at 5pm.
+* (1/29) Office hours this week: Tuesday and Thursday 3-4 (these may change slightly in future weeks)
+
 
 ## Course information
-This is part-two of a graduate course on algebraic topology. The main topics will be homotopy groups, cohomology, and Poincare duality. 
+This is part two of a graduate course on algebraic topology. The main topics will be homotopy groups, cohomology, and Poincare duality. 
 
 ### Course objectives
-* prove foundational results, do computations, understand theoretical trends, see applications 
+
+Prove foundational results, do computations, understand theoretical trends, see applications 
 
 ## Prerequisites
 
@@ -43,12 +45,12 @@ homework 30%, 1st midterm 30%, 2nd midterm 30%, final project 10%
 Lectures: Tu-Th 9-10:20am in Kassar 105
 
 Office hours: 
-* Bena: TBD
+* Bena: 
 
 Important dates: 
-* Midterm: 
-* Final exam: 
-* Final projects: presented in class
+* Midterm 1: 
+* Midterm 2: 
+* Final projects: presented in class during reading period
 
 ## Homework 
 
@@ -85,11 +87,11 @@ As part of completing the final project, I will ask you to submit:
 
 
 * Week 1: 
-  * Thurs (1/25). Homotopy classes of maps, homotopy groups, H-groups, mapping spaces
+  * Thurs (1/25). Homotopy classes of maps, homotopy groups, H-groups
 
 * Week 2: 
-  * Tues (1/30). 
-  * Thurs (2/1). 
+  * Tues (1/30). Mapping spaces, H-group theorem
+  * Thurs (2/1). More mapping spaces, proof of H-group theorem
   * Fri (2/2). HW1 due
 
 * Week 3: 
@@ -118,7 +120,7 @@ As part of completing the final project, I will ask you to submit:
   * Fri (3/8). HW6 due
 
 * Week 8: 
-  * Tues (3/12). Midterm 1
+  * Tues (3/12). Midterm 1 this week (subject to change)
   * Thurs (3/14). 
   * Fri (3/15). 
 
@@ -140,9 +142,9 @@ As part of completing the final project, I will ask you to submit:
   * Fri (4/12). HW9 due
 
 * Week 13: 
-  * Tues (4/16). 
+  * Tues (4/16). Midterm 2 this week (subject to change)  
   * Thurs (4/18). 
-  * Fri (4/19). HW10 due 
+  * Fri (4/19). 
 
 * Week 14: 
   * Tues (4/23). 
