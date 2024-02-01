@@ -85,7 +85,7 @@ As part of completing the final project, I will ask you to submit:
 ## Topic schedule (subject to change)
 
 
-* Week 1: 
+* Week 1: **Homotopy classes of maps and mapping spaces**
   * Thurs (1/25). Homotopy classes of maps, homotopy groups, H-groups
 
 * Week 2: 
@@ -93,66 +93,66 @@ As part of completing the final project, I will ask you to submit:
   * Thurs (2/1). More mapping spaces, proof of H-group theorem
   * Fri (2/2). HW1 due
 
-* Week 3: 
+* Week 3: **Relative homotopy groups the LES of a pair**
   * Tues (2/6). 
   * Thurs (2/8). 
   * Fri (2/9). HW2 due
 
-* Week 4: 
+* Week 4: **Fibrations and fiber bundles**
   * Tues (2/13). 
   * Thurs (2/15). 
   * Fri (2/16). HW3 due
 
-* Week 5: 
+* Week 5: **Homotopy excision**
   * Tues (2/20). No class (university holiday)
   * Thurs (2/22). 
   * Fri (2/23). HW4 due
 
-* Week 6: 
+* Week 6: **Homotopy excision and Freudenthal suspension**
   * Tues (2/27). 
   * Thurs (2/29). 
   * Fri (3/1). HW5 due
 
-* Week 7: 
+* Week 7: **Weak homotopy equivalences and Whitehead's theorem**
   * Tues (3/5). 
   * Thurs (3/7). 
   * Fri (3/8). HW6 due
 
-* Week 8: 
+* Week 8: **Hurewicz's theorem**
   * Tues (3/12). Midterm 1 this week (subject to change)
   * Thurs (3/14). 
   * Fri (3/15). 
 
-* Week 9: 
+* Week 9: **Cohomology **
   * Tues (3/19). 
   * Thurs (3/21). 
   * Fri (3/22). HW7 due
 
 * Week 10: Spring Break
 
-* Week 11: 
+* Week 11: **Universal coefficients**
   * Tues (4/2). 
   * Thurs (4/4). 
   * Fri (4/5). HW8 due
 
-* Week 12: 
+* Week 12: **Kunneth theorem**
   * Tues (4/9). 
   * Thurs (4/11). 
   * Fri (4/12). HW9 due
 
-* Week 13: 
+* Week 13: **Cup products**
   * Tues (4/16). Midterm 2 this week (subject to change)  
   * Thurs (4/18). 
   * Fri (4/19). 
 
-* Week 14: 
+* Week 14: **Poincare duality**
   * Tues (4/23). 
   * Thurs (4/25). 
   * Fri (4/26). Final project due
 
-* Week 15: final projects
+* Week 15: Final projects
   * Tues (4/30). 
   * Thurs (5/2). 
 
-* Week 16: final projects
+* Week 16: Final projects
   * Tues (5/7). (end of course)

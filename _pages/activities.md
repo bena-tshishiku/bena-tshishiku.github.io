@@ -22,6 +22,9 @@ Some past and upcoming travel/talks:
 **2024** \
 June 10-14. Topology student workshop (Vanderbilt)\
 May 13-17. The Ceresa Cycle in Arithmetic and Geometry (ICERM)\
+April 16. Tufts GGTT seminar \
+March 8-9. Spring topology and dynamics conference (Charlotte)\ 
+March 6. Wesleyan topology seminar\ 
 Jan 10-18. Visiting Catholic University of Chile (Santiago)
 
 **2023** \
