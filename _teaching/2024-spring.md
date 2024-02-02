@@ -10,8 +10,9 @@ location: "Providence, USA"
 
 ## Announcements
 
+* (2/2) Homework 2 is posted below and due Friday, February 9 at 5pm. 
+* (1/29) Office hours for the semester: Tuesday 4:30-5:30 and Thursday 3-4. And you can always ask questions (publicly or privately) on Campuswire. 
 * (1/24) Homework 1 is posted below. It's due Friday, February 2 at 5pm.
-* (1/29) Office hours for the semester: Tuesday and Thursday 4:30-5:30
 
 
 ## Course information
@@ -44,7 +45,7 @@ homework 30%, 1st midterm 30%, 2nd midterm 30%, final project 10%
 
 Lectures: Tu-Th 9-10:20am in Kassar 105
 
-Office hours: Tuesday, Thursday 4:30-5:30 in Kassar 304
+Office hours: Tuesday 4:30-5:30 and Thursday 3-4 in Kassar 304
 
 Important dates: 
 * Midterm 1: 
@@ -64,6 +65,8 @@ Late homework policy: For your homework grade, I will drop the score from your l
 ### Homework assignments. 
 
 HW1 (due 2/2). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw1.tex) 
+
+HW2 (due 2/9). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw2.tex) 
 
 
 ## Course materials
