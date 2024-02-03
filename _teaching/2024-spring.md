@@ -10,9 +10,9 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (2/2) Homework 2 is posted below and due Friday, February 9 at 5pm. 
+* (2/3) Some solutions to HW1 are posted below. 
+* (2/2) HW2 is posted below and due Friday, February 9 at 5pm. 
 * (1/29) Office hours for the semester: Tuesday 4:30-5:30 and Thursday 3-4. And you can always ask questions (publicly or privately) on Campuswire. 
-* (1/24) Homework 1 is posted below. It's due Friday, February 2 at 5pm.
 
 
 ## Course information
@@ -64,7 +64,8 @@ Late homework policy: For your homework grade, I will drop the score from your l
 
 ### Homework assignments. 
 
-HW1 (due 2/2). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw1.tex) 
+HW1 (due 2/2). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw1.tex), [solutions](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw1-solutions.pdf)
+
 
 HW2 (due 2/9). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw2.tex) 
 
