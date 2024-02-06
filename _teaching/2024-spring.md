@@ -10,7 +10,7 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (2/5) Pending approval, office hours will now take place in 111 Thayer room 114. 
+* (2/5) Office hours will now take place in 111 Thayer room 114, starting today!
 * (2/3) Some solutions to HW1 are posted below. 
 * (2/2) HW2 is posted below and due Friday, February 9 at 5pm. 
 * (1/29) Office hours for the semester: Tuesday 4:30-5:30 and Thursday 3-4. And you can always ask questions (publicly or privately) on Campuswire. 
