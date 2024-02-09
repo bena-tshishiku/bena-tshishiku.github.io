@@ -10,10 +10,9 @@ location: "Providence, USA"
 
 ## Announcements
 
+* (2/9) HW3 is posted below and is due Friday, Feb 16 by 5pm. 
 * (2/5) Office hours will now take place in 111 Thayer room 114, starting today!
-* (2/3) Some solutions to HW1 are posted below. 
-* (2/2) HW2 is posted below and due Friday, February 9 at 5pm. 
-* (1/29) Office hours for the semester: Tuesday 4:30-5:30 and Thursday 3-4. And you can always ask questions (publicly or privately) on Campuswire. 
+* (2/2) HW2 is posted below and is due Friday, Feb 9 by 5pm. 
 
 
 ## Course information
@@ -44,9 +43,9 @@ homework 30%, 1st midterm 30%, 2nd midterm 30%, final project 10%
 
 ## Course events 
 
-Lectures: Tu-Th 9-10:20am in Kassar 105
+Lectures: Tu-Th 9-10:20am in 85 Waterman Room 015
 
-Office hours: Tuesday 4:30-5:30 and Thursday 3-4 in Kassar 304
+Office hours: Tuesday 4:30-5:30 and Thursday 3-4 in 111 Thayer Room 114
 
 Important dates: 
 * Midterm 1: 
@@ -69,6 +68,8 @@ HW1 (due 2/2). [tex file](https://bena-tshishiku.github.io/files/courses/2024-sp
 
 
 HW2 (due 2/9). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw2.tex) 
+
+HW3 (due 2/16). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw3.tex) 
 
 
 ## Course materials
@@ -98,9 +99,9 @@ As part of completing the final project, I will ask you to submit:
   * Thurs (2/1). More mapping spaces, proof of H-group theorem
   * Fri (2/2). HW1 due
 
-* Week 3: **Relative homotopy groups the LES of a pair**
-  * Tues (2/6). 
-  * Thurs (2/8). 
+* Week 3: **Relative homotopy groups the LES of a pair **
+  * Tues (2/6). LES of pair, low-degree homotopy of spheres, fibrations
+  * Thurs (2/8). LES of a pair proof, Hopf fibration 
   * Fri (2/9). HW2 due
 
 * Week 4: **Fibrations and fiber bundles**
