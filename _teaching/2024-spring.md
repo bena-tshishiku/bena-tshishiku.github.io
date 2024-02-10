@@ -13,8 +13,6 @@ location: "Providence, USA"
 * (2/10) Please fill this quick [poll](https://forms.gle/g4wadCyof52gdcrL9) to let me know how the course is going for you. 
 * (2/10) Student solutions to HW2 are posted below. 
 * (2/9) HW3 is posted below and is due Friday, Feb 16 by 5pm. 
-* (2/5) Office hours will now take place in 111 Thayer room 114, starting today!
-
 
 ## Course information
 This is part two of a graduate course on algebraic topology. The main topics will be homotopy groups, cohomology, and Poincare duality. 
