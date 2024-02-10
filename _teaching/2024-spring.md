@@ -130,7 +130,7 @@ As part of completing the final project, I will ask you to submit:
   * Thurs (3/14). 
   * Fri (3/15). 
 
-* Week 9: **Cohomology **
+* Week 9: **Cohomology**
   * Tues (3/19). 
   * Thurs (3/21). 
   * Fri (3/22). HW7 due
