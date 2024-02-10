@@ -10,7 +10,6 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (2/10) Please fill this quick [poll](https://forms.gle/g4wadCyof52gdcrL9) to let me know how the course is going for you. 
 * (2/10) Student solutions to HW2 are posted below. 
 * (2/9) HW3 is posted below and is due Friday, Feb 16 by 5pm. 
 
