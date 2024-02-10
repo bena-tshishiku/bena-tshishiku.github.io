@@ -65,7 +65,7 @@ Late homework policy: For your homework grade, I will drop the score from your l
 HW1 (due 2/2). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw1.tex), [solutions](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw1-solutions.pdf)
 
 
-HW2 (due 2/9). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw2.tex), [solutions](https://bena-tshishiku.github.io/files/courses/2024-spring/hw2-student-solutions.pdf)
+HW2 (due 2/9). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw2.tex)
 
 HW3 (due 2/16). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw3.tex) 
 
