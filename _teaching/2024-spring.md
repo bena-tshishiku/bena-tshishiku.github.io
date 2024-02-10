@@ -10,9 +10,10 @@ location: "Providence, USA"
 
 ## Announcements
 
+* (2/10) Please fill this quick [poll](https://forms.gle/g4wadCyof52gdcrL9) to let me know how the course is going for you. 
+* (2/10) Student solutions to HW2 are posted below. 
 * (2/9) HW3 is posted below and is due Friday, Feb 16 by 5pm. 
 * (2/5) Office hours will now take place in 111 Thayer room 114, starting today!
-* (2/2) HW2 is posted below and is due Friday, Feb 9 by 5pm. 
 
 
 ## Course information
@@ -67,7 +68,7 @@ Late homework policy: For your homework grade, I will drop the score from your l
 HW1 (due 2/2). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw1.tex), [solutions](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw1-solutions.pdf)
 
 
-HW2 (due 2/9). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw2.tex) 
+HW2 (due 2/9). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw2.tex), [solutions](https://bena-tshishiku.github.io/files/courses/2024-spring/hw2-student-solutions.pdf)
 
 HW3 (due 2/16). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw3.tex) 
 
