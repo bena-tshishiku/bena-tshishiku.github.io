@@ -10,9 +10,10 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (2/10) Please fill this quick [poll](https://forms.gle/g4wadCyof52gdcrL9) to let me know how the course is going for you. 
-* (2/10) Student solutions to HW2 are posted below. 
-* (2/9) HW3 is posted below and is due Friday, Feb 16 by 5pm. 
+* (2/12) **Class is canceled** for tomorrow because of the snow storm. My Tuesday office hours will be moved to Wednesday 3-4, same location. 
+* (2/10) **Please** fill this quick [poll](https://forms.gle/g4wadCyof52gdcrL9) to let me know how the course is going for you. 
+* (2/10) **HW2 student solutions** are posted below. 
+* (2/9) **HW3** is posted below and is due Friday, Feb 16 by 5pm. 
 
 ## Course information
 This is part two of a graduate course on algebraic topology. The main topics will be homotopy groups, cohomology, and Poincare duality. 
