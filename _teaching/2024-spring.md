@@ -100,32 +100,32 @@ As part of completing the final project, I will ask you to submit:
   * Thurs (2/1). More mapping spaces, proof of H-group theorem
   * Fri (2/2). HW1 due
 
-* Week 3: **Relative homotopy groups the LES of a pair **
+* Week 3: **Relative homotopy groups, LES of a pair**
   * Tues (2/6). LES of pair, low-degree homotopy of spheres, fibrations
   * Thurs (2/8). LES of a pair proof, Hopf fibration 
   * Fri (2/9). HW2 due
 
 * Week 4: **Fibrations and fiber bundles**
-  * Tues (2/13). 
-  * Thurs (2/15). 
+  * Tues (2/13). snow day
+  * Thurs (2/15). LES of fibration, Serre vs. Hurewicz vs. fiber bundle
   * Fri (2/16). HW3 due
 
-* Week 5: **Homotopy excision**
+* Week 5: **Homotopy excision, Freudenthal suspension**
   * Tues (2/20). No class (university holiday)
-  * Thurs (2/22). 
+  * Thurs (2/22). homotopy excision, cellular approximation for maps
   * Fri (2/23). HW4 due
 
-* Week 6: **Homotopy excision and Freudenthal suspension**
-  * Tues (2/27). 
-  * Thurs (2/29). 
+* Week 6: 
+  * Tues (2/27). Freudenthal suspension, homotopy excision proof
+  * Thurs (2/29). Whithead's theorem, cellular approximation for spaces
   * Fri (3/1). HW5 due
 
-* Week 7: **Weak homotopy equivalences and Whitehead's theorem**
-  * Tues (3/5). 
-  * Thurs (3/7). 
+* Week 7: **Whitehead and Hurewicz theorems**
+  * Tues (3/5). Whitehead theorem proof, Hurewicz theorem
+  * Thurs (3/7). Hurewicz theorem proof
   * Fri (3/8). HW6 due
 
-* Week 8: **Hurewicz's theorem**
+* Week 8: 
   * Tues (3/12). Midterm 1 this week (subject to change)
   * Thurs (3/14). 
   * Fri (3/15). 
