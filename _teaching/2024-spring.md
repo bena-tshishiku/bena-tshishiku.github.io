@@ -10,7 +10,8 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (2/9) **HW3** is posted below and is due Friday, Feb 16 by 5pm. 
+* (2/16) Note that there is a **university holiday** next Tuesday (2/20), i.e. no class. 
+* (2/16) **HW4** is posted below and is due Friday, Feb 23 by 5pm.  
 
 ## Course information
 This is part two of a graduate course on algebraic topology. The main topics will be homotopy groups, cohomology, and Poincare duality. 
@@ -70,6 +71,9 @@ HW2 (due 2/9). [tex file](https://bena-tshishiku.github.io/files/courses/2024-sp
 HW3 (due 2/16). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw3.tex) 
 
 
+HW4 (due 2/23). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw4.tex) 
+
+
 ## Course materials
 
 * For asynchronous discussions (e.g. questions about homework) we will use campuswire. Join [here](https://campuswire.com/p/G95A9847A) with access code 1053. 
@@ -122,12 +126,12 @@ As part of completing the final project, I will ask you to submit:
   * Thurs (3/7). Hurewicz theorem proof
   * Fri (3/8). HW6 due
 
-* Week 8: 
+* Week 8: **Cohomology**
   * Tues (3/12). Midterm 1 this week (subject to change)
   * Thurs (3/14). 
   * Fri (3/15). 
 
-* Week 9: **Cohomology**
+* Week 9: 
   * Tues (3/19). 
   * Thurs (3/21). 
   * Fri (3/22). HW7 due
