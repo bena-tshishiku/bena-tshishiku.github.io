@@ -10,6 +10,7 @@ location: "Providence, USA"
 
 ## Announcements
 
+* (2/17) Some solutions to HW3 are posed below. 
 * (2/16) Note that there is a **university holiday** next Tuesday (2/20), i.e. no class. 
 * (2/16) **HW4** is posted below and is due Friday, Feb 23 by 5pm.  
 
@@ -62,13 +63,13 @@ Late homework policy: For your homework grade, I will drop the score from your l
 
 ### Homework assignments. 
 
-HW1 (due 2/2). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw1.tex), [solutions](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw1-solutions.pdf)
+HW1 (due 2/2). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw1.tex), [solutions](https://bena-tshishiku.github.io/files/courses/2024-spring/hw1-solutions.pdf)
 
 
 HW2 (due 2/9). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw2.tex), [student solutions](https://bena-tshishiku.github.io/files/courses/2024-spring/hw2-student-solutions.pdf)
 
 
-HW3 (due 2/16). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw3.tex) 
+HW3 (due 2/16). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw3.tex), [solutions](https://bena-tshishiku.github.io/files/courses/2024-spring/hw3-solutions.pdf) 
 
 
 HW4 (due 2/23). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw4.tex) 
