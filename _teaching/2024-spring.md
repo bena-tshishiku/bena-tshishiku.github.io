@@ -10,8 +10,9 @@ location: "Providence, USA"
 
 ## Announcements
 
+* (2/19) Because of the holiday the Tuesday office hour is moved to Wednesday 3-4p in 111 Thayer Room 114. Thursday office hour this week is unchanged. 
 * (2/17) Some solutions to HW3 are posed below. 
-* (2/16) Note that there is a **university holiday** next Tuesday (2/20), i.e. no class. 
+* (2/16) There is a **university holiday** next Tuesday (2/20), i.e. no class or office hours.
 * (2/16) **HW4** is posted below and is due Friday, Feb 23 by 5pm.  
 
 ## Course information
