@@ -10,10 +10,7 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (2/19) Because of the holiday the Tuesday office hour is moved to Wednesday 3-4p in 111 Thayer Room 114. Thursday office hour this week is unchanged. 
-* (2/17) Some solutions to HW3 are posed below. 
-* (2/16) There is a **university holiday** next Tuesday (2/20), i.e. no class or office hours.
-* (2/16) **HW4** is posted below and is due Friday, Feb 23 by 5pm.  
+* (2/23) **HW5** is posed below and is due Friday, March 1 by 5pm.  
 
 ## Course information
 This is part two of a graduate course on algebraic topology. The main topics will be homotopy groups, cohomology, and Poincare duality. 
@@ -75,6 +72,8 @@ HW3 (due 2/16). [tex file](https://bena-tshishiku.github.io/files/courses/2024-s
 
 HW4 (due 2/23). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw4.tex) 
 
+
+HW5 (due 2/23). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw5.tex) 
 
 ## Course materials
 
