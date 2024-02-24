@@ -10,7 +10,8 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (2/23) **HW5** is posed below and is due Friday, March 1 by 5pm.  
+* (2/24) Solutions to HW4 are posted below
+* (2/23) **HW5** is posted below and is due Friday, March 1 by 5pm.  
 
 ## Course information
 This is part two of a graduate course on algebraic topology. The main topics will be homotopy groups, cohomology, and Poincare duality. 
@@ -70,7 +71,7 @@ HW2 (due 2/9). [tex file](https://bena-tshishiku.github.io/files/courses/2024-sp
 HW3 (due 2/16). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw3.tex), [solutions](https://bena-tshishiku.github.io/files/courses/2024-spring/hw3-solutions.pdf) 
 
 
-HW4 (due 2/23). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw4.tex) 
+HW4 (due 2/23). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw4.tex), [solutions](https://bena-tshishiku.github.io/files/courses/2024-spring/hw4-solutions.pdf)  
 
 
 HW5 (due 2/23). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw5.tex) 
