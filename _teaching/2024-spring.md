@@ -10,7 +10,8 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (2/24) Solutions to HW4 are posted below
+* (2/27) This week the **Thursday office hour** is moved to Wednesday 4-5p. Tuesday office hour is unchanged. 
+* (2/24) **Solutions to HW4** are posted below
 * (2/23) **HW5** is posted below and is due Friday, March 1 by 5pm.  
 
 ## Course information
@@ -119,7 +120,7 @@ As part of completing the final project, I will ask you to submit:
   * Fri (2/23). HW4 due
 
 * Week 6: 
-  * Tues (2/27). Freudenthal suspension, homotopy excision proof
+  * Tues (2/27). Freudenthal suspension, Whitehead's theorem
   * Thurs (2/29). Whithead's theorem, cellular approximation for spaces
   * Fri (3/1). HW5 due
 
