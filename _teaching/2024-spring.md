@@ -10,9 +10,7 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (2/27) This week the **Thursday office hour** is moved to Wednesday 4-5p. Tuesday office hour is unchanged. 
-* (2/24) **Solutions to HW4** are posted below
-* (2/23) **HW5** is posted below and is due Friday, March 1 by 5pm.  
+* (3/1) **HW6** is posted below and is due Friday, March 8 by 5pm.  
 
 ## Course information
 This is part two of a graduate course on algebraic topology. The main topics will be homotopy groups, cohomology, and Poincare duality. 
@@ -75,7 +73,10 @@ HW3 (due 2/16). [tex file](https://bena-tshishiku.github.io/files/courses/2024-s
 HW4 (due 2/23). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw4.tex), [solutions](https://bena-tshishiku.github.io/files/courses/2024-spring/hw4-solutions.pdf)  
 
 
-HW5 (due 2/23). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw5.tex) 
+HW5 (due 3/1). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw5.tex) 
+
+
+HW6 (due 3/8). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw6.tex) 
 
 ## Course materials
 
@@ -130,7 +131,7 @@ As part of completing the final project, I will ask you to submit:
   * Fri (3/8). HW6 due
 
 * Week 8: **Cohomology**
-  * Tues (3/12). Midterm 1 this week (subject to change)
+  * Tues (3/12). Midterm 1 this week 
   * Thurs (3/14). 
   * Fri (3/15). 
 
