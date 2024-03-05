@@ -10,6 +10,7 @@ location: "Providence, USA"
 
 ## Announcements
 
+* (3/5) There will be no office hours this Thursday (I'm traveling). If it helps, I can stick around after class to answer questions. There are office hours today (Tuesday) as usual.
 * (3/1) **HW6** is posted below and is due Friday, March 8 by 5pm.  
 
 ## Course information
