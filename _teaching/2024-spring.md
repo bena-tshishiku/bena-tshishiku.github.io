@@ -10,8 +10,8 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (3/5) There will be no office hours this Thursday (I'm traveling). If it helps, I can stick around after class to answer questions. There are office hours today (Tuesday) as usual.
-* (3/1) **HW6** is posted below and is due Friday, March 8 by 5pm.  
+* (3/11) The midterms have started. Please do not discuss things related to the midterm until Friday at 5p.
+* (3/11) There will be class as usual this week, but no office hours. 
 
 ## Course information
 This is part two of a graduate course on algebraic topology. The main topics will be homotopy groups, cohomology, and Poincare duality. 
@@ -131,10 +131,10 @@ As part of completing the final project, I will ask you to submit:
   * Thurs (3/7). Hurewicz theorem proof
   * Fri (3/8). HW6 due
 
-* Week 8: **Cohomology**
-  * Tues (3/12). Midterm 1 this week 
-  * Thurs (3/14). 
-  * Fri (3/15). 
+* Week 8: **Cohomology (and midterms)**
+  * Tues (3/12). Cohomology
+  * Thurs (3/14). Universal coefficient theorem
+  * Fri (3/15). (no homework due this week)
 
 * Week 9: 
   * Tues (3/19). 
