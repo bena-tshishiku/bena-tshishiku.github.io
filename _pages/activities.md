@@ -10,7 +10,7 @@ author_profile: true
 
 ## Things I'm co-organizing
 
-[GASTBY Fall 2023!](https://sites.google.com/view/gatsby-fall2023) 
+[GASTBY Fall 2023](https://sites.google.com/view/gatsby-fall2023) 
 
 [Brown Geom-Top seminar](https://www.math.brown.edu/reschwar/seminar.html)\
 [Brown's math circle](https://sites.google.com/view/bumc-activities/home) 
@@ -22,7 +22,7 @@ Some past and upcoming travel/talks:
 **2024** \
 June 10-14. Topology student workshop (Vanderbilt)\
 May 13-17. The Ceresa Cycle in Arithmetic and Geometry (ICERM)\
-April 16. Tufts GGTT seminar \
+April 16. Tufts GGTT seminar\
 March 8-9. Spring topology and dynamics conference (Charlotte)\ 
 March 6. Wesleyan topology seminar\ 
 Jan 10-18. Visiting Catholic University of Chile (Santiago)
