@@ -10,8 +10,7 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (3/11) The midterms have started. Please do not discuss things related to the midterm until Friday at 5p.
-* (3/11) There will be class as usual this week, but no office hours. 
+* (3/15) Homework 7 is posted below and due Friday, March 22. 
 
 ## Course information
 This is part two of a graduate course on algebraic topology. The main topics will be homotopy groups, cohomology, and Poincare duality. 
@@ -78,6 +77,9 @@ HW5 (due 3/1). [tex file](https://bena-tshishiku.github.io/files/courses/2024-sp
 
 
 HW6 (due 3/8). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw6.tex) 
+
+
+HW7 (due 3/22). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw7.tex) 
 
 ## Course materials
 
