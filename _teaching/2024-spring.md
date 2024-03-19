@@ -45,8 +45,8 @@ Lectures: Tu-Th 9-10:20am in 85 Waterman Room 015
 Office hours: Tuesday 4:30-5:30 and Thursday 3-4 in 111 Thayer Room 114
 
 Important dates: 
-* Midterm 1: 
-* Midterm 2: 
+* Midterm 1: Week of March 11
+* Midterm 2: Week of April 22
 * Final projects: presented in class during reading period
 
 ## Homework 
@@ -73,10 +73,10 @@ HW3 (due 2/16). [tex file](https://bena-tshishiku.github.io/files/courses/2024-s
 HW4 (due 2/23). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw4.tex), [solutions](https://bena-tshishiku.github.io/files/courses/2024-spring/hw4-solutions.pdf)  
 
 
-HW5 (due 3/1). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw5.tex) 
+HW5 (due 3/1). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw5.tex), [solutions](https://bena-tshishiku.github.io/files/courses/2024-spring/hw5-solutions.pdf)  
 
 
-HW6 (due 3/8). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw6.tex) 
+HW6 (due 3/8). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw6.tex), [solutions](https://bena-tshishiku.github.io/files/courses/2024-spring/hw6-solutions.pdf)  
 
 
 HW7 (due 3/22). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw7.tex) 
@@ -134,13 +134,13 @@ As part of completing the final project, I will ask you to submit:
   * Fri (3/8). HW6 due
 
 * Week 8: **Cohomology (and midterms)**
-  * Tues (3/12). Cohomology
-  * Thurs (3/14). Universal coefficient theorem
+  * Tues (3/12). Cohomology introduction
+  * Thurs (3/14). Hom and Ext
   * Fri (3/15). (no homework due this week)
 
 * Week 9: 
-  * Tues (3/19). 
-  * Thurs (3/21). 
+  * Tues (3/19). Universal coefficient theorem discussion, Ext computation
+  * Thurs (3/21). Universal coefficient proof, application of Ext to group cohomology
   * Fri (3/22). HW7 due
 
 * Week 10: Spring Break
@@ -156,12 +156,12 @@ As part of completing the final project, I will ask you to submit:
   * Fri (4/12). HW9 due
 
 * Week 13: **Cup products**
-  * Tues (4/16). Midterm 2 this week (subject to change)  
+  * Tues (4/16). 
   * Thurs (4/18). 
   * Fri (4/19). 
 
 * Week 14: **Poincare duality**
-  * Tues (4/23). 
+  * Tues (4/23). Midterm 2 this week (subject to change)  
   * Thurs (4/25). 
   * Fri (4/26). Final project due
 
