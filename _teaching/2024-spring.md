@@ -138,32 +138,32 @@ As part of completing the final project, I will ask you to submit:
   * Thurs (3/14). Hom and Ext
   * Fri (3/15). (no homework due this week)
 
-* Week 9: 
+* Week 9: **Universal coefficients**
   * Tues (3/19). Universal coefficient theorem discussion, Ext computation
   * Thurs (3/21). Universal coefficient proof, application of Ext to group cohomology
   * Fri (3/22). HW7 due
 
 * Week 10: Spring Break
 
-* Week 11: **Universal coefficients**
+* Week 11: **Kunneth theorem**
   * Tues (4/2). 
   * Thurs (4/4). 
-  * Fri (4/5). HW8 due
+  * Fri (4/5). HW8 due, final project proposal due
 
-* Week 12: **Kunneth theorem**
+* Week 12: **Cup products**
   * Tues (4/9). 
   * Thurs (4/11). 
-  * Fri (4/12). HW9 due
+  * Fri (4/12). HW9 due, final project outline due
 
-* Week 13: **Cup products**
+* Week 13: **Poincare duality**
   * Tues (4/16). 
   * Thurs (4/18). 
-  * Fri (4/19). 
+  * Fri (4/19). Final project slides due
 
-* Week 14: **Poincare duality**
-  * Tues (4/23). Midterm 2 this week (subject to change)  
+* Week 14: Midterm 2 this week 
+  * Tues (4/23).   
   * Thurs (4/25). 
-  * Fri (4/26). Final project due
+  * Fri (4/26). 
 
 * Week 15: Final projects
   * Tues (4/30). 
