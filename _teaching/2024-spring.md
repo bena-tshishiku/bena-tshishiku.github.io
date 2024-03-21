@@ -10,6 +10,7 @@ location: "Providence, USA"
 
 ## Announcements
 
+* (3/21) **Final project topic proposal** will be due Friday, April 5. See below for additional details and some project ideas. 
 * (3/15) Homework 7 is posted below and due Friday, March 22. 
 
 ## Course information
@@ -87,14 +88,35 @@ HW7 (due 3/22). [tex file](https://bena-tshishiku.github.io/files/courses/2024-s
 
 
 ## Final Project
-Working in groups of 2, you'll choose a topic and give an N-minute presentation during reading period. 
+Working in groups of 2, you'll choose a topic and give an 30-minute presentation during reading period. 
 
-The topic should be something related to the course that interests you. I will suggest some topics later. 
+The topic should be something related to the course that interests you. 
 
 As part of completing the final project, I will ask you to submit: 
-* A project proposal 
-* A project outline 
-* Final presentation slides 
+* A project proposal (due April 5) 
+* A project outline (due April 12) 
+* A draft of final presentation slides (or talk notes) (due April 19)
+
+Some project ideas: 
+
+* Hopf invariant
+* H-spaces and Hopf algebras
+* Local coefficients
+* Brown representability 
+* spectra and (co)homology theories
+* group cohomology
+* Steenrod squares
+* Pontryagin-Thom theorem and stable homotopy groups
+* cobordism groups
+* J-homomorphism and stable homotopy groups
+* Bott periodicity
+* Alexander duality
+* group cohomology and group extensions 
+* plus construction and (algebraic) K-theory
+* Lefschetz fixed point theorem
+* Grassmannians and classifying spaces
+* vector bundles and topological K-theory
+* Extra topics in Hatcher or Bredon or found elsewhere
 
 
 ## Topic schedule (subject to change)
