@@ -104,7 +104,6 @@ Some project ideas:
 * Local coefficients
 * Brown representability 
 * spectra and (co)homology theories
-* group cohomology
 * Steenrod squares
 * Pontryagin-Thom theorem and stable homotopy groups
 * cobordism groups
