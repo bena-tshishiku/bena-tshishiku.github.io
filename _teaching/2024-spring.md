@@ -10,6 +10,7 @@ location: "Providence, USA"
 
 ## Announcements
 
+* (3/31) Office hours for the remainder of the semester will take place in my office Kassar 304. 
 * (3/30) Homework 8 is posted below and due Friday, April 5.
 * (3/21) **Final project topic proposal** will be due Friday, April 5. See below for additional details and some project ideas. 
  
@@ -120,6 +121,7 @@ Some project ideas:
 * Grassmannians and classifying spaces
 * vector bundles and topological K-theory
 * Extra topics in Hatcher or Bredon or found elsewhere
+* Manifolds are cell complexes
 
 
 ## Topic schedule (subject to change)
