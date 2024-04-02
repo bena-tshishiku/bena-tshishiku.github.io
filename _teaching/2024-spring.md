@@ -10,6 +10,7 @@ location: "Providence, USA"
 
 ## Announcements
 
+* (4/2) Office hours today will be at 3pm. Office hours Thursday will be at 4:30pm (this week only).
 * (3/31) Office hours for the remainder of the semester will take place in my office Kassar 304. 
 * (3/30) Homework 8 is posted below and due Friday, April 5.
 * (3/21) **Final project topic proposal** will be due Friday, April 5. See below for additional details and some project ideas. 
