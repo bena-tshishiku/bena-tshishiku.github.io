@@ -85,7 +85,10 @@ HW6 (due 3/8). [tex file](https://bena-tshishiku.github.io/files/courses/2024-sp
 
 HW7 (due 3/22). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw7.tex) 
 
-HW8 (due 4/5). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw8.tex) [final project proposal](https://bena-tshishiku.github.io/files/courses/2024-spring/final-project-proposal.pdf)
+HW8 (due 4/5). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw8.tex), [final project proposal](https://bena-tshishiku.github.io/files/courses/2024-spring/final-project-proposal.pdf)
+
+
+HW9 (due 4/12). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw9.tex), [final project proposal](https://bena-tshishiku.github.io/files/courses/2024-spring/final-project-outline.pdf)
 
 
 ## Course materials
@@ -174,8 +177,8 @@ Some project ideas:
 * Week 10: Spring Break
 
 * Week 11: **Kunneth theorem**
-  * Tues (4/2). 
-  * Thurs (4/4). 
+  * Tues (4/2). Homology of product, Tor, algebraic and geometric Kunneth theorems
+  * Thurs (4/4). Eilenberg-Zilber theorem, acyclic models method 
   * Fri (4/5). HW8 due, final project proposal due
 
 * Week 12: **Cup products**
