@@ -10,11 +10,11 @@ location: "Providence, USA"
 
 ## Announcements
 
+* (4/8) **Office hours this week** are Tuesday at 3 and Thursday at 4:30. Apologies for any inconvenience. 
 * (4/5) **Final project topic outline** is due Friday, April 12. See below for additional instructions. 
 * (4/5) Homework 9 is posted below and due Friday, April 12.
 * (3/31) Office hours for the remainder of the semester will take place in my office Kassar 304. 
 
- 
 
 ## Course information
 This is part two of a graduate course on algebraic topology. The main topics will be homotopy groups, cohomology, and Poincare duality. 
@@ -88,7 +88,7 @@ HW7 (due 3/22). [tex file](https://bena-tshishiku.github.io/files/courses/2024-s
 HW8 (due 4/5). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw8.tex), [final project proposal](https://bena-tshishiku.github.io/files/courses/2024-spring/final-project-proposal.pdf)
 
 
-HW9 (due 4/12). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw9.tex), [final project proposal](https://bena-tshishiku.github.io/files/courses/2024-spring/final-project-outline.pdf)
+HW9 (due 4/12). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw9.tex), [final project outline](https://bena-tshishiku.github.io/files/courses/2024-spring/final-project-outline.pdf)
 
 
 ## Course materials
