@@ -10,9 +10,8 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (4/8) **Office hours this week** are Tuesday at 3 and Thursday at 4:30. Apologies for any inconvenience. 
-* (4/5) **Final project topic outline** is due Friday, April 12. See below for additional instructions. 
-* (4/5) Homework 9 is posted below and due Friday, April 12.
+* (4/5) **Final project slides** are due Friday, April 19. See below for additional instructions. 
+* (4/12) The last HW assignment (HW10) is posted below and due Friday, April 19.
 * (3/31) Office hours for the remainder of the semester will take place in my office Kassar 304. 
 
 
@@ -90,7 +89,7 @@ HW8 (due 4/5). [tex file](https://bena-tshishiku.github.io/files/courses/2024-sp
 
 HW9 (due 4/12). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw9.tex), [final project outline](https://bena-tshishiku.github.io/files/courses/2024-spring/final-project-outline.pdf)
 
-HW10 (due 4/19). 
+HW10 (due 4/19). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw9.tex), [final project slides](https://bena-tshishiku.github.io/files/courses/2024-spring/final-project-slides.pdf)
 
 ## Course materials
 
@@ -109,7 +108,11 @@ As part of completing the final project, I will ask you to submit:
 
 Some project ideas: 
 
-* Hopf invariant
+* Hopf invariant (Ella and Sujung)
+* Grassmannians and classifying spaces (Xuyan and Roberta)
+* Lefschetz fixed point theorem (Ivan and Edwin) 
+* group cohomology and group extensions (Ian and Semir)
+* Nerve theorem and application (Carlos)
 * H-spaces and Hopf algebras
 * Local coefficients
 * Brown representability 
@@ -120,10 +123,7 @@ Some project ideas:
 * J-homomorphism and stable homotopy groups
 * Bott periodicity
 * Alexander duality
-* group cohomology and group extensions 
 * plus construction and (algebraic) K-theory
-* Lefschetz fixed point theorem
-* Grassmannians and classifying spaces
 * vector bundles and topological K-theory
 * Extra topics in Hatcher or Bredon or found elsewhere
 * Manifolds are cell complexes
@@ -192,8 +192,8 @@ Some project ideas:
   * Thurs (4/18). 
   * Fri (4/19). HW 10 due, final project slides due
 
-* Week 14: Midterm 2 this week 
-  * Tues (4/23).   
+* Week 14: **Midterm 2 this week** 
+  * Tues (4/23). More Poincare duality, possibly additional topics
   * Thurs (4/25). 
   * Fri (4/26). 
 
