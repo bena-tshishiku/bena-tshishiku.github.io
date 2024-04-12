@@ -89,7 +89,7 @@ HW8 (due 4/5). [tex file](https://bena-tshishiku.github.io/files/courses/2024-sp
 
 HW9 (due 4/12). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw9.tex), [final project outline](https://bena-tshishiku.github.io/files/courses/2024-spring/final-project-outline.pdf)
 
-HW10 (due 4/19). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw9.tex), [final project slides](https://bena-tshishiku.github.io/files/courses/2024-spring/final-project-slides.pdf)
+HW10 (due 4/19). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw10.tex), [final project slides](https://bena-tshishiku.github.io/files/courses/2024-spring/final-project-slides.pdf)
 
 ## Course materials
 
