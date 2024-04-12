@@ -90,6 +90,7 @@ HW8 (due 4/5). [tex file](https://bena-tshishiku.github.io/files/courses/2024-sp
 
 HW9 (due 4/12). [tex file](https://bena-tshishiku.github.io/files/courses/2024-spring/242-hw9.tex), [final project outline](https://bena-tshishiku.github.io/files/courses/2024-spring/final-project-outline.pdf)
 
+HW10 (due 4/19). 
 
 ## Course materials
 
@@ -182,14 +183,14 @@ Some project ideas:
   * Fri (4/5). HW8 due, final project proposal due
 
 * Week 12: **Cup products**
-  * Tues (4/9). 
-  * Thurs (4/11). 
+  * Tues (4/9). Construction of the cup product, examples
+  * Thurs (4/11). Cup product properties and examples
   * Fri (4/12). HW9 due, final project outline due
 
 * Week 13: **Poincare duality**
-  * Tues (4/16). 
+  * Tues (4/16). Poincare duality intro, orientations on manifolds
   * Thurs (4/18). 
-  * Fri (4/19). Final project slides due
+  * Fri (4/19). HW 10 due, final project slides due
 
 * Week 14: Midterm 2 this week 
   * Tues (4/23).   
