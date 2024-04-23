@@ -10,8 +10,7 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (4/5) **Final project slides** are due Friday, April 19. See below for additional instructions. 
-* (4/12) The last HW assignment (HW10) is posted below and due Friday, April 19.
+* (4/23) Office hours this week are at the usual time (Tu 4:30, Th 3)
 * (3/31) Office hours for the remainder of the semester will take place in my office Kassar 304. 
 
 
@@ -189,17 +188,17 @@ Some project ideas:
 
 * Week 13: **Poincare duality**
   * Tues (4/16). Poincare duality intro, orientations on manifolds
-  * Thurs (4/18). 
+  * Thurs (4/18). Fundamental class, PD and cup products
   * Fri (4/19). HW 10 due, final project slides due
 
 * Week 14: **Midterm 2 this week** 
-  * Tues (4/23). More Poincare duality, possibly additional topics
-  * Thurs (4/25). 
+  * Tues (4/23). PD and cap products, manifolds that bound
+  * Thurs (4/25). Brown representability
   * Fri (4/26). 
 
 * Week 15: Final projects
-  * Tues (4/30). 
-  * Thurs (5/2). 
+  * Tues (4/30). Edwin+Ivan, Sujung+Ella
+  * Thurs (5/2). Carlos, Roberta+Xuyan
 
 * Week 16: Final projects
-  * Tues (5/7). (end of course)
+  * Tues (5/7). Ian+Semir
