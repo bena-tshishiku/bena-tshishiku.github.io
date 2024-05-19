@@ -60,11 +60,25 @@ Other articles
   
 Talks
 ======
+* 2024
+  * Ceresa cycle in arithmetic and geometry (ICERM) 
+  * Spring topology and dynamics conference (Charlotte) 
+  * Seminars: Tufts, Wesleyan
+
+* 2023
+  * Texas Geometry and Topology Conference (Rice) 
+  * Groups around 3-manifolds (Montreal, CRM) 
+  * Interactions between algebraic topology and GGT (Oaxaca) 
+  * Mid-Atlantic topology conference (UPenn) 
+  * AMS Sectional: geometric group theory (GaTech)
+  * Colloquia: Holy Cross, SUNY Buffalo
+  * Seminars: Purdue, Vanderbilt
+
 * 2022
   * Upstate NY topology conference (Syracuse) 
   * Low dimensional topology and homeomorphism groups (UMaryland) 
   * PATCH (Temple) 
-  * Colloquia: PUC-Chile
+  * Colloquium: PUC-Chile
   * Seminars: U-Chicago, PUC-Chile, Yale, MIT, Boston College
 
 * 2021
@@ -75,7 +89,7 @@ Talks
 * 2020
   * Spring Topology and Dynamics Conference
   * Georgia Tech Topology Conference 
-  * Colloquia: Duke
+  * Colloquium: Duke
   * Seminars: Caltech, Tufts, U-Penn, Binghamton
 
 * 2019
@@ -84,7 +98,7 @@ Talks
   * 4-manifolds: confluence of high/low dimensions (Fields Institute) 
   * Redbud topology conference (Norman, OK)
   * Spring Topology and Dynamics Conference (Birmingham, AL)
-  * Colloquia: UCSD
+  * Colloquium: UCSD
   * Seminars: Tufts, Michigan, Ohio State
 
 * 2018
@@ -164,14 +178,14 @@ Advising and mentoring
 Service and leadership
 ======
 * Conference organization
-  * Fall 2022: Brown-Yale Geometry-Topology Conference (GATSBY)
-  * 2022: Spring Topology and Dynamics Conference special session on GT (Baylor University)
-  * 2019: Spring Topology and Dynamics Conference special session on GT (UA-Birmingham)
+  * Brown-Yale Geometry-Topology Conference (GATSBY) Fall 2022, Spring 2023, Fall 2023, Spring 2024
+  * Spring Topology and Dynamics Conference special session on GT; 2019, 2022
 * Outreach 
   * 2019-present: Brown math circle at Blackstone Valley Prep (2019-2021) and Achievement First (2021-present)
   * 2014-2015: Upward Bound Saturday School instructor to 24 CPS students
 * Refereeing 
-  * G&T, Forum Math Pi, JLMS, BLMS, JTop, QJM, Nagoya Math J, MMJ, AGT, JTA, GD
+  * G&T, Forum Math Pi, Composition, JLMS, BLMS, CMH, JTop, QJM, Nagoya Math J, MMJ, AGT, JTA, GD, Topol. Appl
+  * NSF Panelist: 2022, 2023
 * Other
   * 2016-2020: Directed Reading Program Network, Organizer
   * 2012-2015: UChicago Directed Reading Program committee member
