@@ -19,7 +19,8 @@ Education
 
 Employment
 ======
-* 2019-present: Assistant Professor, Brown University
+* 2024-present: Joukowsky Family Assistant Professor of Mathematics, Brown University 
+* 2019-2024: Assistant Professor, Brown University
 * 2016-2019: Benjamin Peirce Fellow, Harvard University
 * 2015-2016: NSF Postdoctoral Fellow, Stanford University
 
