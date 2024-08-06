@@ -26,6 +26,7 @@ Employment
   
 Awards
 ======
+* 2023: NSF career grant DMS-2236705
 * 2021: NSF grant (Topology) DMS-2104346
 * 2015: NSF Postdoctoral Fellowship DMS-1502794 
 * 2011: NSF Graduate Student Research Fellowship DGE-114408 
