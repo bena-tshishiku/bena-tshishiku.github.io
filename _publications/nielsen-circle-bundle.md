@@ -6,7 +6,7 @@ excerpt: ''
 date: 2023-11-01
 venue: 'with A. al Beaini and L. Chen'
 paperurl: ''
-citation: 'arxiv:2311.15508'
+citation: 'Submitted. arxiv:2311.15508'
 
 ---
 

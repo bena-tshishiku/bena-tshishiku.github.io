@@ -181,12 +181,12 @@ Service and leadership
 ======
 * Conference organization
   * Brown-Yale Geometry-Topology Conference (GATSBY) Fall 2022, Spring 2023, Fall 2023, Spring 2024
-  * Spring Topology and Dynamics Conference special session on GT; 2019, 2022
+  * Spring Topology and Dynamics Conference special session on GT; 2019, 2022, 2025
 * Outreach 
   * 2019-present: Brown math circle at Blackstone Valley Prep (2019-2021) and Achievement First (2021-present)
   * 2014-2015: Upward Bound Saturday School instructor to 24 CPS students
 * Refereeing 
-  * G&T, Forum Math Pi, Composition, JLMS, BLMS, CMH, JTop, QJM, Nagoya Math J, MMJ, AGT, JTA, GD, Topol. Appl
+  * G&T, JDG, Forum Math Pi, Compositio, JLMS, BLMS, CMH, JTop, QJM, Israel J Math, PAMS, Nagoya Math J, MMJ, AGT, JTA, GD, Topol. Appl
   * NSF Panelist: 2022, 2023
 * Other
   * 2016-2020: Directed Reading Program Network, Organizer
