@@ -3,7 +3,7 @@ title: "Geometric cycles and characteristic classes of manifold bundles"
 collection: publications
 permalink: publication/geocycles
 excerpt: ''
-date: 2021-01-01
+date: 2021-12-01
 venue: 'with appendix by M. Krannich'
 paperurl: ''
 citation: 'Comment. Math. Helv. 96 (2021) 1, 1-45.'

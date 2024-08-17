@@ -3,7 +3,7 @@ title: "Arithmeticity of the monodromy of some Kodaira fibrations"
 collection: publications
 permalink: publication/AKarithmetic
 excerpt: ''
-date: 2020-01-01
+date: 2020-12-01
 venue: 'with N. Salter'
 paperurl: ''
 citation: 'Compositio Math. 156 (2020) 1, 114-157.'

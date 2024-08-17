@@ -3,7 +3,7 @@ title: "Symmetries of exotic negatively curved manifolds"
 collection: publications
 permalink: publication/nielsen-exotic
 excerpt: ''
-date: 2022-01-01
+date: 2022-12-01
 venue: 'with M. Bustamante'
 paperurl: ''
 citation: 'J. Diff. Geom. 120 (2022) 2, 231-250.'
