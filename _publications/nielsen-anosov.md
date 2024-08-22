@@ -6,7 +6,7 @@ excerpt: ''
 date: 2024-01-01
 venue: 'with M. Bustamante'
 paperurl: ''
-citation: 'in preparation'
+citation: 'arXiv:2408.09346'
 
 ---
 
