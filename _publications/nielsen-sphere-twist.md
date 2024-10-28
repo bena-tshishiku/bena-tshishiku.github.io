@@ -18,7 +18,7 @@ We study the Nielsen realization problem for subgroups of Twist(M).
 We prove that a group G<Twist(M) is realized by diffeomorphisms if and 
 only if G is cyclic and M is a connected sum of lens spaces. 
 
-Correction: The remark about a counterexample to equivariant geometrization of 3-manifolds is incorrect (i.e. there is no counterexample). Note that a geometric metric on S^2 ⨉ S^1 is not necessarily a product metric.
+Correction: The remark about a counterexample to equivariant geometrization of 3-manifolds is incorrect (i.e. there is no counterexample). Note that a geometric metric on S^2 ⨉ S^1 is not necessarily a product metric. This mistake does not affect anything else in the paper. We also note that a similar mistake appears in Zimmermann's paper "A note on the Nielsen realization problem for connected sums of $S^2\times S^1$", which is one paper that motivated our work. 
 
 
 ## Talk notes 
