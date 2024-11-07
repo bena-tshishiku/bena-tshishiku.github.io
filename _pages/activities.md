@@ -8,12 +8,14 @@ author_profile: true
 
 {% include base_path %}
 
+[Brown Geom-Top seminar](https://sites.google.com/view/ethandlugie/research/brown-geometry-and-topology-seminar?authuser=0)
+
 ## Things I'm co-organizing
 
-[GASTBY Spring 2024](https://sites.google.com/view/gatsby-spring-2024) 
-
-[Brown Geom-Top seminar](https://www.math.brown.edu/reschwar/seminar.html)\
-[Brown's math circle](https://sites.google.com/view/bumc-activities/home) 
+[Brown's math circle](https://sites.google.com/view/bumc-activities/home)\
+[GASTBY Fall 2024](https://sites.google.com/view/gatsby-fall-2024)\
+[Spring topology and dynamics conference 2025](https://cnu.edu/stdc/)\
+[Discrete groups in topology and algebraic geometry](https://sites.nd.edu/cmnd2025-thematic-program/2024/08/12/thematic-program-in-discrete-groups-in-topology-and-algebraic-geometry/)
 
 ## Travel 
 
