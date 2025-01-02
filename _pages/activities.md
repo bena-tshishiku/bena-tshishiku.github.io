@@ -21,7 +21,16 @@ author_profile: true
 
 Some past and upcoming travel/talks: 
 
+**2025** \
+June 9-20. Discrete Groups in Topology and Algebraic Geometry (Notre Dame)\
+May 5-9. Mapping Class Groups, Surface Subgroups, Bundles, and Group Extensions (ICMAT)\
+March 6-8. Spring topology and dynamics conference (Christopher Newport University)\
+Jan 27-31. Motives and mapping class groups (AIM)\
+Jan 6-17. Hyperbolic manifolds, their submanifolds and fundamental groups (IMPA)\
+
 **2024** \
+Nov 26. Brandeis topology seminar\
+Nov 16. GATSBY conference at Yale\
 June 10-14. Topology student workshop (Vanderbilt)\
 May 13-17. The Ceresa Cycle in Arithmetic and Geometry (ICERM)\
 April 16. Tufts GGTT seminar\
