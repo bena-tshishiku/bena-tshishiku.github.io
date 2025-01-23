@@ -11,7 +11,7 @@ location: "Providence, USA"
 ## Announcements
 
 * (1/23) Please read the page below for the important information about the course. 
-* (1/23) There will be no class next week. (I will be at a conference.) As a replacement for lecture (possibly an improvement 🙈), please read Hatcher Section 3.1. In particular, please look closely at the proof of the Universal Coefficient Theorem and the various properties of cohomology (homotopy invariants, LES, Mayer-Vietoris,...) which hopefully are familiar from your study of homology. We will not discuss this material in class (but there is some related exercises on HW1). When I return we will begin with a few more comments on universal coefficients and then move on to the Kunneth theorem and cup products.
+* (1/23) There will be no class next week. (I will be at a conference.) As a replacement for lecture (possibly an improvement 🙈), please read Hatcher Section 3.1. In particular, please look closely at the proof of the Universal Coefficient Theorem and the various properties of cohomology (homotopy invariance, LES, Mayer-Vietoris,...) which hopefully are familiar from your study of homology. We will not discuss this material in class (but there is some related exercises on HW1). When I return we will begin with a few more comments on universal coefficients and then move on to the Kunneth theorem and cup products.
 * (1/23) Homework 1 is posted below. If you're debating whether to take the course, I'll remark that this should be pretty representative of homework assignments, but is  possibly a little longer than usual. 
 
 ## Course information
