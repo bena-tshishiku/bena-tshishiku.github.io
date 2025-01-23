@@ -1,0 +1,158 @@
+\documentclass[11pt]{article}
+
+\author{Math 2420}
+\date{Due Friday, January 31 by 5pm} 
+\title{Homework 1}
+
+\usepackage{graphicx,xypic}
+\usepackage{amsthm}
+\usepackage{amsmath,amssymb}
+\usepackage{amsfonts}
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage[shortlabels]{enumitem}
+\newtheorem{problem}{Problem}
+\renewcommand*{\proofname}{{\color{blue}Solution}}
+
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1.25ex}
+
+
+\begin{document}
+
+\maketitle
+
+% You are required to put your name here (this let's me know that you are submitting your own work):
+{\bf\Large Your Name:} 
+
+% You are required to put your collaborator names here:
+Collaborator names: 
+
+
+\vspace{.3in}
+Topics covered: Hatcher 3.1 (cohomology, universal coefficients, axioms for cohomology)
+
+Instructions: {\bf Please read these carefully.} 
+\begin{itemize}
+\item This assignment must be submitted on Gradescope by the due date. Gradescope Entry Code: BKVKN2. 
+\item If you collaborate with other students (which is encouraged!), please list your collaborators above. 
+\item Homework is graded anonymously, so please avoid putting your name on every page of the assignment.
+\item If you are stuck, please ask for help (from me or a classmate). Use Campuswire!  
+\item You may freely use any fact proved in class. You should provide proof for facts that you use that were not proved in class. Usually you should be able to solve the problems without outside knowledge (sometimes I overlook some fact you may need, so please do ask if it seems like you need to use a significant result from another subject). 
+\item Please try to make your solutions clear and concise. When grading, I will look to see that you have the correct idea, and also that you have addressed all of the main issues (for example, if you define a map on equivalence classes, you should say why it is well defined). That being said, I encourage you to try to restrict your solution to each problem to a single page. Often solutions can be even shorter than that. 
+\end{itemize}
+\pagebreak 
+
+
+
+
+\pagebreak 
+
+
+
+{\bf Moral exercises.} The following problems are not to be submitted for grading, but you are strongly encouraged to look at/solve them for yourself (unless perhaps you have already seen something similar before). The problems to be graded are the numbered problems on the subsequent pages.
+\begin{enumerate}[(a)]
+\item In class we computed the cellular cohomology of $X=\mathbb RP^2\vee S^3$ with $\mathbb Z$ and $\mathbb Z/2\mathbb Z$ coefficients. Use the universal coefficient theorem to arrive at the same answer. 
+
+\item Check that $Hom(-,M)$ is a left-exact contravariant functor. This means that if 
+\[0\to A\xrightarrow{f} B\xrightarrow{g} C\to 0\] is a short exact sequence (of abelian groups, say), then the induced sequence 
+\[0\to Hom(C,M)\xrightarrow{g^*} Hom(B,M)\xrightarrow{f^*}Hom(A,M)\]
+is exact. Deduce from this that $Ext^0_{\mathbb Z}(N,M)\cong Hom(N,M)$. 
+\end{enumerate}
+
+
+\pagebreak 
+
+
+
+\begin{problem}
+Let $X$ be a finite graph, and let $T\subset X$ be a maximal tree. Prove that $H^1(X;\mathbb Z)$ is isomorphic to the group of cochains supported on the edges of $X\setminus T$. \footnote{Hint: Using cellular chains/cochains/cohomology, there is a map from the latter to the former. Show it is an isomorphism.}
+\end{problem}
+
+\begin{proof}
+
+\end{proof} 
+
+\pagebreak
+
+\begin{problem}
+Let $S_*(X)$ denote the singular chain complex of a connected space $X$. Regard a homomorphism $f:S_1(X)\to M$ as an $M$-valued function on paths in $X$. Assume $f$ is a cocycle, and prove the following: 
+\begin{enumerate}[(a)]
+\item $f(\alpha*\beta)=f(\alpha)+f(\beta)$ ($*=$ concatenation of paths)
+\item $f$ is zero on constant paths
+\item  $f$ takes the same value on homotopic paths
+\item $f$ is a coboundary if and only if $f(\alpha)$ depends only on the endpoints of $\alpha$, for every $\alpha$. 
+\end{enumerate} 
+Deduce that there is a homomorphism $H^1(X;M)\to Hom(\pi_1(X),M)$. What does the universal coefficient theorem say about it? 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak
+
+
+
+\begin{problem}
+Let $M$ be an abelian group. Show that $Hom(-,M)$ preserves split short exact sequences of abelian groups, i.e.\ if $0\rightarrow A\xrightarrow{i}B\xrightarrow{p}C\rightarrow0$ is a split short exact sequence, then 
+\[0\rightarrow Hom(C,M)\xrightarrow{p^*} Hom(B,M)\xrightarrow{i^*} Hom(A,M)\rightarrow0\]
+is also a split short exact sequence.\footnote{You may assume that $Hom(-,M)$ is left exact, c.f.\ the related Moral Exercise.}  Deduce\footnote{You will need to explain why the exact sequence $0\to S_k(A)\to S_k(X)\to S_k(X,A)\to0$ splits.} from this (and the zig-zag lemma) that there is a long exact sequence in cohomology, i.e.\ given a pair $(X,A)$ (that is $X$ is a space and $A\subset X$ is a subspace, possibly with some mild assumptions), then there is a long exact sequence
+\[\cdots\to H^k(X,A;M)\to H^k(X;M)\to H^k(A;M)\to H^{k+1}(X,A;M)\to\cdots\]
+Here $H^k(X,A;M)$ is defined by dualizing the chain complex $S_k(X,A):=S_k(X)/S_k(A)$. \footnote{Hint: it may help to first remember how you derived the long exact sequence in homology in 2410.} 
+\end{problem} 
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak
+
+\begin{problem}
+Compute $H^k(S^n;M)$ for all $k,n$ in two ways: once using the long exact sequence in cohomology of a pair and once using the cohomology Mayer--Vietoris sequence. \footnote{Hint: use induction.}
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak 
+
+\begin{problem}
+Hatcher \S3.1 discusses the (Eilenberg--Steenrod) axioms for a (reduced) cohomology theory. Consider the functors $h_k(X,A) = Hom(H_k(X,A), \mathbb Z)$ and define $\delta^*: h_k(A)\to h_{k+1}(X,A)$ as dual to the connecting homomorphism $\delta: H_{k+1}(X,A)\to H_k(A)$ in the long exact sequence in homology. Determine to what extent the functors $h_k$ and natural transformations $\delta^*$ define a cohomology theory.\footnote{Some axioms will be satisfied, some not. Which is which? Please justify your answer (if an axiom is satisfied, give a brief explanation why; if not, give an example).}
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak 
+
+\begin{problem}
+Let $G$ be a group and let $M$ be a $\mathbb Z[G]$ module, where $\mathbb Z[G]$ denotes the group ring. The cohomology of $G$ with coefficients in $M$ is defined as \footnote{Small clarification from class for the general definition of $Ext^k_R(N,M)$. The formula $Ext^k_{R}(N,M):=H^k(C_*,M)$ from class needs to be interpreted properly: here $C_*$ is a chain complex of $R$-modules, and $H^k(C_*;M)$ should be defined as the cohomology of the chain complex $Hom_R(C_k,M)$ of {\bf \boldmath $R$-module} maps (the groups $Hom_R(C_k,M)$ form a chain complex of abelian groups). This more general interpretation of $H^k(C_*;M)$ might not be standard.} 
+\[H^k(G;M):=Ext^k_{\mathbb Z[G]}(\mathbb Z,M). \]
+\begin{enumerate}[(a)]
+\item Prove that $H^0(G;M)$ is isomorphic to the fixed submodule \footnote{Recall that there is a general fact about $Ext^0_R(N,M)$, c.f.\ the relevant Moral Exercise.}
+\[M^G:=\{x\in M: gx=x\text{ for all }g\in G\}.\]
+\item For $G=\mathbb Z/2\mathbb Z$, identifying $\mathbb Z[G]\cong\mathbb Z[t]/(t^2-1)$, there is a free resolution of $\mathbb Z$ by $\mathbb Z[G]$ modules given by
+\[
+\cdots\xrightarrow{t-1}\mathbb Z[G]\xrightarrow{t+1}\mathbb Z[G]\xrightarrow{t-1}\mathbb Z[G]\xrightarrow{\epsilon}\mathbb Z\to0\]
+where $\epsilon$ is the augmentation map (in terms of polynomials, it is evaluation at 1), and the other maps are multiplication by the element given in the label. 
+
+Use this resolution to compute $H^*(\mathbb Z/2\mathbb Z;\mathbb Z)$. \footnote{Aside: your computation should agree with the cohomology of $\mathbb RP^\infty$. This is because an equivalent way to define $H^k(G;M)$ (when the module $M$ is trivial) is as the cohomology of the Eilenberg--Maclane space $K(G,1)$ with coefficients in $M$, and here $\mathbb RP^\infty\simeq K(\mathbb Z/2\mathbb Z,1)$. }
+
+
+\end{enumerate} 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+
+
+
+
+
+\end{document}

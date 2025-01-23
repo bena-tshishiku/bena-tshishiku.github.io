@@ -10,8 +10,9 @@ location: "Providence, USA"
 
 ## Announcements
 
-* Please read the page below for the important information about the course. 
-
+* (1/23) Please read the page below for the important information about the course. 
+* (1/23) There will be no class next week. (I will be at a conference.) As a replacement for lecture (possibly an improvement 🙈), please read Hatcher Section 3.1. In particular, please look closely at the proof of the Universal Coefficient Theorem and the various properties of cohomology (homotopy invariants, LES, Mayer-Vietoris,...) which hopefully are familiar from your study of homology. We will not discuss this material in class (but there is some related exercises on HW1). When I return we will begin with a few more comments on universal coefficients and then move on to the Kunneth theorem and cup products.
+* (1/23) Homework 1 is posted below. If you're debating whether to take the course, I'll remark that this should be pretty representative of homework assignments, but is  possibly a little longer than usual. 
 
 ## Course information
 This is part two of a graduate course on algebraic topology. The main topics will be cohomology, Poincare duality, and homotopy theory. 
@@ -62,7 +63,7 @@ Late homework policy: For your homework grade, I will drop the score from your l
 
 ### Homework assignments. 
 
-HW1 (due 1/31). [coming soon](https://bena-tshishiku.github.io/files/courses/2025-spring/242-hw1.tex)
+HW1 (due 1/31). [tex file](https://bena-tshishiku.github.io/files/courses/2025-spring/242-hw1.tex)
 
 ## Course materials
 
@@ -85,19 +86,19 @@ Additional information to come.
 
 
 * Week 1: **Cohomology**
-  * Thurs (1/23). 
+  * Thurs (1/23). Definition of cohomology, universal coefficient theorem
 
-* Week 2: 
-  * Tues (1/28). No class (I'm traveling to a conference)
-  * Thurs (1/30). No class
+* Week 2: No class this week (I'm away at a conference)
+  * Tues (1/28). Please read Hatcher Section 3.1. 
+  * Thurs (1/30). 
   * Fri (1/31). HW1 due
 
-* Week 3: 
+* Week 3: Kunneth theorem
   * Tues (2/4). 
   * Thurs (2/6). 
   * Fri (2/7). HW2 due
 
-* Week 4: 
+* Week 4: Cup products
   * Tues (2/11). 
   * Thurs (2/13). 
   * Fri (2/14). HW3 due
