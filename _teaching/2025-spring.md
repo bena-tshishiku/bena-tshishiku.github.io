@@ -10,11 +10,11 @@ location: "Providence, USA"
 
 ## Announcements
 
-* None currently
+* Please read the page below for the important information about the course. 
 
 
 ## Course information
-This is part two of a graduate course on algebraic topology. The main topics will be cohomology, Poincare duality, and basic homotopy theory. 
+This is part two of a graduate course on algebraic topology. The main topics will be cohomology, Poincare duality, and homotopy theory. 
 
 ### Course objectives
 
