@@ -11,10 +11,7 @@ location: "Providence, USA"
 ## Announcements
 
 
-* (1/27) There will be an office hour this week on Wednesday 3-4pm. I may hold an additional office hour on Thursday (tbd). Please also don't hesitate to ask questions on Campuswire! 
-* (1/23) Homework 1 is posted below and is due Friday 1/31 at 5pm. If you're debating whether to take the course, I'll remark that this should be pretty representative of homework assignments, but is  possibly a little longer than usual. 
-* (1/23) There will be no class next week. (I will be at a conference.) As a replacement for lecture (possibly an improvement 🙈), please read Hatcher Section 3.1. In particular, please look closely at the proof of the Universal Coefficient Theorem and the various properties of cohomology (homotopy invariance, LES, Mayer-Vietoris,...) which hopefully are familiar from your study of homology. We will not discuss this material in class (but there is some related exercises on HW1). When I return we will begin with a few more comments on universal coefficients and then move on to the Kunneth theorem and cup products.
-* (1/23) Please read the page below for the important information about the course. 
+* (2/1) Normal class resumes this week. Homework 2 will be posted on Friday and due the following Friday. 
 
 ## Course information
 This is part two of a graduate course on algebraic topology. The main topics will be cohomology, Poincare duality, and homotopy theory. 
@@ -98,22 +95,22 @@ Additional information to come.
 * Week 3: Kunneth theorem
   * Tues (2/4). 
   * Thurs (2/6). 
-  * Fri (2/7). HW2 due
+  * Fri (2/7). 
 
 * Week 4: Cup products
   * Tues (2/11). 
   * Thurs (2/13). 
-  * Fri (2/14). HW3 due
+  * Fri (2/14). HW2 due
 
 * Week 5: 
   * Tues (2/18). No class (university holiday)
   * Thurs (2/20). 
-  * Fri (2/21). HW4 due
+  * Fri (2/21). HW3 due
 
 * Week 6: 
   * Tues (2/25). 
   * Thurs (2/27). 
-  * Fri (2/28). HW5 due
+  * Fri (2/28). HW4 due
 
 * Week 7: Midterm 1 this week
   * Tues (3/4). 
@@ -123,24 +120,24 @@ Additional information to come.
 * Week 8: 
   * Tues (3/11). 
   * Thurs (3/13). 
-  * Fri (3/15). HW6 due
+  * Fri (3/15). HW5 due
 
 * Week 9: 
   * Tues (3/18). 
   * Thurs (3/20). 
-  * Fri (3/22). HW7 due
+  * Fri (3/22). HW6 due
 
 * Week 10: Spring Break
 
 * Week 11: 
   * Tues (4/1). 
   * Thurs (4/3). 
-  * Fri (4/4). HW8 due, final project proposal due
+  * Fri (4/4). HW7 due, final project proposal due
 
 * Week 12: 
   * Tues (4/8). 
   * Thurs (4/10). 
-  * Fri (4/11). HW9 due, final project outline due
+  * Fri (4/11). HW8 due, final project outline due
 
 * Week 13: Midterm 2 this week
   * Tues (4/15). 

@@ -24,6 +24,9 @@ Some past and upcoming travel/talks:
 **2025** \
 June 9-20. Discrete Groups in Topology and Algebraic Geometry (Notre Dame)\
 May 5-9. Mapping Class Groups, Surface Subgroups, Bundles, and Group Extensions (ICMAT)\
+April 26. GATSBY conference (Brown)\
+April 18. Columbia topology seminar\
+April 8. Tufts GGT seminar\ 
 March 6-8. Spring topology and dynamics conference (Christopher Newport University)\
 Jan 27-31. Motives and mapping class groups (AIM)\
 Jan 6-17. Hyperbolic manifolds, their submanifolds and fundamental groups (IMPA)\
