@@ -11,6 +11,7 @@ location: "Providence, USA"
 ## Announcements
 
 
+* (2/2) Office hours for the semester are posted below. The first office hour will be Tuesday after class. 
 * (2/1) Normal class resumes this week. Homework 2 will be posted on Friday and due the following Friday. 
 
 ## Course information
@@ -43,7 +44,10 @@ homework 30%, 1st midterm 30%, 2nd midterm 30%, final project 10%
 
 Lectures: Tu-Th 9-10:20am in Kassar 105
 
-Office hours: TBD
+Office hours: 
+
+* Tuesday 10:30-11:30 
+* Wednesday 4-5, or 5-6 in weeks with a department colloquium
 
 Important dates: 
 * Midterm 1: Week of March 3 (tentative)
