@@ -66,7 +66,7 @@ Late homework policy: For your homework grade, I will drop the score from your l
 
 ### Homework assignments. 
 
-HW1 (due 1/31). [tex file](https://bena-tshishiku.github.io/files/courses/2025-spring/242-hw1.tex)
+HW1 (due 1/31). [tex file](https://bena-tshishiku.github.io/files/courses/2025-spring/242-hw1.tex), [selected student solutions](https://bena-tshishiku.github.io/files/courses/2025-spring/hw1-student.pdf)
 
 ## Course materials
 
@@ -97,8 +97,8 @@ Additional information to come.
   * Fri (1/31). HW1 due
 
 * Week 3: Kunneth theorem
-  * Tues (2/4). 
-  * Thurs (2/6). 
+  * Tues (2/4). Homology of a product, tensor products and Tor, algebraic Kunneth theorem
+  * Thurs (2/6). Kunneth theorem, Eilenberg-Zilber theorem
   * Fri (2/7). 
 
 * Week 4: Cup products
