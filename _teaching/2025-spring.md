@@ -11,8 +11,8 @@ location: "Providence, USA"
 ## Announcements
 
 
+* (2/6) HW2 is posted below and due next Friday 2/14. 
 * (2/2) Office hours for the semester are posted below. The first office hour will be Tuesday after class. 
-* (2/1) Normal class resumes this week. Homework 2 will be posted on Friday and due the following Friday. 
 
 ## Course information
 This is part two of a graduate course on algebraic topology. The main topics will be cohomology, Poincare duality, and homotopy theory. 
@@ -67,6 +67,8 @@ Late homework policy: For your homework grade, I will drop the score from your l
 ### Homework assignments. 
 
 HW1 (due 1/31). [tex file](https://bena-tshishiku.github.io/files/courses/2025-spring/242-hw1.tex), [selected student solutions](https://bena-tshishiku.github.io/files/courses/2025-spring/hw1-student.pdf)
+
+HW2 (due 2/14). [tex file](https://bena-tshishiku.github.io/files/courses/2025-spring/242-hw2.tex)
 
 ## Course materials
 

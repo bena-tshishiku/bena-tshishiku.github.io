@@ -1,0 +1,112 @@
+\documentclass[11pt]{article}
+
+\author{Math 2420}
+\date{Due Friday, February 14 by 5pm} 
+\title{Homework 2}
+
+\usepackage{graphicx,xypic}
+\usepackage{amsthm}
+\usepackage{amsmath,amssymb}
+\usepackage{amsfonts}
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage[shortlabels]{enumitem}
+\newtheorem{problem}{Problem}
+\renewcommand*{\proofname}{{\color{blue}Solution}}
+
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1.25ex}
+
+
+\begin{document}
+
+\maketitle
+
+% You are required to put your name here (this let's me know that you are submitting your own work):
+{\bf\Large Your Name:} 
+
+% You are required to put your collaborator names here:
+Collaborator names: 
+
+
+\vspace{.3in}
+Topics covered: Hatcher 3.2 (homology of product, Kunneth theorem, Eilenberg--Zilber, products)
+
+Instructions: {\bf Please read these carefully.} 
+\begin{itemize}
+\item This assignment must be submitted on Gradescope by the due date. Gradescope Entry Code: BKVKN2. 
+\item If you collaborate with other students (which is encouraged!), please list your collaborators above. 
+\item Homework is graded anonymously, so please avoid putting your name on every page of the assignment.
+\item If you are stuck, please ask for help (from me or a classmate). Use Campuswire!  
+\item You may freely use any fact proved in class. You should provide proof for facts that you use that were not proved in class. Usually you should be able to solve the problems without outside knowledge (sometimes I overlook some fact you may need, so please do ask if it seems like you need to use a significant result from another subject). 
+\item Please try to make your solutions clear and concise. When grading, I will look to see that you have the correct idea, and also that you have addressed all of the main issues (for example, if you define a map on equivalence classes, you should say why it is well defined). That being said, I encourage you to try to restrict your solution to each problem to a single page. Often solutions can be even shorter than that. 
+\end{itemize}
+\pagebreak 
+
+
+
+
+\pagebreak 
+
+
+
+{\bf Moral exercises.} The following problems are not to be submitted for grading, but you are strongly encouraged to look at/solve them for yourself (unless perhaps you have already seen something similar before). The problems to be graded are the numbered problems on the subsequent pages.
+\begin{enumerate}[(a)]
+\item Check/compare the computation of $H_k(\mathbb RP^2\times \mathbb RP^2)$ using cellular chains and the Kunneth theorem. 
+\item Give a brief summary of the proof of the Eilenberg--Zilber theorem (it's worth revisiting this after you solve Problem 4 below). 
+\end{enumerate}
+
+
+\pagebreak 
+
+
+\begin{problem}
+Let $X,Y$ be cell complexes, and give $X\times Y$ the product cell structure. Prove (with care!) that $C_*(X\times Y)$ and $C_*(X)\otimes C_*(Y)$ are isomorphic chain complexes. 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak 
+
+\begin{problem}
+Prove that Euler characteristic of compact spaces is multiplicative 
+\[\chi(X\times Y)=\chi(X)\chi(Y),\] where $\chi(X)=\sum(-1)^i\beta_i$ and $\beta_i$ is the rank of $H_i(X)$ (known as the $i$-th Betti number).
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak 
+
+
+\begin{problem}
+Fix $n$, and let $X_d$ be the space obtained from attaching an $n$-cell to $S^{n-1}$ by a map of degree $d$. Use K\"unneth to compute the homology of $X_d\times X_{d'}$ for any $d,d'$. \footnote{The answer should be an (explicit) abelian group that depends on $d,d'$.} 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak 
+
+\begin{problem}
+Use the acyclic models method to prove: 
+\begin{enumerate}[(a)]
+\item There is a natural chain map $S_*(X\times Y)\to S_*(X)\otimes S_*(Y)$ with the property that $\theta(x,y)=x\otimes y$ for $(x,y)\in X\times Y\subset S_0(X\times Y)$. 
+\item Any two natural chain maps $\phi,\psi:S_*(X)\otimes S_*(Y)\to S_*(X)\otimes S_*(Y)$ that agree in degree $0$ are chain homotopy equivalent. 
+\end{enumerate} 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+
+
+
+
+\end{document}
