@@ -11,6 +11,8 @@ location: "Providence, USA"
 ## Announcements
 
 
+* (2/13) There will be no class Tuesday 2/17 (university holiday).
+* (2/13) HW3 is posted below and due next Friday 2/28. 
 * (2/6) HW2 is posted below and due next Friday 2/14. 
 * (2/2) Office hours for the semester are posted below. The first office hour will be Tuesday after class. 
 
@@ -70,6 +72,9 @@ HW1 (due 1/31). [tex file](https://bena-tshishiku.github.io/files/courses/2025-s
 
 HW2 (due 2/14). [tex file](https://bena-tshishiku.github.io/files/courses/2025-spring/242-hw2.tex)
 
+HW3 (due 2/28). [tex file](https://bena-tshishiku.github.io/files/courses/2025-spring/242-hw3.tex)
+
+
 ## Course materials
 
 * For asynchronous discussions (e.g. questions about homework) we will use campuswire. Join [here](https://campuswire.com/p/GF38334F8) with access code 5653. This is the preferred way to ask questions about the homework or point out typos (rather than emailing me). 
@@ -100,17 +105,17 @@ Additional information to come.
 
 * Week 3: Kunneth theorem
   * Tues (2/4). Homology of a product, tensor products and Tor, algebraic Kunneth theorem
-  * Thurs (2/6). Kunneth theorem, Eilenberg-Zilber theorem
+  * Thurs (2/6). Kunneth theorem, Eilenberg-Zilber theorem, acyclic models 
   * Fri (2/7). 
 
 * Week 4: Cup products
-  * Tues (2/11). 
-  * Thurs (2/13). 
+  * Tues (2/11). Cup products, examples
+  * Thurs (2/13). Poincare duality
   * Fri (2/14). HW2 due
 
 * Week 5: 
   * Tues (2/18). No class (university holiday)
-  * Thurs (2/20). 
+  * Thurs (2/20). Poincare duality
   * Fri (2/21). HW3 due
 
 * Week 6: 
