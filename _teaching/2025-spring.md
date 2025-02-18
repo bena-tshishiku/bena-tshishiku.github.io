@@ -10,11 +10,10 @@ location: "Providence, USA"
 
 ## Announcements
 
-
+* (2/18) Office hours this week will be Thursday after class and Friday at 3pm. (This week only.) 
 * (2/13) There will be no class Tuesday 2/17 (university holiday).
 * (2/13) HW3 is posted below and due next Friday 2/28. 
-* (2/6) HW2 is posted below and due next Friday 2/14. 
-* (2/2) Office hours for the semester are posted below. The first office hour will be Tuesday after class. 
+
 
 ## Course information
 This is part two of a graduate course on algebraic topology. The main topics will be cohomology, Poincare duality, and homotopy theory. 
@@ -95,7 +94,7 @@ Additional information to come.
 ## Topic schedule (subject to change)
 
 
-* Week 1: **Cohomology**
+* Week 1: Cohomology (Hatcher Section 3.1)
   * Thurs (1/23). Definition of cohomology, universal coefficient theorem
 
 * Week 2: No class this week (I'm away at a conference)
@@ -103,19 +102,19 @@ Additional information to come.
   * Thurs (1/30). 
   * Fri (1/31). HW1 due
 
-* Week 3: Kunneth theorem
+* Week 3: Kunneth theorem (Hatcher 3.2) 
   * Tues (2/4). Homology of a product, tensor products and Tor, algebraic Kunneth theorem
   * Thurs (2/6). Kunneth theorem, Eilenberg-Zilber theorem, acyclic models 
   * Fri (2/7). 
 
-* Week 4: Cup products
+* Week 4: Cup products (Hatcher 3.2) 
   * Tues (2/11). Cup products, examples
   * Thurs (2/13). Poincare duality
   * Fri (2/14). HW2 due
 
-* Week 5: 
+* Week 5: Poincare duality (Hatcher 3.3) 
   * Tues (2/18). No class (university holiday)
-  * Thurs (2/20). Poincare duality
+  * Thurs (2/20). Orientations, Poincare duality
   * Fri (2/21). HW3 due
 
 * Week 6: 
