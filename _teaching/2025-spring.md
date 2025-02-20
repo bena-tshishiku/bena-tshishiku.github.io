@@ -117,17 +117,17 @@ Additional information to come.
   * Thurs (2/20). Orientations, Poincare duality
   * Fri (2/21). HW3 due
 
-* Week 6: 
+* Week 6: Poincare duality (Hatcher 3.3), 
   * Tues (2/25). 
   * Thurs (2/27). 
   * Fri (2/28). HW4 due
 
-* Week 7: Midterm 1 this week
+* Week 7: Hatcher 4.1, 4.2 
   * Tues (3/4). 
-  * Thurs (3/6). 
+  * Thurs (3/6). Take home-midterm (no class)
   * Fri (3/7). 
 
-* Week 8: 
+* Week 8: Hatcher 4.1, 4.2
   * Tues (3/11). 
   * Thurs (3/13). 
   * Fri (3/15). HW5 due
