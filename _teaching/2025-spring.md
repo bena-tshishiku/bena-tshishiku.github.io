@@ -10,9 +10,9 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (2/18) Office hours this week will be Thursday after class and Friday at 3pm. (This week only.) 
-* (2/13) There will be no class Tuesday 2/17 (university holiday).
-* (2/13) HW3 is posted below and due next Friday 2/28. 
+* (2/26) The first midterm will be next week, take home, Wednesday to Friday. Accordingly, there will be no class on Thursday 3/6. 
+* (2/26) Office hours today (Wednesday) will start after the department colloquium is over (approximately 5:15p).
+* (2/13) HW3 is posted below and due Friday 2/28. 
 
 
 ## Course information
