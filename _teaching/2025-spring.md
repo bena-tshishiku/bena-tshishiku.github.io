@@ -49,6 +49,7 @@ Office hours:
 
 * Tuesday 10:30-11:30 
 * Wednesday 4-5, or 5-6 in weeks with a department colloquium
+* or by appointment
 
 Important dates: 
 * Midterm 1: Week of March 3 (tentative)
