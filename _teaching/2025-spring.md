@@ -10,9 +10,8 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (2/26) The first midterm will be next week, take home, Wednesday to Friday. Accordingly, there will be no class on Thursday 3/6. 
-* (2/26) Office hours today (Wednesday) will start after the department colloquium is over (approximately 5:15p).
-* (2/13) HW3 is posted below and due Friday 2/28. 
+* (3/3) Midterm 1 will be released tomorrow after class/office hours and due Friday March 7 by 5pm. 
+* (2/26) There will be no class on Thursday 3/6 (work on the midterm). 
 
 
 ## Course information
@@ -72,7 +71,7 @@ HW1 (due 1/31). [tex file](https://bena-tshishiku.github.io/files/courses/2025-s
 
 HW2 (due 2/14). [tex file](https://bena-tshishiku.github.io/files/courses/2025-spring/242-hw2.tex), [selected student solutions](https://bena-tshishiku.github.io/files/courses/2025-spring/hw2-student.pdf)
 
-HW3 (due 2/28). [tex file](https://bena-tshishiku.github.io/files/courses/2025-spring/242-hw3.tex)
+HW3 (due 2/28). [tex file](https://bena-tshishiku.github.io/files/courses/2025-spring/242-hw3.tex), [selected student solutions](https://bena-tshishiku.github.io/files/courses/2025-spring/hw3-student.pdf)
 
 
 ## Course materials
@@ -119,8 +118,8 @@ Additional information to come.
   * Fri (2/21). HW3 due
 
 * Week 6: Poincare duality (Hatcher 3.3), 
-  * Tues (2/25). 
-  * Thurs (2/27). 
+  * Tues (2/25). Orientations, cup product and algebraic intersections
+  * Thurs (2/27). Cup products and Poincare duality: computations and examples
   * Fri (2/28). HW4 due
 
 * Week 7: Hatcher 4.1, 4.2 
