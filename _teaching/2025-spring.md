@@ -10,7 +10,7 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (3/3) Midterm 1 will be released tomorrow after class/office hours and due Friday March 7 by 5pm. 
+* (3/4) [Midterm](https://bena-tshishiku.github.io/files/courses/2025-spring/midterm1.pdf) due Friday March 7 by 5pm. 
 * (2/26) There will be no class on Thursday 3/6 (work on the midterm). 
 
 
