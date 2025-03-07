@@ -123,31 +123,31 @@ Additional information to come.
   * Fri (2/28). HW4 due
 
 * Week 7: Hatcher 4.1, 4.2 
-  * Tues (3/4). 
+  * Tues (3/4). cohomology applications: spheres as H-spaces, manifolds that bound
   * Thurs (3/6). Take home-midterm (no class)
-  * Fri (3/7). 
+  * Fri (3/7). Midterm due by 5pm
 
 * Week 8: Hatcher 4.1, 4.2
   * Tues (3/11). 
   * Thurs (3/13). 
-  * Fri (3/15). HW5 due
+  * Fri (3/15). 
 
 * Week 9: 
   * Tues (3/18). 
   * Thurs (3/20). 
-  * Fri (3/22). HW6 due
+  * Fri (3/22). HW5 due
 
 * Week 10: Spring Break
 
 * Week 11: 
   * Tues (4/1). 
   * Thurs (4/3). 
-  * Fri (4/4). HW7 due, final project proposal due
+  * Fri (4/4). HW6 due, final project proposal due
 
 * Week 12: 
   * Tues (4/8). 
   * Thurs (4/10). 
-  * Fri (4/11). HW8 due, final project outline due
+  * Fri (4/11). HW7 due, final project outline due
 
 * Week 13: Midterm 2 this week
   * Tues (4/15). 
