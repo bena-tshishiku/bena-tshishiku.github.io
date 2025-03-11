@@ -10,8 +10,7 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (3/4) [Midterm](https://bena-tshishiku.github.io/files/courses/2025-spring/midterm1.pdf) due Friday March 7 by 5pm. 
-* (2/26) There will be no class on Thursday 3/6 (work on the midterm). 
+* (3/11) HW4 is posted below and will be due Friday March 21. Please note that you may not have all the necessary information to solve the problems related to mapping spaces. 
 
 
 ## Course information
@@ -72,6 +71,8 @@ HW1 (due 1/31). [tex file](https://bena-tshishiku.github.io/files/courses/2025-s
 HW2 (due 2/14). [tex file](https://bena-tshishiku.github.io/files/courses/2025-spring/242-hw2.tex), [selected student solutions](https://bena-tshishiku.github.io/files/courses/2025-spring/hw2-student.pdf)
 
 HW3 (due 2/28). [tex file](https://bena-tshishiku.github.io/files/courses/2025-spring/242-hw3.tex), [selected student solutions](https://bena-tshishiku.github.io/files/courses/2025-spring/hw3-student.pdf)
+
+HW4 (due 3/21). [tex file](https://bena-tshishiku.github.io/files/courses/2025-spring/242-hw4.tex)
 
 
 ## Course materials
