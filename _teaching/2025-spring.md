@@ -123,18 +123,18 @@ Additional information to come.
   * Thurs (2/27). Cup products and Poincare duality: computations and examples
   * Fri (2/28). HW4 due
 
-* Week 7: Hatcher 4.1, 4.2 
+* Week 7: 
   * Tues (3/4). cohomology applications: spheres as H-spaces, manifolds that bound
   * Thurs (3/6). Take home-midterm (no class)
   * Fri (3/7). Midterm due by 5pm
 
-* Week 8: Hatcher 4.1, 4.2
-  * Tues (3/11). 
-  * Thurs (3/13). 
+* Week 8: Hatcher 4.1, 4.2 
+  * Tues (3/11). Homotopy classes of maps, homotopy groups 
+  * Thurs (3/13). Topology of function spaces, H-groups
   * Fri (3/15). 
 
-* Week 9: 
-  * Tues (3/18). 
+* Week 9: Hatcher 4.1, 4.2
+  * Tues (3/18). LES in homotopy, low-degree homotopy groups of spheres
   * Thurs (3/20). 
   * Fri (3/22). HW5 due
 
