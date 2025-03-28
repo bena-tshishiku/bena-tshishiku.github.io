@@ -10,8 +10,7 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (3/11) HW4 is posted below and will be due Friday March 21. Please note that you may not have all the necessary information to solve the problems related to mapping spaces. 
-
+* (3/28) Final project proposals are due Friday 4/4. This is your homework for the week! Instructions [here](https://bena-tshishiku.github.io/files/courses/2025-spring/final-project-proposal.pdf). I put a list of possible ideas to get you started. You are free to choose something else. 
 
 ## Course information
 This is part two of a graduate course on algebraic topology. The main topics will be cohomology, Poincare duality, and homotopy theory. 
@@ -90,7 +89,28 @@ As part of completing the final project, I will ask you to submit:
 * A project outline (due April 11) 
 * A draft of final presentation slides or talk notes (due April 18)
 
-Additional information to come. 
+Some project ideas: 
+
+* Pontryagin-Thom theorem and stable homotopy groups
+* cobordism groups
+* Hopf invariant 
+* plus construction and (algebraic) K-theory
+* vector bundles and topological K-theory
+* group cohomology and group extensions 
+* Nerve theorem and application 
+* H-spaces and Hopf algebras
+* Local coefficients
+* Brown representability 
+* spectra and (co)homology theories
+* Steenrod squares
+* Grassmannians and classifying spaces 
+* Lefschetz fixed point theorem 
+* J-homomorphism and stable homotopy groups
+* Bott periodicity
+* Alexander duality
+* Extra topics in Hatcher or Bredon or found elsewhere
+* Manifolds are cell complexes
+
 
 ## Topic schedule (subject to change)
 
