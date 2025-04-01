@@ -154,25 +154,25 @@ Some project ideas:
   * Fri (3/15). 
 
 * Week 9: Hatcher 4.1, 4.2
-  * Tues (3/18). LES in homotopy, low-degree homotopy groups of spheres
-  * Thurs (3/20). 
+  * Tues (3/18). relative homotopy groups, LES in homotopy, low-degree homotopy groups of spheres
+  * Thurs (3/20). No class
   * Fri (3/22). HW5 due
 
 * Week 10: Spring Break
 
 * Week 11: 
-  * Tues (4/1). 
-  * Thurs (4/3). 
-  * Fri (4/4). HW6 due, final project proposal due
+  * Tues (4/1). local PL lemma, LES in homotopy, fibrations 
+  * Thurs (4/3). fibrations, LES of fibration
+  * Fri (4/4). final project proposal due
 
 * Week 12: 
-  * Tues (4/8). 
-  * Thurs (4/10). 
-  * Fri (4/11). HW7 due, final project outline due
+  * Tues (4/8). homotopy excision, cellular approximation for maps
+  * Thurs (4/10). Freudenthal suspension, Whitehead's theorem
+  * Fri (4/11). HW6 due, final project outline due
 
 * Week 13: Midterm 2 this week
-  * Tues (4/15). 
-  * Thurs (4/17). 
+  * Tues (4/15). Whithead's theorem, cellular approximation for spaces
+  * Thurs (4/17). Hurewicz theorem
   * Fri (4/18). final project slides/notes due
 
 * Week 14: 
