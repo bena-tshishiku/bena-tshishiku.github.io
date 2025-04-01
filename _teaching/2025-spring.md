@@ -10,6 +10,7 @@ location: "Providence, USA"
 
 ## Announcements
 
+* (4/1) HW5 is posted below. It is due Friday 4/11. 
 * (3/28) Final project proposals are due Friday 4/4. This is your homework for the week! Instructions [here](https://bena-tshishiku.github.io/files/courses/2025-spring/final-project-proposal.pdf). I put a list of possible ideas to get you started. You are free to choose something else. 
 
 ## Course information
@@ -72,6 +73,8 @@ HW2 (due 2/14). [tex file](https://bena-tshishiku.github.io/files/courses/2025-s
 HW3 (due 2/28). [tex file](https://bena-tshishiku.github.io/files/courses/2025-spring/242-hw3.tex), [selected student solutions](https://bena-tshishiku.github.io/files/courses/2025-spring/hw3-student.pdf)
 
 HW4 (due 3/21). [tex file](https://bena-tshishiku.github.io/files/courses/2025-spring/242-hw4.tex)
+
+HW4 (due 4/11). [tex file](https://bena-tshishiku.github.io/files/courses/2025-spring/242-hw5.tex)
 
 
 ## Course materials
@@ -136,12 +139,12 @@ Some project ideas:
 * Week 5: Poincare duality (Hatcher 3.3) 
   * Tues (2/18). No class (university holiday)
   * Thurs (2/20). Orientations, Poincare duality
-  * Fri (2/21). HW3 due
+  * Fri (2/21). 
 
 * Week 6: Poincare duality (Hatcher 3.3), 
   * Tues (2/25). Orientations, cup product and algebraic intersections
   * Thurs (2/27). Cup products and Poincare duality: computations and examples
-  * Fri (2/28). HW4 due
+  * Fri (2/28). HW3 due
 
 * Week 7: 
   * Tues (3/4). cohomology applications: spheres as H-spaces, manifolds that bound
@@ -156,7 +159,7 @@ Some project ideas:
 * Week 9: Hatcher 4.1, 4.2
   * Tues (3/18). relative homotopy groups, LES in homotopy, low-degree homotopy groups of spheres
   * Thurs (3/20). No class
-  * Fri (3/22). HW5 due
+  * Fri (3/22). HW4 due
 
 * Week 10: Spring Break
 
@@ -168,7 +171,7 @@ Some project ideas:
 * Week 12: 
   * Tues (4/8). homotopy excision, cellular approximation for maps
   * Thurs (4/10). Freudenthal suspension, Whitehead's theorem
-  * Fri (4/11). HW6 due, final project outline due
+  * Fri (4/11). HW5 due, final project outline due
 
 * Week 13: Midterm 2 this week
   * Tues (4/15). Whithead's theorem, cellular approximation for spaces
