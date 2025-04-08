@@ -10,8 +10,10 @@ location: "Providence, USA"
 
 ## Announcements
 
+
+* (3/28) Final project outlines are due Tuesday 4/15. Instructions [here](https://bena-tshishiku.github.io/files/courses/2025-spring/final-project-outline.pdf). I encourage you to talk to me as you work on this. 
 * (4/1) HW5 is posted below. It is due Friday 4/11. 
-* (3/28) Final project proposals are due Friday 4/4. This is your homework for the week! Instructions [here](https://bena-tshishiku.github.io/files/courses/2025-spring/final-project-proposal.pdf). I put a list of possible ideas to get you started. You are free to choose something else. 
+
 
 ## Course information
 This is part two of a graduate course on algebraic topology. The main topics will be cohomology, Poincare duality, and homotopy theory. 
