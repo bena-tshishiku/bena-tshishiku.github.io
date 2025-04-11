@@ -11,9 +11,8 @@ location: "Providence, USA"
 ## Announcements
 
 
-* (4/7) Office hours this week: Wednesday after colloquium. Thursday after class. 
+* (4/11) HW6 is posted below. It is due Friday 4/18.
 * (4/7) Final project outlines are due Tuesday 4/15. Instructions [here](https://bena-tshishiku.github.io/files/courses/2025-spring/final-project-outline.pdf). Please consider my feedback on the project proposal.  
-* (4/1) HW5 is posted below. It is due Friday 4/11. 
 
 
 ## Course information
@@ -77,8 +76,9 @@ HW3 (due 2/28). [tex file](https://bena-tshishiku.github.io/files/courses/2025-s
 
 HW4 (due 3/21). [tex file](https://bena-tshishiku.github.io/files/courses/2025-spring/242-hw4.tex)
 
-HW4 (due 4/11). [tex file](https://bena-tshishiku.github.io/files/courses/2025-spring/242-hw5.tex)
+HW5 (due 4/11). [tex file](https://bena-tshishiku.github.io/files/courses/2025-spring/242-hw5.tex)
 
+HW6 (due 4/18). [tex file](https://bena-tshishiku.github.io/files/courses/2025-spring/242-hw6.tex)
 
 ## Course materials
 
