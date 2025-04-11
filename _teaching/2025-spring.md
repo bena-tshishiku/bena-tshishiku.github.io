@@ -92,8 +92,8 @@ The topic should be something related to the course that interests you.
 
 As part of completing the final project, I will ask you to submit: 
 * A project proposal (due April 4) 
-* A project outline (due April 11) 
-* A draft of final presentation slides or talk notes (due April 18)
+* A project outline (due April 15) 
+* A draft of final presentation slides or talk notes (due April 22)
 
 Some project ideas: 
 
@@ -172,9 +172,9 @@ Some project ideas:
   * Fri (4/4). final project proposal due
 
 * Week 12: 
-  * Tues (4/8). homotopy excision, cellular approximation for maps
-  * Thurs (4/10). Freudenthal suspension, Whitehead's theorem
-  * Fri (4/11). HW5 due, final project outline due
+  * Tues (4/8). homotopy excision, Freudenthal suspension 
+  * Thurs (4/10). cellular approximation for maps, Whitehead's theorem
+  * Fri (4/11). HW5 due, 
 
 * Week 13: Midterm 2 this week
   * Tues (4/15). Whithead's theorem, cellular approximation for spaces

@@ -1,0 +1,112 @@
+\documentclass[11pt]{article}
+
+\author{Math 2420}
+\date{Due Friday, April 18 by 5pm} 
+\title{Homework 6}
+
+\usepackage{graphicx,xypic}
+\usepackage{amsthm}
+\usepackage{amsmath,amssymb}
+\usepackage{amsfonts}
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage[shortlabels]{enumitem}
+\newtheorem{problem}{Problem}
+\renewcommand*{\proofname}{{\color{blue}Solution}}
+
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1.25ex}
+
+
+\begin{document}
+
+\maketitle
+
+% You are required to put your name here (this let's me know that you are submitting your own work):
+{\bf\Large Your Name:} 
+
+% You are required to put your collaborator names here:
+Collaborator names: 
+
+
+\vspace{.3in}
+Topics covered: homotopy groups, fibrations, excision, cellular approximation
+
+Instructions: 
+\begin{itemize}
+\item This assignment must be submitted on Gradescope by the due date. 
+\item If you collaborate with other students (which is encouraged!), please list your collaborators above. 
+\item Homework is graded anonymously, so please avoid putting your name on every page of the assignment.
+\item If you are stuck, please ask for help (from me or a classmate). Use Campuswire!  
+\item You may freely use any fact proved in class (mention it in the appropriate spot). You should provide proof for facts that you use that were not proved in class. Usually you should be able to solve the problems without outside knowledge (sometimes I overlook some fact you may need, so please do ask if it seems like you need to use a significant result from another subject). 
+\item Please try to make your solutions clear and concise. When grading, I will look to see that you have the correct idea, and also that you have addressed all of the main issues (for example, if you define a map on equivalence classes, you should say why it is well defined). That being said, I encourage you to try to restrict your solution to each problem to a single page. Often solutions can be even shorter than that. 
+\end{itemize}
+\pagebreak 
+
+
+
+\pagebreak 
+
+\begin{problem}
+Show that any two fibers of a Serre fibration (over connected base) are weakly homotopy equivalent. \footnote{This is an exercise in applying the homotopy lifting property. Please take care in setting up and applying it correctly. }
+\end{problem}
+
+\pagebreak 
+
+
+\begin{problem}
+Fix a pair $(X,A)$. Assume that $(X,A)$ is $n$-connected and $A$ is $m$-connected. Prove that $\pi_k(X,A)\cong\pi_k(X/A)$ for $k\le n+m$. \footnote{Hint: it may help to start by replacing $X/A$ with $X\cup CA$, where $CA$ is the cone on $A$.} 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak 
+
+
+
+
+
+\begin{problem}
+Generally, for a path $\gamma:I\to X$, there is a change of basepoint homomorphism $\pi_k(X,x_0)\to \pi_k(X,x_1)$, where $x_i=\gamma(i)$ for $i=0,1$. See Hatcher pg.\ $341$. Taking $\gamma$ to be a loop based at $x_0$ defines an action of $\pi_1(X,x_0)$ on $\pi_k(X,x_0)$ for $k\ge1$. 
+\begin{enumerate}
+\item[(a)] Let $i:S^2\hookrightarrow S^2\vee S^1$ be the inclusion, viewed as an element of $\pi_2(S^2\vee S^1)$. Describe explicitly the orbit of $i$ under the action of $\pi_1(S^2\vee S^1)\cong\mathbb Z$. \footnote{Remark: Here ``explicitly" means in terms of explicit representative maps.} \footnote{Remark: It is also informative to think about how the action looks on $\pi_2$ of the universal cover.}
+\item[(b)] Give a new proof that $\mathbb RP^2$ and $S^2\times \mathbb RP^\infty$ are not homotopy equivalent.\footnote{I.e.\ different from the proof discussed in class using homology} 
+\end{enumerate} \end{problem}
+
+
+\begin{proof}
+
+\end{proof}
+
+
+
+\pagebreak 
+
+
+\begin{problem}
+Show that a cell complex $X$ is contractible if it is the union of an increasing sequence of subcomplexes $X_1\subset X_2\subset \cdots$ such that each inclusion $X_i\hookrightarrow X_{i+1}$ is nullhomotopic. Conclude that $S^\infty$ is contractible. \footnote{Hint: your solution should be short.} 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+
+
+\pagebreak 
+
+
+\begin{problem}
+Give a decomposition of the trefoil knot complement $S^3\setminus K$ into a union of copies of a punctured torus $F:=T^2\setminus\{pt\}$, indexed by points in the circle.\footnote{Remark: in fact there is a fiber bundle $S^3\setminus K\to S^1$, where the fibers are punctured tori. This fiber bundle structure gives a decomposition of $S^3\setminus K$ into a union of fibers. I'm not asking you to prove there's a fiber bundle, only to explain the decomposition into a union of fibers.} \footnote{Hint: I suggest you do this topologically, especially as it relates to the last part of the problem. For this, it's helpful to recall that $S^3$ is a union of solid tori $S^1\times D^2$ and $D^2\times S^1$ (an ``inside" and an ``outside" solid torus), glued along a torus $S^1\times S^1$. Put the trefoil knot on the surface of the torus. The fibers can be described in terms of their intersections with the solid tori. You can do this so that each fiber intersects the outside solid torus in two disjoint (meridinal) disks. Also, instead of thinking about punctured tori in $S^3\setminus K$, you can equivalently think about compact surfaces in $S^3$ each of whose boundary is $K$.} 
+Use this to compute the action of the first-return map on $H_1(F)$.\footnote{As you vary the fibers along the $S^1$ parameter, completing a full loop, you obtain a self-map of a fixed fiber (for example, for the Mobius bundle, this first return map is a reflection). I want you to compute the map induced on homology $H_1(F)\cong\mathbb Z^2$ under this self-map. Fix a basis, so that the answer is a $2\times 2$ matrix. } 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+
+\end{document}
