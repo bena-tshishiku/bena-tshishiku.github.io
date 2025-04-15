@@ -97,11 +97,17 @@ As part of completing the final project, I will ask you to submit:
 
 Some project ideas: 
 
+* Lefschetz fixed point theorem (Maria, Marcus)
+* Classifying vector bundles (Eduardo, Byron)
+* Cohomology ring of complex Grassmannian (AnaMaria, Yifan) 
+* Vector bundles and K-theory (Aidan, Ethan)
+* J-homomorphism (Andy)
+* Model categories (Sahan, Mathew) 
+
 * Pontryagin-Thom theorem and stable homotopy groups
 * cobordism groups
 * Hopf invariant 
 * plus construction and (algebraic) K-theory
-* vector bundles and topological K-theory
 * group cohomology and group extensions 
 * Nerve theorem and application 
 * H-spaces and Hopf algebras
@@ -110,7 +116,6 @@ Some project ideas:
 * spectra and (co)homology theories
 * Steenrod squares
 * Grassmannians and classifying spaces 
-* Lefschetz fixed point theorem 
 * J-homomorphism and stable homotopy groups
 * Bott periodicity
 * Alexander duality
