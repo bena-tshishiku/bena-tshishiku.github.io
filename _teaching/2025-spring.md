@@ -11,9 +11,7 @@ location: "Providence, USA"
 ## Announcements
 
 * (4/15) Final project slides are due Tuesday 4/22. Instructions [here](https://bena-tshishiku.github.io/files/courses/2025-spring/final-project-slides). Please consider carefully my feedback on the project outline.  
-* (4/11) HW6 is posted below. It is due Friday 4/18.
-* (4/7) Final project outlines are due Tuesday 4/15. Instructions [here](https://bena-tshishiku.github.io/files/courses/2025-spring/final-project-outline.pdf). Please consider my feedback on the project proposal.  
-
+* (4/11) HW6 is posted below. It is due Friday 4/18. 
 
 ## Course information
 This is part two of a graduate course on algebraic topology. The main topics will be cohomology, Poincare duality, and homotopy theory. 
@@ -179,20 +177,20 @@ Some project ideas:
 * Week 12: 
   * Tues (4/8). homotopy excision, Freudenthal suspension 
   * Thurs (4/10). cellular approximation for maps, Whitehead's theorem
-  * Fri (4/11). HW5 due, 
+  * Fri (4/11). HW5 due
 
 * Week 13: Midterm 2 this week
   * Tues (4/15). Whithead's theorem, cellular approximation for spaces
   * Thurs (4/17). Hurewicz theorem
-  * Fri (4/18). final project slides/notes due
+  * Fri (4/18). HW6 due
 
 * Week 14: 
-  * Tues (4/22). 
+  * Tues (4/22). final project slides/notes due
   * Thurs (4/24). 
   * Fri (4/25). 
 
 * Week 15: Final project presentations
-  * Tues (4/29). 
-  * Thurs (5/1). 
+  * Tues (4/29). AnaMaria-Yifan, Byron-Eduardo, Aidan-Ethan
+  * Thurs (5/1). Marcus-Maria, Mathew-Sahan, Andy
 
 End of course.
