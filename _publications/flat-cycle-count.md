@@ -19,6 +19,4 @@ covers. Similar results are proved for other families of locally symmetric space
 
 Note: there is a simpler proof of the main results, which we learned from a referee. This has not yet been incorporated into the draft. 
 
-## Talk notes 
-
-[1](http://bena-tshishiku.github.io/files/talks/flat-cycle-count.pdf)
+Talks: [notes](http://bena-tshishiku.github.io/files/talks/flat-cycle-count.pdf)

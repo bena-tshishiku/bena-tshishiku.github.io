@@ -20,8 +20,4 @@ with Gromov boundary S^n is a PD(n+1) group. For relatively hyperbolic pairs (G,
 the natural boundary -- the Bowditch boundary -- does not give a Z-set compactification of G. 
 Nevertheless we show that if the Bowditch boundary of (G,P) is a 2-sphere, then (G,P) is a PD(3) pair. 
 
-## Talks
-
-[Notes](http://bena-tshishiku.github.io/files/talks/relativePD3.pdf) 
-
-[Video](https://www.youtube.com/watch?v=Kmt_ogvIYvU)
+Talks: [Notes](http://bena-tshishiku.github.io/files/talks/relativePD3.pdf), [Video](https://www.youtube.com/watch?v=Kmt_ogvIYvU)

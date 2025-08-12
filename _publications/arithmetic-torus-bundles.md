@@ -20,6 +20,4 @@ to the reducibility properties of the characteristic polynomial of A. Our tools
 include algebraic tori, representation theory of finite groups, Galois theory, 
 and the inverse Galois problem.
 
-## Talk notes 
-
-[1](http://bena-tshishiku.github.io/files/talks/arithmetic-torus-bundles.pdf)
+Talks: [notes](http://bena-tshishiku.github.io/files/talks/arithmetic-torus-bundles.pdf)
