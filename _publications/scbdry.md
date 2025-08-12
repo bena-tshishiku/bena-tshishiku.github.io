@@ -25,6 +25,6 @@ Concerning the converse, we construct examples of aspherical manifolds with
 boundary whose fundamental group is hyperbolic but with visual boundary not homeomorphic to a Sierpinski space. 
 
 
-## Talk notes 
+Talk notes 
 
 [1](http://bena-tshishiku.github.io/files/talks/scbdry.pdf)
