@@ -6,7 +6,7 @@ excerpt: ''
 date: 2023-05-01
 venue: 'with M. Bustamante, M. Krannich, A. Kupers'
 paperurl: ''
-citation: 'Trans. Amer. Math. Soc., to appear'
+citation: 'Trans. Amer. Math. Soc. Ser. B 11 (2024), 1316-1349'
 
 ---
 

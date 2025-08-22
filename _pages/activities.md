@@ -26,11 +26,11 @@ Oct 18-19. AMS sectional: Topology and Group Actions (Saint Louis University)\
 Sept 8-12. Hyperbolic manifolds in dimensions 4 and more (CRM)\
 July 28- Aug 1. Workshop on Interactions between Group Theory and Homotopy Theory (Fields Institute)\ 
 June 9-20. Discrete Groups in Topology and Algebraic Geometry (Notre Dame)\
-May 26-30. Geometry and Topology of polyhedral complexes\ 
+May 26-30. Geometry and Topology of polyhedral complexes\
 May 5-9. Mapping Class Groups, Surface Subgroups, Bundles, and Group Extensions (ICMAT)\
 April 26. GATSBY conference (Brown)\
 April 18. Columbia topology seminar\
-April 8. Tufts GGT seminar\ 
+April 8. Tufts GGT seminar\
 March 6-8. Spring topology and dynamics conference (Christopher Newport University)\
 Jan 27-31. Motives and mapping class groups (AIM)\
 Jan 6-17. Hyperbolic manifolds, their submanifolds and fundamental groups (IMPA)\
