@@ -151,9 +151,9 @@ Teaching
 Advising and mentoring
 ======
 * Graduate
-  * Trent Lucas: current PhD student
+  * Trent Lucas (PhD 2025)
   * Alina Al Beaini (PhD 2024)
-  * Tom Stone (masters 2021)
+  * Tom Stone (MS 2021)
 
 * Undergraduate
   * Alex Feiner: independent reading on sheaves, Fall 2022
