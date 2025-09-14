@@ -1,0 +1,122 @@
+\documentclass[11pt]{article}
+
+\author{Math 1060}
+\date{Due Friday, September 26 by 11:59pm} 
+\title{Homework 2}
+
+\usepackage{graphicx,xypic}
+\usepackage{amsthm}
+\usepackage{amsmath,amssymb}
+\usepackage{amsfonts}
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage[shortlabels]{enumitem}
+\newtheorem{problem}{Problem}
+\renewcommand*{\proofname}{{\color{blue}Solution}}
+
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1.25ex}
+
+
+\begin{document}
+
+\maketitle
+
+
+% DON'T LEAVE THIS BLANK! 
+{\bf\Large Your Name:} 
+
+% DON'T FORGET YOUR COLLABORATORS! 
+Collaborator names: 
+
+
+\vspace{.3in}
+Topics covered: tangent spaces, first fundamental form, lengths, areas
+
+Instructions {\bf (read these carefully!)}: 
+\begin{itemize}
+\item This assignment must be submitted on Gradescope by the due date. Gradescope Entry Code: NG7JKV. 
+\item If you collaborate with other students (which is encouraged!), please list your collaborators above. 
+\item Homework is graded anonymously, so please avoid putting your name on every page of the assignment.
+\item If you are stuck, please ask for help (from me, Nathan (TA), or a classmate). Use Campuswire!  
+\item You may freely use any fact proved in class (mention it in the appropriate spot). You can also use basic facts from calculus or linear algebra without justification. You may not freely use facts from the book. 
+\item Please restrict your solution to each problem to a single page. Usually solutions can be even shorter than that. If your solution is very long, you should think more about how to express it concisely.
+\end{itemize}
+\pagebreak 
+
+
+
+\begin{problem}
+Let $S\subset\mathbb R^3$ be the torus of revolution from class (revolving a circle of radius $1$ centered at $(2,0)$ in the $xz$-plane about the $z$-axis). It's parameterized by 
+\[\phi(t,\theta)=(\cos\theta(2+\cos t),\sin\theta(2+\cos t), \sin t).\]
+\begin{enumerate}
+\item[(a)] Compute using the parameterization all the points whose tangent space is the $xy$-plane. 
+\item[(b)] Repeat (a) for the $yz$-plane. 
+\item[(c)] Similarly, determine all the points whose tangent space contains the $z$-axis. 
+\end{enumerate}
+Finally, draw each of the sets you found above on the torus. 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak
+
+\begin{problem}
+Let $c:[a,b]\to\mathbb R^3$ be a curve. Let $v$ be a unit vector. Prove the following (in)equalities: 
+\[\big(c(b)-c(a)\big)\cdot v=\int_a^bc'(t)\cdot v\>dt\le\int_a^b|c'(t)|\>dt.\]
+Choose $v$ appropriately to deduce that the shortest path between any two points is a straight line. 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak
+
+
+\begin{problem}
+The curve $b(t)=(e^{-t}\cos(t),e^{-t}\sin(t))$ for $t\in[0,\infty)$ is called the logarithmic spiral. Give a rough plot of this curve by hand, and compute its length. 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak
+
+\begin{problem}
+Give an explicit unit-speed parameterization for the logarithmic spiral
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak
+
+
+\begin{problem}
+Derive a general formula for the area of a surface of revolution (say, of a curve $c(t)=(x(t),0,z(t)$ in the $xz$-plane, revolving about the $z$-axis) by finding a chart and computing the first fundamental form.\footnote{Perhaps you did this some other way in MVC.} 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak
+
+\begin{problem}
+Consider the surface obtained by revolving the curve $c(t)=(1/t, 0, t)$ for $t\ge1$ about the $z$-axis. Compute the area of this surface using the previous problem\footnote{Hint: reduce to the computation of $\int_1^\infty\frac{1}{a}\>da$, which you may look up if you don't remember.}. Compute the volume bounded by this surface and the plane $z=1$.\footnote{Thinking in terms of Riemann sums, the volume is given by $\int_1^\infty A(t)\>dt$, where $A(t)$ is the area of the intersection of the solid with the plane $x=t$.} Explain why these computations are paradoxical (how long would it take to paint the surface versus fill it with paint).
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+
+
+
+\end{document}
