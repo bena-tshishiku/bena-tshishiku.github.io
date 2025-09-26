@@ -1,0 +1,129 @@
+\documentclass[11pt]{article}
+
+\author{Math 1060}
+\date{Due Friday, October 3 by 11:59pm} 
+\title{Homework 3}
+
+\usepackage{graphicx,xypic}
+\usepackage{amsthm}
+\usepackage{amsmath,amssymb}
+\usepackage{amsfonts}
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage[shortlabels]{enumitem}
+\newtheorem{problem}{Problem}
+\renewcommand*{\proofname}{{\color{blue}Solution}}
+
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1.25ex}
+
+
+\begin{document}
+
+\maketitle
+
+
+% DON'T LEAVE THIS BLANK! 
+{\bf\Large Your Name:} 
+
+% DON'T FORGET YOUR COLLABORATORS! 
+Collaborator names: 
+
+
+\vspace{.3in}
+Topics covered: curves, curvature
+
+Instructions {\bf (read these carefully!)}: 
+\begin{itemize}
+\item This assignment must be submitted on Gradescope by the due date. 
+\item If you collaborate with other students (which is encouraged!), please list your collaborators above. 
+\item Homework is graded anonymously, so please avoid putting your name on every page of the assignment.
+\item If you are stuck, please ask for help (from me, Nathan, or a classmate). Use Campuswire!  
+\item You may freely use any fact proved in class (mention it in the appropriate spot). You can also use basic facts from calculus or linear algebra without justification (but be sure to say what fact you're using and where). You may not freely use facts from the book, and generally your source material for completing the assignent should be the lecture, rather than the book (particularly when there is some discrepancy between these). 
+\item Please restrict your solution to each problem to a single page. Usually solutions can be even shorter than that. If your solution is very long, you should think more about how to express it concisely.
+\end{itemize}
+\pagebreak 
+
+
+\begin{problem}
+Let $c:[0,L]\to\mathbb R^2$ be a unit-speed plane curve. Write $c'(t)=(\cos\theta(t),\sin\theta(t))$, where $\theta:[0,L]\to\mathbb R$. Show that differentiability of $c$ implies differentiability of $\theta$. \footnote{Recall: for us (and do Carmo) differentiable means ``infinitely differentiable".} \footnote{Remark: we used this problem in our proof of the fundamental theorem of plane curves.}
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak
+
+\begin{problem}
+In this problem you work out a formula for curvature of a space curve that's not necessarily unit speed. Let $f:[a,b]\to\mathbb R^3$ be a curve (not necessarily unit speed), and let $r(t)=\int_a^t|f'(u)|\>du$ be its arclength function (in particular $r'(t)=|f'(t)|$). From class, we can define a unit speed curve $c$ so that $c\circ r=f$. The curvature $\kappa(t)$ of $f$ at time $t\in[a,b]$, is defined as the curvature of $c$ at time $r(t)$, which we defined in class as $|c''(r(t))|$.  
+\begin{enumerate}[(a)]
+\item Derive from this setup that the curvature of $f$ is give by the formula
+\[\kappa(t)=\frac{|T'(t)|}{r'(t)},\]
+where $T(t)$ is defined as $f'(t)/|f'(t)|= f'(t)/r'(t)$. \footnote{Hint: differentiate! and again! }
+\item Derive the formula 
+\[\kappa(t)=\frac{|f'(t)\times f''(t)|}{|f'(t)|^3}
+\]\footnote{Hint: first differentiate $f'=r'T$ to get a formula for $f''$.}
+\end{enumerate} 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak
+
+\begin{problem}
+Let $\phi:I\to\mathbb R$ be a smooth function, and consider $f(t)=(t,\phi(t))$ (a parameterization of the graph of $\phi$). Compute the curvature of $f$. 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak
+
+
+\begin{problem}
+The tangent line is the line that best approximates a curve at a point. Similarly, the osculating circle is the circle that best approximates a plane curve at a point. Recall that for points $a,b,c$ in the plane, not on a line, there is a unique circle passing through these points. Write $C(a,b,c)$ for the center of this circle. The osculating circle at $\alpha(t)$ is defined as the circle through $\alpha(t)$ with center 
+\[C=\lim_{s\to0} C(\alpha(t-s),\alpha(t),\alpha(t+s)).\]
+\begin{enumerate}[(i)]
+\item Fix $\lambda>0$ and define $\beta(s)=(s,\lambda s^2)$. For $s\neq0$, compute the center of the circle that passes through $\beta(s),\beta(0)$, and $\beta(-s)$.  \footnote{Hint: You can solve this by finding $a,b,r$ so that $\beta(\pm s),\beta(0)$ satisfy the equation $(x-a)^2+(y-b)^2=r^2$.}
+\item Assume $\alpha$ satisfies $\alpha(0)=(0,0)$ and $\alpha'(0)=(1,0)$. Use the preceding part and the Taylor expansion of $\alpha(t)$ to show the radius of the osculating circle at $\alpha(0)$ is $1/\kappa$, where $\kappa=\kappa(0)$ is the curvature. \footnote{Hint: use specifically the degree-2 Taylor approximation.} \footnote{Remark: this problem gives a geometric interpretation for the curvature. }
+\end{enumerate} 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak
+
+
+
+\begin{problem}
+Resolve the cycloid paradox. Suggestion: first solve the paradox for a square wheel (consider a smaller concentric square and keep track of the times when the smaller square has its sides parallel to the $x,y$-axes). This should give a good clue for what is going on (viewing the circle as the limit of regular $n$-gon as $n$ goes to infinity). To explain what's going on in the circle case, it may help to draw the path traced by a point on a smaller concentric circle and compare it to the cycloid. 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak
+
+\begin{problem}
+The url below takes you to an image of a curve. Let $T,N,B$ denote the Frenet frame at the specified point. Rotate the image so that you are looking down at the plane spanned by $T,N$. Do the same with $T,B$, and with $N,B$. Submit screenshots of your answer, and draw and label the $T,N,B$ axes. Make sure to explain your answer. 
+
+\texttt{https://www.wolframcloud.com/obj/077c82ab-4b22-4588-8936-b76a5e2698a9}
+\end{problem}
+
+
+\begin{proof}
+
+\end{proof}
+
+
+
+
+\end{document}
