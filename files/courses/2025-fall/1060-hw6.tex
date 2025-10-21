@@ -1,0 +1,102 @@
+\documentclass[11pt]{article}
+
+\author{Math 1060}
+\date{Due Friday, October 23 by 11:59pm} 
+\title{Homework 6}
+
+\usepackage{graphicx,xypic}
+\usepackage{amsthm}
+\usepackage{amsmath,amssymb}
+\usepackage{amsfonts}
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage[shortlabels]{enumitem}
+\newtheorem{problem}{Problem}
+\renewcommand*{\proofname}{{\color{blue}Solution}}
+
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1.25ex}
+
+
+\begin{document}
+
+\maketitle
+
+
+% DON'T LEAVE THIS BLANK! 
+{\bf\Large Your Name:} 
+
+% DON'T FORGET YOUR COLLABORATORS! 
+Collaborator names: 
+
+
+\vspace{.3in}
+Topics covered: second fundamental form, curvature, computations
+
+Instructions {\bf (read these carefully!)}: 
+\begin{itemize}
+\item This assignment must be submitted on Gradescope by the due date. 
+\item If you collaborate with other students (which is encouraged!), please list your collaborators above. 
+\item Homework is graded anonymously, so please avoid putting your name on every page of the assignment.
+\item If you are stuck, please ask for help (from me, Nathan, or a classmate). Use Campuswire!  
+\item You may freely use any fact proved in class (mention it in the appropriate spot). You can also use basic facts from calculus or linear algebra without justification (but be sure to say what fact you're using and where). You may not freely use facts from the book, and generally your source material for completing the assignent should be the lecture, rather than the book (particularly when there is some discrepancy between these). 
+\item Please restrict your solution to each problem to a single page. Usually solutions can be even shorter than that. If your solution is very long, you should think more about how to express it concisely.
+\end{itemize}
+\pagebreak 
+
+
+\begin{problem}
+The helicoid is the surface given by the chart
+\[\phi(u,v)=(v\cos u,v\sin u,u), \>\>\>u,v\in\mathbb R.\]
+Use a mathematica \texttt{ParametricPlot3D} (or similar) to plot this surface. Compute (by hand) the first and second fundamental forms $\mathrm I,\mathrm{I\!I}$ and mean curvature $H$ of this surface.\footnote{Hint: Your answer for the mean curvature, if correct, will be exceedingly simple.} 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak 
+
+\begin{problem}
+Consider the curve\footnote{Recall the hyperbolic trig functions are defined by $\cosh(t)=\frac{e^t+e^{-t}}{2}$, $\sinh(t)=\frac{e^t-e^{-t}}{2}$, etc. I suggest you derive or look up formulas for the derivatives and identities satisfied by these functions.}
+\[\alpha(t)=(t-\tanh t,\text{sech} t,0),\>\>\>t>0.\]
+Let $S$ be the surface obtained by revolving $\alpha$ about the $x$-axis. Use a mathematica \texttt{ParametricPlot3D} (or similar) to plot this surface. Compute (by hand) the first and second fundamental forms $\mathrm I,\mathrm{I\!I}$ and Gauss curvature $K$ of this surface.\footnote{Hint: Your answer for the Gauss curvature, if correct, will be exceedingly simple.} 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak 
+
+\begin{problem}
+Let $T$ be a torus of revolution. Use the Gauss map to argue that the average Gaussian curvature over $T$ is zero.\footnote{Hint: use some symmetry. Try not to do much computation.} 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak 
+
+\begin{problem}
+Let $A$ be a symmetric $2\times 2$ matrix. Write $v(\theta)=(\cos \theta,\sin\theta)$ for a point on the unit circle. Show that the average value of $\langle Av(\theta),v(\theta)\rangle$ is equal to $\frac{1}{2}\mathrm{tr}(A)$. Use this to explain the terminology ``mean curvature".\footnote{There is only one completely correct answer here, so please think carefully.} 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak 
+
+\begin{problem}
+Let $S\subset\mathbb R^3$ be a surface with a point $p\in S$ with nonzero mean curvature $H(p)\neq0$. Show that $S$ is not a critical point for the area functional. For concreteness, assume that $S=\phi(U)$ where $\phi:U\subset\mathbb R^2\to S$ is a chart. \footnote{Show there is a normal variation $\phi^t$ such that $\frac{d}{dt}\mid_{t=0} \mathrm{area}(\phi^t(U))\neq0$.}
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+
+\end{document}
