@@ -1,16 +1,16 @@
 ---
-title: "Homotopy-Anosov Z^2 actions on exotic tori"
+title: "Rotation index, Milnor-Munkres-Novikov pairing, and group actions on manifolds"
 collection: publications
 permalink: publication/nielsen-anosov
 excerpt: ''
 date: 2024-01-01
 venue: 'with M. Bustamante'
 paperurl: ''
-citation: 'arXiv:2408.09346'
+citation: 'Submitted. arXiv:2408.09346'
 
 ---
 
-[pdf](http://bena-tshishiku.github.io/files/papers/nielsen-anosov.pdf)
+[pdf](https://arxiv.org/pdf/2408.09346v2)
 
 
-We give examples of Anosov actions of ℤ^2 on the d-torus T^d that cannot be homotoped to a smooth action on T^d#Σ, for certain exotic d-spheres Σ. This is deduced using work of Krannich, Kupers, and the authors that, in particular, computes the mapping class group of T^d#Σ.
+We introduce an invariant of a pair of commuting invertible matrices that we call the rotation index. We apply this invariant, together with the Milnor-Munkres-Novikov pairing, to the study of some questions about group actions of Z^2, specifically the Nielsen realization problem, higher-rank Anosov actions, and extending actions from spheres to disks. 

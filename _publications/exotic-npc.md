@@ -6,7 +6,7 @@ excerpt: ''
 date: 2022-05-01
 venue: 'with M. Bustamante'
 paperurl: ''
-citation: 'Submitted. arXiv:2109.09196'
+citation: 'Math. Z. to appear'
 
 ---
 
