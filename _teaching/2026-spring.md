@@ -1,10 +1,10 @@
 ---
-title: "Graph theory (Math 1230)"
+title: "Graph theory (Math 1030)"
 collection: teaching
 type: "Undergraduate course"
 permalink: 
 venue: "Brown University"
-date: 2023-01-01
+date: 2026-01-01
 location: "Providence, USA"
 ---
 
@@ -41,7 +41,7 @@ homework 30%, midterm 20%, final project 20%, final exam 20%, participation 10%
 * a grade of 84% or higher is guaranteed an B
 * a grade of 76% or higher is guaranteed an C
 
-For students taking this course S/NC, a minimum grade of 70% and a minimum participation grade of 70% is required to guarantee a grade of S.
+For students taking this course S/NC, a minimum grade of 70% and a minimum participation grade of 70% is necessary to receive a grade of S.
 
 ## Contact information 
 
@@ -57,9 +57,9 @@ Office hours:
 * Rafi: TBD
 
 Important dates: 
-* Midterm: 
-* Exam: Thursday, May 7 at 2pm
+* Midterm: March 10 in the evening (time TBD)
 * Final projects: presented in class during reading period
+* Final exam: Thursday, May 7 at 2pm
 
 ## Homework 
 
@@ -73,19 +73,24 @@ Late homework policy: As a general rule, late homework is not accepted. I know t
 
 ### Homework assignments. 
 
-HW1 (due 1/30). 
+HW1 (due 1/30). to be posted soon
 
 
 ## Participation
 
 Occasionally, we may have assignments or quizzes in class. These will count toward the participation part of your grade (10%). 
 
-You can also participate by coming to office hours and coming to 
+You can also participate by coming to office hours and asking questions on Ed Discussion.  
 
 
 ## Final Project
-Working in groups of 2, you'll choose a topic related to the course to investigate and create an N-minute presentation to be given during reading period. To help you prepare for this, I will ask you to submit a draft outline of your talk and a draft of your slides. 
+Working in groups of 2, you'll choose a topic related to the course to investigate and create an N-minute presentation to be given during reading period. To help you prepare for this, I will ask you to submit the following. 
 
+* Final project proposal (due 3/31)
+* Final project outline (due 4/7) 
+* Final project slides (due 4/14)
+
+Additional information, as well as some potential topic ideas, will be shared later. 
 
 ## Tentative schedule (subject to change)
 
@@ -125,35 +130,39 @@ Working in groups of 2, you'll choose a topic related to the course to investiga
 
 * Week 8: Planarity (West 6.1-6.2)
   * Mon (3/9). chromatic polynomial, planar graphs, Kuratowski's theorem, linear planar embeddings
+  * Tue (3/10). Midterm (time TBD)
   * Wed (3/11). 
-  * Fri (3/13). HW7 due
+  * Fri (3/13). 
 
 * Week 9: Planarity
   * Mon (3/16). Art gallery problem, map coloring, platonic solids
   * Wed (3/18).
-  * Fri (3/20). 
+  * Fri (3/20). HW7 due
 
 * Week 10: Spring Break
 
 * Week 11: Ramsey theory (West 8.3) 
   * Mon (3/30). Ramsey theory for graphs, numbers, and knots
+  * Tue (3/31). Final project proposal due
   * Wed (4/1). 
   * Fri (4/3). HW8 due
 
 * Week 12: Ramsey theory, Random graphs (West 8.5) 
   * Mon (4/6). Ramsey lower bound, random graphs, connectedness and diameter of random graphs, Rado graph
+  * Tue (4/7). Final project outline due
   * Wed (4/8). 
   * Fri (4/10). HW9 due
 
 * Week 13: Random graphs, Spectral graph theory (West 8.6) 
   * Mon (4/13). 
+  * Tue (4/14). Final project slides due
   * Wed (4/15). 
   * Fri (4/17). HW10 due 
 
 * Week 14: 
   * Mon (4/20). 
   * Wed (4/22). 
-  * Fri (4/24). 
+  * Fri (4/24). start of reading period
 
 * Week 15: 
   * Mon (4/27). final projects
