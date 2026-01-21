@@ -1,0 +1,131 @@
+\documentclass[11pt]{article}
+
+\author{Math 1030}
+\date{Due Friday, January 30 by 5pm} 
+\title{Homework 1}
+
+\usepackage{graphicx,xypic}
+\usepackage{amsthm}
+\usepackage{amsmath,amssymb}
+\usepackage{amsfonts}
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage[shortlabels]{enumitem}
+\newtheorem{problem}{Problem}
+\renewcommand*{\proofname}{{\color{blue}Solution}}
+
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1.25ex}
+
+
+\begin{document}
+
+\maketitle
+
+% DON'T LEAVE THIS BLANK! 
+{\bf\Large Your Name:} 
+
+% DON'T FORGET YOUR COLLABORATORS! 
+Collaborator names: 
+
+\vspace{.3in}
+Topics covered: graph/subgraph, cycle, path, vertex degrees, isomorphism
+
+Instructions {\bf (read these carefully!)}: 
+\begin{itemize}
+\item This assignment must be submitted on Gradescope by the due date. Gradescope Entry Code: 6X8XYR. 
+\item If you collaborate with other students (this is encouraged),  list your collaborators above. 
+\item Homework is graded anonymously, so avoid putting your name on each page of the assignment.
+\item If you are stuck, please ask for help (from me, Rafi, or a classmate). Use Ed discussions!  
+\item You may freely use any fact proved in class (mention it in the appropriate spot). You \emph{may not} freely use facts from the book or other sources.
+\item As a general rule, try to restrict your solution to each problem to a single page. Often solutions can be short, while still being complete. If your solution is very long, think more about how you might express it more concisely.
+\end{itemize}
+
+\pagebreak 
+
+
+
+
+\begin{problem}
+Prove that the following graph is isomorphic to the Petersen graph.
+\begin{center}
+\includegraphics[scale=.4]{petersen.pdf}
+\end{center}
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak 
+
+
+\begin{problem}
+How many cycles of length $n$ are there in the complete graph $K_n$? (Explain your answer.) 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak 
+
+
+\begin{problem}
+Define the hypercube graph $Q_k$ as the graph with a vertex for each tuple $(a_1,\ldots,a_k)$ with coordinates $a_i\in\{0,1\}$ and with an edge between $(a_1,\ldots,a_k)$ and $(b_1,\ldots,b_k)$ if they differ in exactly one coordinate.
+\begin{enumerate}[(a)]
+\item Prove that two $4$-cycles in $Q_k$ are either disjoint, intersect in a single vertex, or intersect in a single edge.
+\item Let $K_{2,3}$ be the complete bipartite graph with $2$ red and $3$ blue vertices. Prove that $K_{2,3}$ is not a subgraph of any hypercube $Q_k$. 
+\end{enumerate} 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak 
+
+
+\begin{problem}
+Let $G=(V,E)$ be a graph. The complement of $G$ is the graph $\bar G=(V,\bar E)$, where $\{u,v\}\in\bar E$ if and only if $\{u,v\}\notin E$. 
+\begin{enumerate}[(a)]
+\item Determine the complement of the graphs $P_3$ and $P_4$. (Recall that $P_n$ is the path with $n$ vertices.)
+\item We say that $G$ is self-complementary if $G$ is isomorphic $\bar G$. Prove that if $G$ is self-complementary with $n$ vertices, then either $n$ or $n-1$ is divisible by $4$. 
+\item Construct a self-complementary graph for each $n$ such that $n$ or $n-1$ is divisible by $4$.\footnote{Hint: The first interesting case is $n=5$. Build an example using $P_4$ and one more vertex. Study this case carefully and generalize. For $n=8$ you can start with two copies of $P_4$.}
+\end{enumerate} 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak 
+
+
+\begin{problem}True or false: if $G$ is isomorphic to $H$, then the complements $\bar G$ and $\bar H$ are also isomorphic.\footnote{True/false questions require either a proof (if the statement is true) or a counterexample (if the statement is false). }
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak 
+
+
+\begin{problem}
+For this problem, let $G$ denote the Petersen graph. Use the definition of the Petersen graph given in class (where vertices are $2$-element subsets of $\{1,2,3,4,5\}$) to prove the following. 
+\begin{enumerate}[(a)]
+\item $G$ has no cycles of length $3$ or $4$. 
+\item $G$ has no cycle of length $7$. \footnote{Hint: argue by contradiction. Observe that each vertex of $G$ has degree 3. If $C$ is a 7-cycle in $G$ is it possible that the only edges in $G$ connecting vertices in $C$ are the edges in $C$?}
+\end{enumerate} 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+
+
+
+\end{document}

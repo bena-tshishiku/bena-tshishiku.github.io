@@ -73,7 +73,7 @@ Late homework policy: As a general rule, late homework is not accepted. I know t
 
 ### Homework assignments. 
 
-HW1 (due 1/30). to be posted soon
+HW1 (due 1/30). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw1.tex), [image](https://bena-tshishiku.github.io/files/courses/2026-spring/petersen.pdf) (put this in the same folder as your tex file)
 
 
 ## Participation
@@ -171,4 +171,14 @@ Additional information, as well as some potential topic ideas, will be shared la
 
 * Week 16:  
   * Thurs. Final exam 2-5pm
+
+
+## Tips for success
+
+* Attend lecture. 
+* Read the book. Doing this before lecture may help you absorb the lectures better.
+* Try the homework problems alone before working with others or coming to office hours. Identifying where you get stuck can make office hours more productive. 
+* Don't use AI for the homework. The point of HW is to challenge you to think in new ways. AI is counterproductive for this purpose. If you are stuck come to office hours or find someone to work with to make progress. You will learn more that way. 
+* Come to office hours. There are many good uses of office hours: ask questions related to homework, lecture, or the book; go over something you're confused about; work on your homework alone or in a group; ask for advice on how to improve in the course; ask about something only tangentially related to the course. 
+* Use the homework to better understand the material. A pretty good general approach to doing homework problems is to follow UMER: (1) **U**nderstand the problem: review all relevant definitions, do some examples, draw a picture; (2) **M**ake a plan: come up with strategies to solve the problem, which results from class are relevant; (3) **E**xecute: try one of your strategies, and if it doesn't work (this is normal), try another, go back to steps (1) and (2) as necessary; (4) **R**eflect on your solution: after you've solved the problem (great) there is more to do(!), check your work, did you miss any steps, can you simplify or improve your solution, are there any big-picture take-aways. Each step of UMER should reinforce your understanding of the course material. Overall, the homework should be fun if you have a good sense of UMER. 
 
