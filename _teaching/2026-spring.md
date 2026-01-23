@@ -10,7 +10,7 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (1/21). Office hours next week will be Wednesday 4:30-5:30 (Bena) and Thursday 1-2 (Rafi). After that we will send a poll to figure out office hours for the future weeks. 
+* (1/21). Office hours next week will be Wednesday 4:30-5:30 (Bena in Kassar 304) and Thursday 1-2 (Rafi in Kassar common room). After that we will send a poll to figure out office hours for the future weeks. 
 * (1/21). HW1 is posted below and is due next Friday, 1/30. 
 * (1/18). This webpage has the syllabus for the course. Please read it carefully. 
 
