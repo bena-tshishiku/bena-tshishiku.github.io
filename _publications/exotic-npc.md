@@ -6,7 +6,7 @@ excerpt: ''
 date: 2022-05-01
 venue: 'with M. Bustamante'
 paperurl: ''
-citation: 'Math. Z. to appear'
+citation: 'Math. Z. 309 (2025), no. 3, Paper No. 47'
 
 ---
 
