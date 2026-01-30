@@ -1,0 +1,123 @@
+\documentclass[11pt]{article}
+
+\author{Math 1030}
+\date{Due Friday, February 6 by 5pm} 
+\title{Homework 2}
+
+\usepackage{graphicx,xypic}
+\usepackage{amsthm}
+\usepackage{amsmath,amssymb}
+\usepackage{amsfonts}
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage[shortlabels]{enumitem}
+\newtheorem{problem}{Problem}
+\renewcommand*{\proofname}{{\color{blue}Solution}}
+
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1.25ex}
+
+
+\begin{document}
+
+\maketitle
+
+% You are required to put your name here:
+{\bf\Large Name:} 
+
+
+\vspace{.3in}
+Topics covered: bipartite graphs, Euler tours, vertex-degree sum formula, trees
+
+Instructions {\bf (read these carefully!)}: 
+\begin{itemize}
+\item This assignment must be submitted on Gradescope by the due date. Gradescope Entry Code: 6X8XYR. 
+\item If you collaborate with other students (this is encouraged),  list your collaborators above. 
+\item Homework is graded anonymously, so avoid putting your name on each page of the assignment.
+\item If you are stuck, please ask for help (from me, Rafi, or a classmate). Use Ed discussions!  
+\item You may freely use any fact proved in class (mention it in the appropriate spot). You \emph{may not} freely use facts from the book or other sources.
+\item As a general rule, try to restrict your solution to each problem to a single page. Often solutions can be short, while still being complete. If your solution is very long, think more about how you might express it more concisely.
+\end{itemize}
+
+
+\pagebreak 
+
+
+
+\begin{problem}
+The complete bipartite graph $K_{n,m}$ is the graph with $n+m$ vertices $v_1,\ldots,v_n$ and $u_1,\ldots,u_m$ and edges $\{v_i,u_j\}$ for each $1\le i\le n$ and $1\le j\le m$. Determine the values $n,m$ so that $K_{n,m}$ is Eulerian.
+\end{problem}
+
+\begin{proof}
+
+\end{proof} 
+
+\pagebreak 
+
+\begin{problem}
+Prove or disprove: 
+\begin{enumerate}[(a)]
+\item Every Eulerian bipartite graph has an even number of edges. 
+\item Every Eulerian graph with an even number of vertices has an even number of edges. 
+\end{enumerate} 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak 
+
+\begin{problem}\ \footnote{Please wait until after the lecture on Monday (2/2) to solve this.}
+\begin{enumerate}[(a)]
+\item Classify trees with exactly two vertices of degree $1$. 
+\item What can you say about the shape of trees with either $3$ or $4$ vertices of degree $1$? (Give a qualitative statement -- you do not need to provide a formal argument.) 
+\end{enumerate} 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak 
+
+\begin{problem}
+Determine the number of graphs with $7$-vertices, each of degree $4$ (up to isomorphism). \footnote{Hint: consider the complement. Relate this problem to the previous one. Your solution should be short. } 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak 
+
+\begin{problem}\
+\begin{enumerate}[(a)]
+\item Prove that removing opposite corner squares from an $8\times 8$ checkerboard leaves a sub-board that cannot be partitioned into $1\times 2$ and $2\times 1$ rectangles. \footnote{Hint: your solution should be short.}
+\item Translate your solution to the language of bipartite graphs. 
+\end{enumerate} 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak 
+
+\begin{problem}
+Suppose there are two mountain trails, each starting at sea level and ending at 1,000 feet. Suppose hikers $A$,$B$ start hiking these two different trails at the same time. The Mountain Climber Problem asks if it is possible for $A$ and $B$ to hike to the top of their individual trails in a way so that they have the same elevation at every time.\footnote{It is important to note that the hikers are allowed to backtrack.} We model the trails by functions $f,g:[0,1]\rightarrow[0,1]$ with $f(0)=g(0)=0$ and $f(1)=g(1)=1$. In this problem you solve the Mountain Climber Problem in the case when $f$ and $g$ are piecewise linear continuous functions.\footnote{A function $f:[0,1]\rightarrow\mathbb R$ is piecewise linear if it's possible to express $[0,1]$ as a union of finitely many intervals, so that $f$ is linear ($x\mapsto ax+b$) on each.}
+\begin{enumerate}[(a)]
+\item Consider \[Z=\{(x,y)\in[0,1]\times[0,1]: f(x)=g(y)\}\]
+Assuming $f,g$ are piecewise linear, determine the local picture near $(x,y)$ in $Z$, considering cases based on the local pictures of $f$ and $g$ near $x$ and $y$, respectively.
+\item Observe that $Z$ can be given the structure of a graph $G$. Consider vertex degrees and deduce that there is a path in $G$ from $(0,0)$ to $(1,1)$.
+\end{enumerate} 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+
+
+\end{document}

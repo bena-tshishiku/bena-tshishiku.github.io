@@ -10,10 +10,9 @@ location: "Providence, USA"
 
 ## Announcements
 
+* (1/30). Please fill the **Office Hour Poll** [here](https://www.when2meet.com/?34682070-T88ot)
+* (1/30). **HW2** is posted below and is due next Friday, 1/30. 
 * (1/28). All future lectures will be in Kassar 205. Please don't forget and go to Smith-B instead! 
-* (1/21). Office hours next week will be Wednesday 4:30-5:30 (Bena in Kassar 304) and Thursday 1-2 (Rafi in Kassar common room). After that we will send a poll to figure out office hours for the future weeks. 
-* (1/21). HW1 is posted below and is due next Friday, 1/30. 
-* (1/18). This webpage has the syllabus for the course. Please read it carefully. 
 
 
 ## Course information
@@ -78,6 +77,9 @@ Late homework policy: As a general rule, late homework is not accepted. I know t
 
 HW1 (due 1/30). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw1.tex), [image](https://bena-tshishiku.github.io/files/courses/2026-spring/petersen.pdf) (put this in the same folder as your tex file)
 
+HW2 (due 2/6). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw2.tex)
+
+
 
 ## Participation
 
@@ -98,16 +100,16 @@ Additional information, as well as some potential topic ideas, will be shared la
 ## Tentative schedule (subject to change)
 
 * Week 1: Introduction (West pg 1-11, 13, 34-36, 38); 
-  * Wed (1/21). Graphs, vertex degrees, isomorphism, subgraphs
-  * Fri (1/23). 
+  * Wed (1/21). Graphs, vertex degrees, degree-sum formula, isomorphism
+  * Fri (1/23). degree sequences, subgraphs, Gray codes
 
 * Week 2: Fundamental concepts (West 19-30, 44-46); 
-  * Mon (1/26). degree sequences, bipartite graphs, Eulerian graphs, counting trees
-  * Wed (1/28). 
-  * Fri (1/30). HW1 due
+  * Mon (1/26). no class (snow day)
+  * Wed (1/28). degree sequences, bipartite graphs 
+  * Fri (1/30). bipartite graphs, local-to-global results, Eulerian graphs; HW1 due
 
 * Week 3: Trees (West 68-71, 73-75, 81-83) 
-  * Mon (2/2). characterization of trees, Cayley's theorem, spanning trees, Bridg-it
+  * Mon (2/2).  characterization of trees, counting trees, spanning trees, Bridg-it
   * Wed (2/4). 
   * Fri (2/6). HW2 due
 
