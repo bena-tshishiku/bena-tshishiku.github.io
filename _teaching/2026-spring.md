@@ -10,6 +10,7 @@ location: "Providence, USA"
 
 ## Announcements
 
+* (2/1). Some **solutions to HW1** are posted below. For this I've selected some good solutions among those submitted by you all, among which there were many to choose from. 
 * (1/30). Please fill the **Office Hour Poll** [here](https://www.when2meet.com/?34682070-T88ot)
 * (1/30). **HW2** is posted below and is due next Friday, 1/30. 
 * (1/28). All future lectures will be in Kassar 205. Please don't forget and go to Smith-B instead! 
@@ -55,11 +56,11 @@ For students taking this course S/NC, a minimum grade of 70% and a minimum parti
 Lectures: MWF 9-9:50 in Kassar 205
 
 Office hours: 
-* Bena: TBD
-* Rafi: TBD
+* Bena: Wednesdays 5-6 in Kassar 304
+* Rafi: Thursdays 4-5 location TBD
 
 Important dates: 
-* Midterm: March 10 in the evening (time TBD)
+* Midterm: March 10 in the evening (tentative, time TBD)
 * Final projects: presented in class during reading period
 * Final exam: Thursday, May 7 at 2pm
 
@@ -75,7 +76,7 @@ Late homework policy: As a general rule, late homework is not accepted. I know t
 
 ### Homework assignments. 
 
-HW1 (due 1/30). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw1.tex), [image](https://bena-tshishiku.github.io/files/courses/2026-spring/petersen.pdf) (put this in the same folder as your tex file)
+HW1 (due 1/30). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw1.tex), [image](https://bena-tshishiku.github.io/files/courses/2026-spring/petersen.pdf) (put this in the same folder as your tex file), [student solutions](https://bena-tshishiku.github.io/files/courses/2026-spring/hw1-student.pdf)
 
 HW2 (due 2/6). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw2.tex)
 
