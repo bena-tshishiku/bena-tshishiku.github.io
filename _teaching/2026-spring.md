@@ -10,11 +10,9 @@ location: "Providence, USA"
 
 ## Announcements
 
+* (2/4). **Office hours for the semester** are Wed 5-6 in Kassar 304 and Thurs 4-5 in Kassar 104 (common room)
 * (2/1). Some **solutions to HW1** are posted below. For this I've selected some good solutions among those submitted by you all, among which there were many to choose from. 
-* (1/30). Please fill the **Office Hour Poll** [here](https://www.when2meet.com/?34682070-T88ot)
 * (1/30). **HW2** is posted below and is due next Friday, 1/30. 
-* (1/28). All future lectures will be in Kassar 205. Please don't forget and go to Smith-B instead! 
-
 
 ## Course information
 This is an undergraduate course in the study of graphs. Graphs appear all over the place: both in pure and applied mathematics as well as other sciences, such as chemistry, physics, computer science, and linguistics. We will focus on the theoretical aspects of graph theory, although we will also discuss some applications. 
@@ -57,7 +55,7 @@ Lectures: MWF 9-9:50 in Kassar 205
 
 Office hours: 
 * Bena: Wednesdays 5-6 in Kassar 304
-* Rafi: Thursdays 4-5 location TBD
+* Rafi: Thursdays 4-5 in Kassar 104 (common room)
 
 Important dates: 
 * Midterm: March 10 in the evening (tentative, time TBD)
@@ -107,12 +105,12 @@ Additional information, as well as some potential topic ideas, will be shared la
 * Week 2: Fundamental concepts (West 19-30, 44-46); 
   * Mon (1/26). no class (snow day)
   * Wed (1/28). degree sequences, bipartite graphs 
-  * Fri (1/30). bipartite graphs, local-to-global results, Eulerian graphs; HW1 due
+  * Fri (1/30). bipartite graphs, local-to-global results, Eulerian graphs; **HW1 due**
 
 * Week 3: Trees (West 68-71, 73-75, 81-83) 
-  * Mon (2/2).  characterization of trees, counting trees, spanning trees, Bridg-it
-  * Wed (2/4). 
-  * Fri (2/6). HW2 due
+  * Mon (2/2).  characterization of trees,  spanning trees,
+  * Wed (2/4). counting trees, Bridg-it
+  * Fri (2/6). Cayley's theorem, matrix-tree; **HW2 due**
 
 * Week 4: Matchings (West 107-115) 
   * Mon (2/9). matchings, Hall's theorem, vertex covers, maximum matchings, Konig's theorem
