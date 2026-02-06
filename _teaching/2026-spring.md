@@ -10,9 +10,9 @@ location: "Providence, USA"
 
 ## Announcements
 
+* (2/6). **HW3** is posted below and is due next Friday 2/13. 
 * (2/4). **Office hours for the semester** are Wed 5-6 in Kassar 304 and Thurs 4-5 in Kassar 104 (common room)
 * (2/1). Some **solutions to HW1** are posted below. For this I've selected some good solutions among those submitted by you all, among which there were many to choose from. 
-* (1/30). **HW2** is posted below and is due next Friday, 1/30. 
 
 ## Course information
 This is an undergraduate course in the study of graphs. Graphs appear all over the place: both in pure and applied mathematics as well as other sciences, such as chemistry, physics, computer science, and linguistics. We will focus on the theoretical aspects of graph theory, although we will also discuss some applications. 
@@ -78,6 +78,7 @@ HW1 (due 1/30). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-s
 
 HW2 (due 2/6). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw2.tex)
 
+HW2 (due 2/13). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw3.tex)
 
 
 ## Participation
