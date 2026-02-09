@@ -111,7 +111,7 @@ Additional information, as well as some potential topic ideas, will be shared la
 * Week 3: Trees (West 68-71, 73-75, 81-83) 
   * Mon (2/2).  characterization of trees,  spanning trees,
   * Wed (2/4). counting trees, Bridg-it
-  * Fri (2/6). Cayley's theorem, matrix-tree; **HW2 due**
+  * Fri (2/6). Cayley's theorem, minimal spanning trees; **HW2 due**
 
 * Week 4: Matchings (West 107-115) 
   * Mon (2/9). matchings, Hall's theorem, vertex covers, maximum matchings, Konig's theorem
