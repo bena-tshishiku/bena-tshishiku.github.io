@@ -76,9 +76,9 @@ Late homework policy: As a general rule, late homework is not accepted. I know t
 
 HW1 (due 1/30). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw1.tex), [image](https://bena-tshishiku.github.io/files/courses/2026-spring/petersen.pdf) (put this in the same folder as your tex file), [student solutions](https://bena-tshishiku.github.io/files/courses/2026-spring/hw1-student.pdf)
 
-HW2 (due 2/6). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw2.tex)
+HW2 (due 2/6). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw2.tex), [student solutions](https://bena-tshishiku.github.io/files/courses/2026-spring/hw2-student.pdf)
 
-HW2 (due 2/13). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw3.tex)
+HW3 (due 2/13). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw3.tex)
 
 
 ## Participation
