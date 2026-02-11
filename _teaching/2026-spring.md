@@ -109,19 +109,19 @@ Additional information, as well as some potential topic ideas, will be shared la
   * Fri (1/30). bipartite graphs, local-to-global results, Eulerian graphs; **HW1 due**
 
 * Week 3: Trees (West 68-71, 73-75, 81-83) 
-  * Mon (2/2).  characterization of trees,  spanning trees,
+  * Mon (2/2). characterization of trees,  spanning trees,
   * Wed (2/4). counting trees, Bridg-it
   * Fri (2/6). Cayley's theorem, minimal spanning trees; **HW2 due**
 
 * Week 4: Matchings (West 107-115) 
-  * Mon (2/9). matchings, Hall's theorem, vertex covers, maximum matchings, Konig's theorem
-  * Wed (2/11).
-  * Fri (2/13). HW3 due
+  * Mon (2/9). matrix-tree theorem, matchings, max matching dual problem, Konig's theorem
+  * Wed (2/11). max matching local-to-global, Hall's theorem
+  * Fri (2/13). Hall's theorem proof, latin squares **HW3 due**
 
 * Week 5: Matchings (West 130-132)
   * Mon (2/16). No class (university holiday)
-  * Wed (2/18). Konig's theorem, stable matchings, Gale-Shapely
-  * Fri (2/20). HW4 due
+  * Wed (2/18). Konig's theorem proof, stable matchings, 
+  * Fri (2/20). Gale-Shapely algorithm **HW4 due**
 
 * Week 6: Connectivity (West 149-150, 167-168, 176-181, 183) 
   * Mon (2/23). vertex cut, Menger's theorem, flows on networks, matrix-tree theorem, Ford-Fulkerson
