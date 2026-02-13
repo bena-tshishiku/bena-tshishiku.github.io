@@ -10,7 +10,8 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (2/6). **HW4** is posted below and is due next Friday 2/20. 
+* (2/13). Please complete [the check-in poll](https://forms.gle/HysMydSJcQUzBXun7) to give feedback on how things are going in the course so far (so we can make any necessary adjustments). Thanks!
+* (2/13). **HW4** is posted below and is due next Friday 2/20. 
 * (2/4). **Office hours for the semester** are Wed 5-6 in Kassar 304 and Thurs 4-5 in Kassar 104 (common room)
 
 ## Course information
