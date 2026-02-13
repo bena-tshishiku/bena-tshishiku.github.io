@@ -1,0 +1,120 @@
+\documentclass[11pt]{article}
+
+\author{Math 1030}
+\date{Due Friday, February 20 by 5pm} 
+\title{Homework 4}
+
+\usepackage{graphicx,xypic}
+\usepackage{amsthm}
+\usepackage{amsmath,amssymb}
+\usepackage{amsfonts}
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage[shortlabels]{enumitem}
+\newtheorem{problem}{Problem}
+\renewcommand*{\proofname}{{\color{blue}Solution}}
+
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1.25ex}
+
+
+\begin{document}
+
+\maketitle
+
+% DON'T LEAVE THIS BLANK! 
+{\bf\Large Your Name:} 
+
+% DON'T FORGET YOUR COLLABORATORS! 
+Collaborator names: 
+
+\vspace{.3in}
+Topics covered: matchings, Hall's theorem, maximum matchings, augmenting paths
+
+Instructions {\bf (read these carefully!)}: 
+\begin{itemize}
+\item This assignment must be submitted on Gradescope by the due date. 
+\item If you collaborate with other students (this is encouraged),  list your collaborators above. 
+\item Homework is graded anonymously, so avoid putting your name on each page of the assignment.
+\item If you are stuck, please ask for help (from me, Rafi, or a classmate). Use Ed discussions!  
+\item You may freely use any fact proved in class (mention it in the appropriate spot). You \emph{may not} freely use facts from the book or other sources.
+\item As a general rule, try to restrict your solution to each problem to a single page. Often solutions can be short, while still being complete. If your solution is very long, think more about how you might express it more concisely.
+\end{itemize}
+\pagebreak 
+
+
+
+
+\begin{problem}
+Prove or disprove: every tree $T$ has at most one perfect matching. 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak
+
+\begin{problem}
+For $k\ge2$, prove that the hypercube graph $Q_k$ has at least $2^{2^{k-2}}$ perfect matchings. 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak
+
+\begin{problem}
+Let $m$ be the maximum size of a matching of $G$. Prove that every maximal matching of $G$ has at least $m/2$ edges. 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak
+
+\begin{problem}
+Two people play a game on a graph $G$, alternatively choosing distinct vertices. Player $1$ starts by choosing any vertex. Each subsequent choice must be adjacent to the preceding choice (of the other player). Thus together they follow a path. The last player able to move wins. Prove that the second player has a winning strategy if $G$ has a perfect matching, and otherwise the first player has a winning strategy.
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak
+
+\begin{problem}
+Recall that a square matrix is called a permutation matrix $P$ if it has exactly one $1$ in each row and each column and the remaining entries are $0$. Here's an example:
+\[\left(\begin{array}{cccc}
+0&1&0&0\\
+0&0&0&1\\
+1&0&0&0\\
+0&0&1&0
+\end{array}\right).\]
+\begin{enumerate}[(a)]
+\item Use matchings to prove that a square matrix with nonnegative integers entries can be expressed as the sum of $k$ permutation matrices if and only if all the row sums and column sums equal $k$. \footnote{Hint: Here it may help to consider graphs with multiple edges. } 
+\item Use this to construct your own original $4\times 4$ magic square. Make sure the diagonals also have the same value (you will need to think about how to ensure this). Also make sure your example is not boring.\footnote{There is no formal definition of boring, but permutation matrices are boring, as are matrices with repeated entries.. }
+\end{enumerate} 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak
+
+\begin{problem}
+A deck with $mn$ cards with $m$ values and $n$ suits consists of one card for each value in each suit. The cards are dealt into an $n\times m$ array. Use matchings to prove that there is a set of $m$ cards, one in each column, having distinct values. 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+
+
+
+\end{document}

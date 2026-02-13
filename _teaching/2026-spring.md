@@ -10,9 +10,8 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (2/6). **HW3** is posted below and is due next Friday 2/13. 
+* (2/6). **HW4** is posted below and is due next Friday 2/20. 
 * (2/4). **Office hours for the semester** are Wed 5-6 in Kassar 304 and Thurs 4-5 in Kassar 104 (common room)
-* (2/1). Some **solutions to HW1** are posted below. For this I've selected some good solutions among those submitted by you all, among which there were many to choose from. 
 
 ## Course information
 This is an undergraduate course in the study of graphs. Graphs appear all over the place: both in pure and applied mathematics as well as other sciences, such as chemistry, physics, computer science, and linguistics. We will focus on the theoretical aspects of graph theory, although we will also discuss some applications. 
@@ -80,6 +79,8 @@ HW2 (due 2/6). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-sp
 
 HW3 (due 2/13). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw3.tex)
 
+HW4 (due 2/20). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw4.tex)
+
 
 ## Participation
 
@@ -116,7 +117,7 @@ Additional information, as well as some potential topic ideas, will be shared la
 * Week 4: Matchings (West 107-115) 
   * Mon (2/9). matrix-tree theorem, matchings, max matching dual problem, Konig's theorem
   * Wed (2/11). max matching local-to-global, Hall's theorem
-  * Fri (2/13). Hall's theorem proof, latin squares **HW3 due**
+  * Fri (2/13). Hall's theorem and proof, latin squares **HW3 due**
 
 * Week 5: Matchings (West 130-132)
   * Mon (2/16). No class (university holiday)
