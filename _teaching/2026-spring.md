@@ -12,7 +12,6 @@ location: "Providence, USA"
 
 * (2/13). Please complete [the check-in poll](https://forms.gle/HysMydSJcQUzBXun7) to give feedback on how things are going in the course so far (so we can make any necessary adjustments). Thanks!
 * (2/13). **HW4** is posted below and is due next Friday 2/20. 
-* (2/4). **Office hours for the semester** are Wed 5-6 in Kassar 304 and Thurs 4-5 in Kassar 104 (common room)
 
 ## Course information
 This is an undergraduate course in the study of graphs. Graphs appear all over the place: both in pure and applied mathematics as well as other sciences, such as chemistry, physics, computer science, and linguistics. We will focus on the theoretical aspects of graph theory, although we will also discuss some applications. 
@@ -78,7 +77,7 @@ HW1 (due 1/30). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-s
 
 HW2 (due 2/6). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw2.tex), [student solutions](https://bena-tshishiku.github.io/files/courses/2026-spring/hw2-student.pdf)
 
-HW3 (due 2/13). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw3.tex)
+HW3 (due 2/13). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw3.tex), [student solutions](https://bena-tshishiku.github.io/files/courses/2026-spring/hw3-student.pdf)
 
 HW4 (due 2/20). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw4.tex)
 
@@ -122,7 +121,7 @@ Additional information, as well as some potential topic ideas, will be shared la
 
 * Week 5: Matchings (West 130-132)
   * Mon (2/16). No class (university holiday)
-  * Wed (2/18). Konig's theorem proof, stable matchings, 
+  * Wed (2/18). Konig's theorem proof, stable matchings
   * Fri (2/20). Gale-Shapely algorithm **HW4 due**
 
 * Week 6: Connectivity (West 149-150, 167-168, 176-181, 183) 
