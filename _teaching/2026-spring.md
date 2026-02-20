@@ -10,7 +10,7 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (2/13). Please complete [the check-in poll](https://forms.gle/HysMydSJcQUzBXun7) to give feedback on how things are going in the course so far (so we can make any necessary adjustments). Thanks!
+* (2/20). **HW5** is posted below and is due next Friday 2/27. 
 * (2/13). **HW4** is posted below and is due next Friday 2/20. 
 
 ## Course information
@@ -80,6 +80,8 @@ HW2 (due 2/6). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-sp
 HW3 (due 2/13). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw3.tex), [student solutions](https://bena-tshishiku.github.io/files/courses/2026-spring/hw3-student.pdf)
 
 HW4 (due 2/20). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw4.tex)
+
+HW4 (due 2/27). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw5.tex),[image1](https://bena-tshishiku.github.io/files/courses/2026-spring/matchings.pdf), [image2](https://bena-tshishiku.github.io/files/courses/2026-spring/stable-match.pdf) (put this in the same folder as your tex file)
 
 
 ## Participation

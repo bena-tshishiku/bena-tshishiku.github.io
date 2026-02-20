@@ -1,0 +1,127 @@
+\documentclass[11pt]{article}
+
+\author{Math 1030}
+\date{Due Friday, February 27 by 5pm} 
+\title{Homework 5}
+
+\usepackage{graphicx,xypic}
+\usepackage{amsthm}
+\usepackage{amsmath,amssymb}
+\usepackage{amsfonts}
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage[shortlabels]{enumitem}
+\newtheorem{problem}{Problem}
+\renewcommand*{\proofname}{{\color{blue}Solution}}
+
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1.25ex}
+
+
+\begin{document}
+
+\maketitle
+
+% DON'T LEAVE THIS BLANK! 
+{\bf\Large Your Name:} 
+
+% DON'T FORGET YOUR COLLABORATORS! 
+Collaborator names: 
+
+\vspace{.3in}
+Topics covered: matchings, K\"onig's theorem, vertex covers, Gale--Shapely algorithm 
+
+Instructions {\bf (read these carefully!)}: 
+\begin{itemize}
+\item This assignment must be submitted on Gradescope by the due date. 
+\item If you collaborate with other students (this is encouraged),  list your collaborators above. 
+\item Homework is graded anonymously, so avoid putting your name on each page of the assignment.
+\item If you are stuck, please ask for help (from me, Rafi, or a classmate). Use Ed discussions!  
+\item You may freely use any fact proved in class (mention it in the appropriate spot). You \emph{may not} freely use facts from the book or other sources.
+\item As a general rule, try to restrict your solution to each problem to a single page. Often solutions can be short, while still being complete. If your solution is very long, think more about how you might express it more concisely.
+\end{itemize}
+\pagebreak 
+
+
+
+\begin{problem}
+Find a maximum matching in each graph below. Prove that it is maximum using the dual problem. 
+\begin{center}
+\includegraphics[scale=.5]{matchings.pdf}
+\end{center}
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak
+
+\begin{problem}
+Let $G=(V,E)$ be a bipartite graph with maximum vertex degree $\Delta$. \begin{enumerate}[(a)]
+\item Use K\"onig's theorem to prove that $G$ has a matching of size at least $|E|/\Delta$. 
+\item Use (a) to conclude that every subgraph of $K_{n,n}$ with more than $(k-1)n$ edges has a matching of size at least $k$. 
+\end{enumerate} 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak
+
+\begin{problem}
+Use K\"onig's theorem to prove Hall's theorem: if $G=(X\sqcup Y,E)$ is bipartite and $|S|\le |N(S)|$ for each $S\subset X$, then $G$ has a matching that saturates $X$. \footnote{Hint: Prove the contrapositive. Consider a minimal vertex cover $Q$. Find a set $S\subset X$ so that $|S|>|N(S)|$. (There are really only two options for $S$ in terms of $Q$). The proof should be relatively short.} 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak
+
+\begin{problem}
+Give an example of a stable matching problem of a graph $G=(X\sqcup Y,E)$ with $|X|=|Y|=2$ in which there is more than one stable matching. 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak
+
+\begin{problem}
+Determine the stable matchings resulting from the proposal algorithm run with cats proposing and with giraffes proposing, given the preference lists below.
+\begin{center}
+\includegraphics[scale=.5]{stable-match.pdf}
+\end{center}
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak
+
+\begin{problem}
+Let $G=(X\sqcup Y,E)$ be a bipartite graph with a preference list. Let $M_X$ be the matching obtained from applying the Gale--Shapely algorithm with vertices in $X$ proposing. Let $M$ be any other stable matching of $G$. Prove that for each $y\in Y$, if $\{x,y\}\in M_X$ and $\{x',y\}\in M$, then either $x=x'$ or $y$ prefers $x'$ to $x$. In other words, each $y\in Y$ gets the worst possible matching from the proposal algorithm. \footnote{Hint: consider the set $Z\subset Y$ of that do better in $M_X$ than some other matching $M$. Consider $z\in Z$ that is proposed to earliest in the Gale--Shapley algorithm.}
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak
+
+\begin{problem}[Bonus]
+Let $T_1$ be the tiling of the plane by unit squares whose vertices have integer coordinates. Let $T_2$ be the result of rotating $T_1$ about the origin by some angle $\theta$. Prove that it is possible to find a bijection between squares of $T_1$ and squares of $T_2$ in such a way that the matched squares are within 10 units of each other. The matching will depend on $\theta$. \footnote{Hint: try to make this look like Hall's matching problem.} 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+
+
+\end{document}
