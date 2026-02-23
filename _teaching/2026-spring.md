@@ -10,6 +10,7 @@ location: "Providence, USA"
 
 ## Announcements
 
+* (2/22). [Lecture](https://brown.zoom.us/rec/share/06xtPRBQqRG0oDWZMQwVAIU3UzJ_w4JEUi8UGgifKj8R-MzvbWN_qbyV78dPS_Vh.6-VRpVyayEU_E2bf?startTime=1771794448000) for the snow day
 * (2/20). **HW5** is posted below and is due next Friday 2/27. 
 * (2/13). **HW4** is posted below and is due next Friday 2/20. 
 
