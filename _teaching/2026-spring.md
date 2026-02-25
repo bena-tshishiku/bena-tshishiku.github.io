@@ -10,7 +10,8 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (2/22). [Lecture](https://brown.zoom.us/rec/share/06xtPRBQqRG0oDWZMQwVAIU3UzJ_w4JEUi8UGgifKj8R-MzvbWN_qbyV78dPS_Vh.6-VRpVyayEU_E2bf?startTime=1771794448000) for the snow day
+* (2/24). [Lecture for 2/25](https://brown.zoom.us/rec/share/iVohl6KTgKjQ6HHEcxylTMbnxTK1zeaAvtwnrMK1HETdMw-NcBDL8yUtZ4JpbEM0.Z0iTUJamDzhjCngv)
+* (2/22). [Lecture for 2/23](https://brown.zoom.us/rec/share/06xtPRBQqRG0oDWZMQwVAIU3UzJ_w4JEUi8UGgifKj8R-MzvbWN_qbyV78dPS_Vh.6-VRpVyayEU_E2bf?startTime=1771794448000) for the snow day
 * (2/20). **HW5** is posted below and is due next Friday 2/27. 
 * (2/13). **HW4** is posted below and is due next Friday 2/20. 
 
@@ -128,9 +129,9 @@ Additional information, as well as some potential topic ideas, will be shared la
   * Fri (2/20). Gale-Shapely algorithm **HW4 due**
 
 * Week 6: Connectivity (West 149-150, 167-168, 176-181, 183) 
-  * Mon (2/23). vertex cut, Menger's theorem, flows on networks, matrix-tree theorem, Ford-Fulkerson
-  * Wed (2/25). 
-  * Fri (2/27). HW5 due
+  * Mon (2/23). vertex cuts, Menger's theorem, 
+  * Wed (2/25). flows on networks, Ford-Fulkerson, proof of Menger
+  * Fri (2/27). Ford-Fulkerson and Menger, application **HW5 due**
 
 * Week 7: Coloring (West 191-194, 204-208) 
   * Mon (3/2). Chromatic number, greedy coloring, Brooks' theorem, Mycielski construction, extremal problem, Turan graphs, chromatic polynomial
