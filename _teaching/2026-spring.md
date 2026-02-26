@@ -10,11 +10,10 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (2/25). Office hours today will start at 5:30, not 5. Apologies for the last minute change. Link [here](tinyurl.com/bena-zoom).
+* (2/25). Friday class will be in person! 
 * (2/24). [Lecture for 2/25](https://brown.zoom.us/rec/share/iVohl6KTgKjQ6HHEcxylTMbnxTK1zeaAvtwnrMK1HETdMw-NcBDL8yUtZ4JpbEM0.Z0iTUJamDzhjCngv)
 * (2/22). [Lecture for 2/23](https://brown.zoom.us/rec/share/06xtPRBQqRG0oDWZMQwVAIU3UzJ_w4JEUi8UGgifKj8R-MzvbWN_qbyV78dPS_Vh.6-VRpVyayEU_E2bf?startTime=1771794448000) for the snow day
 * (2/20). **HW5** is posted below and is due next Friday 2/27. 
-* (2/13). **HW4** is posted below and is due next Friday 2/20. 
 
 ## Course information
 This is an undergraduate course in the study of graphs. Graphs appear all over the place: both in pure and applied mathematics as well as other sciences, such as chemistry, physics, computer science, and linguistics. We will focus on the theoretical aspects of graph theory, although we will also discuss some applications. 
