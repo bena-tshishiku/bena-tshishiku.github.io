@@ -10,10 +10,8 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (2/25). Friday class will be in person! 
-* (2/24). [Lecture for 2/25](https://brown.zoom.us/rec/share/iVohl6KTgKjQ6HHEcxylTMbnxTK1zeaAvtwnrMK1HETdMw-NcBDL8yUtZ4JpbEM0.Z0iTUJamDzhjCngv)
-* (2/22). [Lecture for 2/23](https://brown.zoom.us/rec/share/06xtPRBQqRG0oDWZMQwVAIU3UzJ_w4JEUi8UGgifKj8R-MzvbWN_qbyV78dPS_Vh.6-VRpVyayEU_E2bf?startTime=1771794448000) for the snow day
-* (2/20). **HW5** is posted below and is due next Friday 2/27. 
+* (2/28). HW 6 and practice problems for the midterm will be posted here shortly. 
+* (2/25). The midterm will be held Tuesday, March 10. 
 
 ## Course information
 This is an undergraduate course in the study of graphs. Graphs appear all over the place: both in pure and applied mathematics as well as other sciences, such as chemistry, physics, computer science, and linguistics. We will focus on the theoretical aspects of graph theory, although we will also discuss some applications. 
@@ -81,9 +79,9 @@ HW2 (due 2/6). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-sp
 
 HW3 (due 2/13). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw3.tex), [student solutions](https://bena-tshishiku.github.io/files/courses/2026-spring/hw3-student.pdf)
 
-HW4 (due 2/20). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw4.tex)
+HW4 (due 2/20). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw4.tex), [student solutions](https://bena-tshishiku.github.io/files/courses/2026-spring/hw4-student.pdf)
 
-HW4 (due 2/27). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw5.tex),[image1](https://bena-tshishiku.github.io/files/courses/2026-spring/matchings.pdf), [image2](https://bena-tshishiku.github.io/files/courses/2026-spring/stable-match.pdf) (put this in the same folder as your tex file)
+HW5 (due 2/27). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw5.tex),[image1](https://bena-tshishiku.github.io/files/courses/2026-spring/matchings.pdf), [image2](https://bena-tshishiku.github.io/files/courses/2026-spring/stable-match.pdf) (put this in the same folder as your tex file)
 
 
 ## Participation
@@ -129,9 +127,9 @@ Additional information, as well as some potential topic ideas, will be shared la
   * Fri (2/20). Gale-Shapely algorithm **HW4 due**
 
 * Week 6: Connectivity (West 149-150, 167-168, 176-181, 183) 
-  * Mon (2/23). vertex cuts, Menger's theorem, 
-  * Wed (2/25). flows on networks, Ford-Fulkerson, proof of Menger
-  * Fri (2/27). Ford-Fulkerson and Menger, application **HW5 due**
+  * Mon (2/23). vertex cuts, Menger's theorem; [video lecture](https://brown.zoom.us/rec/share/06xtPRBQqRG0oDWZMQwVAIU3UzJ_w4JEUi8UGgifKj8R-MzvbWN_qbyV78dPS_Vh.6-VRpVyayEU_E2bf?startTime=1771794448000) 
+  * Wed (2/25). flows on networks, Ford-Fulkerson, proof of Menger; [video lecture](https://brown.zoom.us/rec/share/iVohl6KTgKjQ6HHEcxylTMbnxTK1zeaAvtwnrMK1HETdMw-NcBDL8yUtZ4JpbEM0.Z0iTUJamDzhjCngv)
+  * Fri (2/27). Ford-Fulkerson and Menger, sports elimination **HW5 due**
 
 * Week 7: Coloring (West 191-194, 204-208) 
   * Mon (3/2). Chromatic number, greedy coloring, Brooks' theorem, Mycielski construction, extremal problem, Turan graphs, chromatic polynomial
