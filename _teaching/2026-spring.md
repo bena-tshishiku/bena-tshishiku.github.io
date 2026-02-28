@@ -10,7 +10,8 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (2/28). HW 6 and practice problems for the midterm will be posted here shortly. 
+* (2/28). Midterm practice problems [here](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-midterm-practice.pdf). You are strongly encouraged to do all of these problems completely. Some problems on the midterm may use similar ideas to some of the practice problems. 
+* (2/28). HW 6 will be released after the midterm and due 3/20. For now please focus on the practice midterm problems. 
 * (2/25). The midterm will be held Tuesday, March 10. 
 
 ## Course information
@@ -134,18 +135,18 @@ Additional information, as well as some potential topic ideas, will be shared la
 * Week 7: Coloring (West 191-194, 204-208) 
   * Mon (3/2). Chromatic number, greedy coloring, Brooks' theorem, Mycielski construction, extremal problem, Turan graphs, chromatic polynomial
   * Wed (3/4). 
-  * Fri (3/6). HW6 due
+  * Fri (3/6). 
 
 * Week 8: Planarity (West 6.1-6.2)
   * Mon (3/9). chromatic polynomial, planar graphs, Kuratowski's theorem, linear planar embeddings
   * Tue (3/10). Midterm (time TBD)
-  * Wed (3/11). 
+  * Wed (3/11). No class (because of the midterm)
   * Fri (3/13). 
 
 * Week 9: Planarity
   * Mon (3/16). Art gallery problem, map coloring, platonic solids
   * Wed (3/18).
-  * Fri (3/20). HW7 due
+  * Fri (3/20). HW6 due
 
 * Week 10: Spring Break
 
@@ -153,19 +154,19 @@ Additional information, as well as some potential topic ideas, will be shared la
   * Mon (3/30). Ramsey theory for graphs, numbers, and knots
   * Tue (3/31). Final project proposal due
   * Wed (4/1). 
-  * Fri (4/3). HW8 due
+  * Fri (4/3). HW7 due
 
 * Week 12: Ramsey theory, Random graphs (West 8.5) 
   * Mon (4/6). Ramsey lower bound, random graphs, connectedness and diameter of random graphs, Rado graph
   * Tue (4/7). Final project outline due
   * Wed (4/8). 
-  * Fri (4/10). HW9 due
+  * Fri (4/10). HW8 due
 
 * Week 13: Random graphs, Spectral graph theory (West 8.6) 
   * Mon (4/13). 
   * Tue (4/14). Final project slides due
   * Wed (4/15). 
-  * Fri (4/17). HW10 due 
+  * Fri (4/17). HW9 due 
 
 * Week 14: 
   * Mon (4/20). 
