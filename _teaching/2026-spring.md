@@ -10,7 +10,6 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (3/3). Bena's office hours this week will be Wednesday 5:30-6:30. 
 * (2/28). Midterm practice problems [here](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-midterm-practice.pdf). You are strongly encouraged to do all of these problems completely. Some problems on the midterm may use similar ideas to some of the practice problems. 
 * (2/28). HW 6 will be released after the midterm and will be due 3/20. For now please focus on the practice midterm problems. 
 * (2/25). The midterm will be held Tuesday, March 10, 6-8pm in Kassar 105. 
@@ -83,7 +82,7 @@ HW3 (due 2/13). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-s
 
 HW4 (due 2/20). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw4.tex), [student solutions](https://bena-tshishiku.github.io/files/courses/2026-spring/hw4-student.pdf)
 
-HW5 (due 2/27). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw5.tex),[image1](https://bena-tshishiku.github.io/files/courses/2026-spring/matchings.pdf), [image2](https://bena-tshishiku.github.io/files/courses/2026-spring/stable-match.pdf) (put this in the same folder as your tex file)
+HW5 (due 2/27). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw5.tex),[image1](https://bena-tshishiku.github.io/files/courses/2026-spring/matchings.pdf), [image2](https://bena-tshishiku.github.io/files/courses/2026-spring/stable-match.pdf), [student solutions](https://bena-tshishiku.github.io/files/courses/2026-spring/hw5-student.pdf)
 
 
 ## Participation
@@ -134,13 +133,13 @@ Additional information, as well as some potential topic ideas, will be shared la
   * Fri (2/27). Ford-Fulkerson and Menger, sports elimination **HW5 due**
 
 * Week 7: Coloring (West 191-194, 204-208) 
-  * Mon (3/2). Chromatic number, greedy coloring, Brooks' theorem, Mycielski construction, extremal problem, Turan graphs, chromatic polynomial
-  * Wed (3/4). 
-  * Fri (3/6). 
+  * Mon (3/2). Chromatic number, greedy coloring, Brooks' theorem
+  * Wed (3/4). critical graphs, Mycielski construction, extremal problems, 
+  * Fri (3/6). Turan graphs, chromatic polynomial
 
 * Week 8: Planarity (West 6.1-6.2)
   * Mon (3/9). chromatic polynomial, planar graphs, Kuratowski's theorem, linear planar embeddings
-  * Tue (3/10). Midterm (time TBD)
+  * Tue (3/10). Midterm (6-8pm in Kassar 105)
   * Wed (3/11). No class (because of the midterm)
   * Fri (3/13). 
 
