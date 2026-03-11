@@ -10,9 +10,7 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (2/28). Midterm practice problems [here](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-midterm-practice.pdf). You are strongly encouraged to do all of these problems completely. Some problems on the midterm may use similar ideas to some of the practice problems. 
-* (2/28). HW 6 will be released after the midterm and will be due 3/20. For now please focus on the practice midterm problems. 
-* (2/25). The midterm will be held Tuesday, March 10, 6-8pm in Kassar 105. 
+* (3/10). HW6 is posted below and is due Friday, March 3/20. It is one problem longer than usual.  
 
 ## Course information
 This is an undergraduate course in the study of graphs. Graphs appear all over the place: both in pure and applied mathematics as well as other sciences, such as chemistry, physics, computer science, and linguistics. We will focus on the theoretical aspects of graph theory, although we will also discuss some applications. 
