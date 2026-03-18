@@ -10,6 +10,8 @@ location: "Providence, USA"
 
 ## Announcements
 
+* (3/17). Rafi and I are switching office hours this week, so his will be on Wednesday at 5 and mine will be on Thursday at 4. 
+* (3/17). A final project proposal is due March 31. Instructions [here](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw6.tex),[image1](https://bena-tshishiku.github.io/files/courses/2026-spring/final-project-proposal.pdf)
 * (3/10). HW6 is posted below and is due Friday, March 3/20. It is one problem longer than usual.  
 
 ## Course information
@@ -87,7 +89,7 @@ HW6 (due 3/20). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-s
 
 ## Participation
 
-Occasionally, we may have assignments or quizzes in class. These will count toward the participation part of your grade (10%). 
+Occasionally, we may have assignments in class. Other times I will simply take attendance. These will count toward the participation part of your grade (10%). 
 
 You can also participate by coming to office hours and asking questions on Ed Discussion.  
 
@@ -95,11 +97,31 @@ You can also participate by coming to office hours and asking questions on Ed Di
 ## Final Project
 Working in groups of 2, you'll choose a topic related to the course to investigate and create an N-minute presentation to be given during reading period. To help you prepare for this, I will ask you to submit the following. 
 
-* Final project proposal (due 3/31)
+* Final project proposal (due 3/31): [instructions](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw6.tex),[image1](https://bena-tshishiku.github.io/files/courses/2026-spring/final-project-proposal.pdf)
 * Final project outline (due 4/7) 
 * Final project slides (due 4/14)
 
-Additional information, as well as some potential topic ideas, will be shared later. 
+Some project ideas: (or you can pick something else)
+1. Art gallery problem
+2. Graceful labelings and graceful tree conjecture 
+3. Groups and Cayley graphs 
+4. Counting tilings of a chessboard and the permanent of a matrix
+5. Tutte's spring theorem
+6. Dinitz problem 
+7. 5 color theorem
+8. stable roommates problem
+9. Knight's tour problem
+10. circle packing theorem
+11. De Bruijn graphs
+12. Hamiltonian graphs
+13. unit distance graphs/Hadwiger--Nelson problem
+14. Tutte's theorem on perfect matchings
+15. matroids
+16. Whitney's planarity criterion
+17. Kasteleyn’s Theorem: counting Domino tilings
+18. Heawood conjecture
+19. Anything else that is related to the course and interests you.
+
 
 ## Tentative schedule (subject to change)
 
@@ -138,14 +160,14 @@ Additional information, as well as some potential topic ideas, will be shared la
   * Fri (3/6). Turan graphs, chromatic polynomial
 
 * Week 8: Planarity (West 6.1-6.2)
-  * Mon (3/9). chromatic polynomial, planar graphs, Kuratowski's theorem, linear planar embeddings
+  * Mon (3/9). chromatic polynomial, planar graphs, 
   * Tue (3/10). Midterm (6-8pm in Kassar 105)
   * Wed (3/11). No class (because of the midterm)
-  * Fri (3/13). 
+  * Fri (3/13). Kuratowski's theorem, maximal planar graphs
 
 * Week 9: Planarity
-  * Mon (3/16). Art gallery problem, map coloring, platonic solids
-  * Wed (3/18).
+  * Mon (3/16). linear planar embeddings, Fary's theorem, art gallery problem
+  * Wed (3/18). map coloring, platonic solids
   * Fri (3/20). HW6 due
 
 * Week 10: Spring Break
@@ -190,4 +212,3 @@ Additional information, as well as some potential topic ideas, will be shared la
 * Don't use AI for the homework. The point of HW is to challenge you to think in new ways. AI is counterproductive for this purpose. If you are stuck come to office hours or find someone to work with to make progress. You will learn more that way. 
 * Come to office hours. There are many good uses of office hours: ask questions related to homework, lecture, or the book; go over something you're confused about; work on your homework alone or in a group; ask for advice on how to improve in the course; ask about something only tangentially related to the course. 
 * Use the homework to better understand the material. A pretty good general approach to doing homework problems is to follow UMER: (1) **U**nderstand the problem: review all relevant definitions, do some examples, draw a picture; (2) **M**ake a plan: come up with strategies to solve the problem, which results from class are relevant; (3) **E**xecute: try one of your strategies, and if it doesn't work (this is normal), try another, go back to steps (1) and (2) as necessary; (4) **R**eflect on your solution: after you've solved the problem (great) there is more to do(!), check your work, did you miss any steps, can you simplify or improve your solution, are there any big-picture take-aways. Each step of UMER should reinforce your understanding of the course material. Overall, the homework should be fun if you have a good sense of UMER. 
-
