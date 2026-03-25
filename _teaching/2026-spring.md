@@ -85,7 +85,7 @@ HW5 (due 2/27). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-s
 
 HW6 (due 3/20). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw6.tex),[image1](https://bena-tshishiku.github.io/files/courses/2026-spring/hw6-graph.pdf)
 
-HW6 (due 3/20). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw7.tex)
+HW6 (due 4/3). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw7.tex)
 
 ## Participation
 
