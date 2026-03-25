@@ -10,9 +10,8 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (3/17). Rafi and I are switching office hours this week, so his will be on Wednesday at 5 and mine will be on Thursday at 4. 
-* (3/17). A final project proposal is due March 31. Instructions [here](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw6.tex),[image1](https://bena-tshishiku.github.io/files/courses/2026-spring/final-project-proposal.pdf)
-* (3/10). HW6 is posted below and is due Friday, March 3/20. It is one problem longer than usual.  
+* (3/24). HW7 is posted below and is due Friday, April 3. 
+* (3/17). A final project proposal is due Tuesday, March 31. Instructions [here](https://bena-tshishiku.github.io/files/courses/2026-spring/final-project-proposal.pdf). Please ask if you have questions or want to discuss your idea ahead of submitting the proposal.
 
 ## Course information
 This is an undergraduate course in the study of graphs. Graphs appear all over the place: both in pure and applied mathematics as well as other sciences, such as chemistry, physics, computer science, and linguistics. We will focus on the theoretical aspects of graph theory, although we will also discuss some applications. 
@@ -86,6 +85,7 @@ HW5 (due 2/27). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-s
 
 HW6 (due 3/20). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw6.tex),[image1](https://bena-tshishiku.github.io/files/courses/2026-spring/hw6-graph.pdf)
 
+HW6 (due 3/20). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw7.tex)
 
 ## Participation
 
