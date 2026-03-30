@@ -10,6 +10,7 @@ location: "Providence, USA"
 
 ## Announcements
 
+* (3/30). A final project outline is due Tuesday, April 7. Instructions [here](https://bena-tshishiku.github.io/files/courses/2026-spring/final-project-outline.pdf). Please consider feedback on your project proposal while working on your outline. 
 * (3/24). HW7 is posted below and is due Friday, April 3. 
 * (3/17). A final project proposal is due Tuesday, March 31. Instructions [here](https://bena-tshishiku.github.io/files/courses/2026-spring/final-project-proposal.pdf). Please ask if you have questions or want to discuss your idea ahead of submitting the proposal.
 
