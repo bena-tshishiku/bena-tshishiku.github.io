@@ -10,9 +10,8 @@ location: "Providence, USA"
 
 ## Announcements
 
+* (4/3). HW8 is posted below. There are 4 problems. Please keep working on your final presentation! 
 * (3/30). A final project outline is due Tuesday, April 7. Instructions [here](https://bena-tshishiku.github.io/files/courses/2026-spring/final-project-outline.pdf). Please consider feedback on your project proposal while working on your outline. 
-* (3/24). HW7 is posted below and is due Friday, April 3. 
-* (3/17). A final project proposal is due Tuesday, March 31. Instructions [here](https://bena-tshishiku.github.io/files/courses/2026-spring/final-project-proposal.pdf). Please ask if you have questions or want to discuss your idea ahead of submitting the proposal.
 
 ## Course information
 This is an undergraduate course in the study of graphs. Graphs appear all over the place: both in pure and applied mathematics as well as other sciences, such as chemistry, physics, computer science, and linguistics. We will focus on the theoretical aspects of graph theory, although we will also discuss some applications. 
@@ -86,7 +85,10 @@ HW5 (due 2/27). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-s
 
 HW6 (due 3/20). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw6.tex),[image1](https://bena-tshishiku.github.io/files/courses/2026-spring/hw6-graph.pdf)
 
-HW6 (due 4/3). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw7.tex)
+HW7 (due 4/3). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw7.tex)
+
+HW8 (due 4/10). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw8.tex)
+
 
 ## Participation
 
@@ -99,7 +101,7 @@ You can also participate by coming to office hours and asking questions on Ed Di
 Working in groups of 2, you'll choose a topic related to the course to investigate and create an N-minute presentation to be given during reading period. To help you prepare for this, I will ask you to submit the following. 
 
 * Final project proposal (due 3/31): [instructions](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw6.tex),[image1](https://bena-tshishiku.github.io/files/courses/2026-spring/final-project-proposal.pdf)
-* Final project outline (due 4/7) 
+* Final project outline (due 4/7): [instructions](https://bena-tshishiku.github.io/files/courses/2026-spring/final-project-proposal.pdf)
 * Final project slides (due 4/14)
 
 Some project ideas: (or you can pick something else)
@@ -169,18 +171,18 @@ Some project ideas: (or you can pick something else)
 * Week 9: Planarity
   * Mon (3/16). linear planar embeddings, Fary's theorem, art gallery problem
   * Wed (3/18). map coloring, platonic solids
-  * Fri (3/20). HW6 due
+  * Fri (3/20). Ramsey theory for graphs, numbers, and knots ; HW6 due
 
 * Week 10: Spring Break
 
 * Week 11: Ramsey theory (West 8.3) 
-  * Mon (3/30). Ramsey theory for graphs, numbers, and knots
+  * Mon (3/30). Ramsey theory bounds
   * Tue (3/31). Final project proposal due
-  * Wed (4/1). 
-  * Fri (4/3). HW7 due
+  * Wed (4/1). Ramsey theory lower bound; Ramsey theory and Fermat
+  * Fri (4/3). Random graphs; properties of random graphs HW7 due
 
-* Week 12: Ramsey theory, Random graphs (West 8.5) 
-  * Mon (4/6). Ramsey lower bound, random graphs, connectedness and diameter of random graphs, Rado graph
+* Week 12: Random graphs (West 8.5) 
+  * Mon (4/6). Diameter of random graphs, Rado graph
   * Tue (4/7). Final project outline due
   * Wed (4/8). 
   * Fri (4/10). HW8 due

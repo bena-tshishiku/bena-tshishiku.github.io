@@ -1,0 +1,105 @@
+\documentclass[11pt]{article}
+
+\author{Math 1030}
+\date{Due Friday, April 10 by 5pm} 
+\title{Homework 8}
+
+\usepackage{graphicx,xypic}
+\usepackage{amsthm}
+\usepackage{amsmath,amssymb}
+\usepackage{amsfonts}
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage[shortlabels]{enumitem}
+\newtheorem{problem}{Problem}
+\renewcommand*{\proofname}{{\color{blue}Solution}}
+
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1.25ex}
+
+
+\begin{document}
+
+\maketitle
+
+% DON'T LEAVE THIS BLANK! 
+{\bf\Large Your Name:} 
+
+% DON'T FORGET YOUR COLLABORATORS! 
+Collaborator names: 
+
+\vspace{.3in}
+Topics covered: Ramsey theory, pigeonhole principle
+
+Instructions {\bf (read these carefully!)}: 
+\begin{itemize}
+\item This assignment must be submitted on Gradescope by the due date. 
+\item If you collaborate with other students (this is encouraged),  list your collaborators above. 
+\item Homework is graded anonymously, so avoid putting your name on each page of the assignment.
+\item If you are stuck, please ask for help (from me, Rafi, or a classmate). Use Ed discussions!  
+\item You may freely use any fact proved in class (mention it in the appropriate spot). You \emph{may not} freely use facts from the book or other sources.
+\item As a general rule, try to restrict your solution to each problem to a single page. Often solutions can be short, while still being complete. If your solution is very long, think more about how you might express it more concisely.
+\end{itemize}
+\pagebreak 
+
+
+\begin{problem}
+Use the pigeonhole principle to prove the following statements. 
+\begin{enumerate}[(a)]
+\item Every set of $n$ integers $\{a_1,\ldots,a_n\}$ contains a nonempty subset whose sum is divisible by $n$. \footnote{Hint: consider the partial sums $S_i=a_1+\cdots+a_i$.}\footnote{Remark: The set $\{1,n+1,2n+1,\ldots,(n-1)n+1\}$ shows you cannot improve this result to a set of $n-1$ integers.}
+\item Given $x\in\mathbb R$, prove that at least one of $\{x,2x,\ldots,(n-1)x\}$ differs by at most $1/n$ from an integer. \footnote{Hint: consider the fractional parts of these integers.}
+\end{enumerate} 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak 
+
+\begin{problem}
+Each of two concentric discs has $20$ radial sections of equal size. For each disc, $10$ sections are painted red and $10$ blue, in some arrangement. Prove that the two discs can be aligned so that at least $10$ sections on the inner disc match colors with the corresponding sections on the outer disc. \footnote{Hint: There is a very short solution using the pigeonhole principle. Fixing a section of the outer disk, how many positions of the inner disk give a matching in this one ``coordinate"?}
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak 
+
+\begin{problem}
+Fix $r\ge2$ and let $R(k,\ldots,k)$ (with $r$ copies of $k$) denote the minimal $n$ so that any $r$-coloring of the edges of $K_n$ contains at a monochromatic $K_k$ (i.e.\ we are generalizing the Ramsey numbers to more colors). Prove that every $r$ coloring of $1,\ldots,R(3,\ldots,3)$ (with $r$ copies of $3$) contains a monochromatic $x,y,z$ so that $x+y=z$. \footnote{Hint: set $n=R(3,\ldots,3)$. Given a coloring of $1,\ldots,n$, construct an edge 2-coloring of $K_n$ so that a monochromatic triangle in $K_n$ corresponds to monochromatic $x,y,z$ with $x+y=z$.} 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak 
+
+\begin{problem}
+A theorem similar to Negami's theorem says that for any embedding of $K_6$ in $\mathbb R^3$, there exists a pair of triangles that form a Hopf link.\footnote{Google this.} Verify this result for the following set of 6 points in $\mathbb R^3$. 
+\[A=(0,3,2), \>\>\>B=(-2,-6,0), \>\>\>C=(6,3,2), \>\>\>D=(-6,-10,7), \>\>\>E=(-9,-6,9),\>\>\>F=(3,-1,9)\]
+To help solve this, use this Geo-gebra notebook: 
+\texttt{https://www.geogebra.org/calculator/rrbafuh6} \footnote{Click the circles on the left panel to make line segments appear/disappear.} Include a screenshot in your solution. 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak 
+
+\begin{problem}[Bonus]
+Give a set of eight points $S$ in the plane, no three on a line, with the property that $S$ does not contain the vertex set of any convex $5$-gon. Be sure to give an explanation.\footnote{In fact, this is the best you can do: any collection of $9$ points in the plane (no three collinear) contains the vertices of a convex pentagon.} 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+
+
+
+\end{document}
