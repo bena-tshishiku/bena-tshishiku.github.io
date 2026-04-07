@@ -10,8 +10,9 @@ location: "Providence, USA"
 
 ## Announcements
 
+* (4/7). Final project slides are due Tuesday, April 14. [Instructions](https://bena-tshishiku.github.io/files/courses/2026-spring/final-project-slides.pdf). Please consider feedback on your project outline while working on your slides. 
 * (4/3). HW8 is posted below. There are 4 problems. Please keep working on your final presentation! 
-* (3/30). A final project outline is due Tuesday, April 7. Instructions [here](https://bena-tshishiku.github.io/files/courses/2026-spring/final-project-outline.pdf). Please consider feedback on your project proposal while working on your outline. 
+* (3/30). A final project outline is due Tuesday, April 7. 
 
 ## Course information
 This is an undergraduate course in the study of graphs. Graphs appear all over the place: both in pure and applied mathematics as well as other sciences, such as chemistry, physics, computer science, and linguistics. We will focus on the theoretical aspects of graph theory, although we will also discuss some applications. 
@@ -101,11 +102,11 @@ You can also participate by coming to office hours and asking questions on Ed Di
 Working in groups of 2, you'll choose a topic related to the course to investigate and create an N-minute presentation to be given during reading period. To help you prepare for this, I will ask you to submit the following. 
 
 * Final project proposal (due 3/31): [instructions](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw6.tex),[image1](https://bena-tshishiku.github.io/files/courses/2026-spring/final-project-proposal.pdf)
-* Final project outline (due 4/7): [instructions](https://bena-tshishiku.github.io/files/courses/2026-spring/final-project-proposal.pdf)
-* Final project slides (due 4/14)
+* Final project outline (due 4/7): [instructions](https://bena-tshishiku.github.io/files/courses/2026-spring/final-project-outline.pdf)
+* Final project slides (due 4/14): [instructions](https://bena-tshishiku.github.io/files/courses/2026-spring/final-project-slides.pdf). 
 
 Some project ideas: (or you can pick something else)
-1. Art gallery problem
+1. Art gallery problem (Sora and Dylan)
 2. Graceful labelings and graceful tree conjecture 
 3. Groups and Cayley graphs 
 4. Counting tilings of a chessboard and the permanent of a matrix
@@ -113,17 +114,19 @@ Some project ideas: (or you can pick something else)
 6. Dinitz problem 
 7. 5 color theorem
 8. stable roommates problem
-9. Knight's tour problem
+9. Knight's tour problem (Jerry and Noah F)
 10. circle packing theorem
 11. De Bruijn graphs
 12. Hamiltonian graphs
-13. unit distance graphs/Hadwiger--Nelson problem
+13. unit distance graphs/Hadwiger--Nelson problem (Claire and Mac)
 14. Tutte's theorem on perfect matchings
-15. matroids
+15. matroids (Ali) 
 16. Whitney's planarity criterion
 17. Kasteleyn’s Theorem: counting Domino tilings
 18. Heawood conjecture
-19. Anything else that is related to the course and interests you.
+19. Cop vs robber graphs (Pierre and Ben)
+20. Chip firing (Noah R and Tanish)
+21. Anything else that is related to the course and interests you.
 
 
 ## Tentative schedule (subject to change)
