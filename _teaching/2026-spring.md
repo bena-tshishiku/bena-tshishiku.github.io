@@ -10,7 +10,7 @@ location: "Providence, USA"
 
 ## Announcements
 
-* (4/7). Final project slides are due Tuesday, April 14. [Instructions](https://bena-tshishiku.github.io/files/courses/2026-spring/final-project-slides.pdf). Please consider feedback on your project outline while working on your slides. 
+* (4/7). Final project slides are due _Friday_, April 17 (not Tuesday as in the instructions). [Instructions](https://bena-tshishiku.github.io/files/courses/2026-spring/final-project-slides.pdf). Please consider feedback on your project outline while working on your slides. 
 * (4/3). HW8 is posted below. There are 4 problems. Please keep working on your final presentation! 
 * (3/30). A final project outline is due Tuesday, April 7. 
 
