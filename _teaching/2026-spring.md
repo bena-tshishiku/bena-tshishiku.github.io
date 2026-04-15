@@ -90,6 +90,8 @@ HW7 (due 4/3). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-sp
 
 HW8 (due 4/10). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw8.tex)
 
+HW9 (due 4/23). [TeX file](https://bena-tshishiku.github.io/files/courses/2026-spring/1030-hw9.tex)
+
 
 ## Participation
 
@@ -187,18 +189,18 @@ Some project ideas: (or you can pick something else)
 * Week 12: Random graphs (West 8.5) 
   * Mon (4/6). Diameter of random graphs, Rado graph
   * Tue (4/7). Final project outline due
-  * Wed (4/8). 
-  * Fri (4/10). HW8 due
+  * Wed (4/8). Rado graph, extension property
+  * Fri (4/10). Rado graph, Erdos-Renyi phase transitions; HW8 due
 
 * Week 13: Random graphs, Spectral graph theory (West 8.6) 
-  * Mon (4/13). 
-  * Tue (4/14). Final project slides due
-  * Wed (4/15). 
-  * Fri (4/17). HW9 due 
+  * Mon (4/13). Adjacency matrix (walks, max vertex degree, diameter)
+  * Wed (4/15). Laplacian (connected components, matrix-tree)
+  * Fri (4/17). Final project slides due
 
 * Week 14: 
   * Mon (4/20). 
   * Wed (4/22). 
+  * Thurs (4/23). HW 9 due
   * Fri (4/24). start of reading period
 
 * Week 15: 

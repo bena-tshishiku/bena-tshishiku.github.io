@@ -1,0 +1,107 @@
+\documentclass[11pt]{article}
+
+\author{Math 1030}
+\date{Due Thursday, April 23 by 5pm} 
+\title{Homework 9}
+
+\usepackage{graphicx,xypic}
+\usepackage{amsthm}
+\usepackage{amsmath,amssymb}
+\usepackage{amsfonts}
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage[shortlabels]{enumitem}
+\newtheorem{problem}{Problem}
+\renewcommand*{\proofname}{{\color{blue}Solution}}
+
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1.25ex}
+
+
+\begin{document}
+
+\maketitle
+
+% DON'T LEAVE THIS BLANK! 
+{\bf\Large Your Name:} 
+
+% DON'T FORGET YOUR COLLABORATORS! 
+Collaborator names: 
+
+\vspace{.3in}
+Topics covered: random graphs, spectral graph theory
+
+Instructions {\bf (read these carefully!)}: 
+\begin{itemize}
+\item This assignment must be submitted on Gradescope by the due date. 
+\item If you collaborate with other students (this is encouraged),  list your collaborators above. 
+\item Homework is graded anonymously, so avoid putting your name on each page of the assignment.
+\item If you are stuck, please ask for help (from me, Rafi, or a classmate). Use Ed discussions!  
+\item You may freely use any fact proved in class (mention it in the appropriate spot). You \emph{may not} freely use facts from the book or other sources.
+\item As a general rule, try to restrict your solution to each problem to a single page. Often solutions can be short, while still being complete. If your solution is very long, think more about how you might express it more concisely.
+\end{itemize}
+\pagebreak 
+
+
+\begin{problem}
+Prove the Rado graph $R$ is homogeneous: any isomorphism between subgraphs of $R$ can be extended to an isomorphism of $R$. 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak 
+
+\begin{problem}
+Let $G=(V,E)$ be a finite graph. Count among all partitions of the vertex set $V=A\sqcup B$, the total number of $(A,B)$ edges. Show that the average number of $(A,B)$ edges (among all partitions) is $|E|/2$. Deduce that every graph has a bipartite subgraph with at least half of its edges. 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+
+\pagebreak 
+
+\begin{problem}
+Fix $r\le n$ and $s\le m$. Count the total number of monochromatic copies of $K_{r,s}$ among all edge $2$-colorings of $K_{n,m}$. \footnote{First count the number of colorings where a given copy of $K_{r,s}\subset K_{n,m}$ is monochromatic. We did something similar in class.} Show that the average number of monochromatic $K_{r,s}$'s among all colorings is ${n\choose r}{m\choose s}2^{1-rs}$. 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+\pagebreak 
+
+
+\begin{problem}
+Let $G$ be a finite graph, and write $A$ for the adjacency matrix. Using the approach from lecture, show that the largest eigenvalue of $A$ is equal to the maximum vertex degree if and only if $G$ is regular. 
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+
+\pagebreak 
+
+
+\begin{problem}
+Let $B$ be a matrix (not necessarily square) and consider 
+\[A=\left(\begin{array}{cc}0&B\\B^t&0\end{array}\right).\]
+Show that the eigenvalues of $A$ occur in $\pm$ pairs.\footnote{This is a purely linear algebra problem. Assuming $(x,y)$ is an eigenvector with eigenvalue $\lambda$ find an eigenvector with eigenvalue $-\lambda$.} 
+
+Show that a graph $G$ is bipartite if and only if the eigenvalues of the adjacency matrix $A$ occur in $\pm$ pairs.\footnote{The first part of the problem gives one direction. For the other direction, use (1) the trace of a matrix is the sum of its eigenvalues, (2) eigenvalues of $A^k$ have the form $\lambda^k$ where $\lambda$ is an eigenvalue of $A$ (when $A$ is diagonalizable), and (3) the trace of $A^k$ count certain kinds of walks in $G$ (be specific).}
+
+\end{problem}
+
+\begin{proof}
+
+\end{proof}
+
+
+
+
+\end{document}
