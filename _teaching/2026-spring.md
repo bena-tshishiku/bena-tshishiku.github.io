@@ -10,9 +10,9 @@ location: "Providence, USA"
 
 ## Announcements
 
+* (4/22). Final project presentation schedule is posted below. We'll begin Monday with Claire/Mac and Pierre/Ben. 
+* (4/22). Don't forget. HW9 is due tomorrow (Thursday!) 
 * (4/7). Final project slides are due _Friday_, April 17 (not Tuesday as in the instructions). [Instructions](https://bena-tshishiku.github.io/files/courses/2026-spring/final-project-slides.pdf). Please consider feedback on your project outline while working on your slides. 
-* (4/3). HW8 is posted below. There are 4 problems. Please keep working on your final presentation! 
-* (3/30). A final project outline is due Tuesday, April 7. 
 
 ## Course information
 This is an undergraduate course in the study of graphs. Graphs appear all over the place: both in pure and applied mathematics as well as other sciences, such as chemistry, physics, computer science, and linguistics. We will focus on the theoretical aspects of graph theory, although we will also discuss some applications. 
@@ -198,15 +198,15 @@ Some project ideas: (or you can pick something else)
   * Fri (4/17). Final project slides due
 
 * Week 14: 
-  * Mon (4/20). 
-  * Wed (4/22). 
+  * Mon (4/20). Graphs and groups
+  * Wed (4/22). Sperner's lemma
   * Thurs (4/23). HW 9 due
   * Fri (4/24). start of reading period
 
-* Week 15: 
-  * Mon (4/27). final projects
-  * Wed (4/29). final projects
-  * Fri (5/1). final projects
+* Week 15: final project presentations
+  * Mon (4/27). Claire and Mac; Pierre and Ben
+  * Wed (4/29). Noah R and Tanish; Noah F and Jerry
+  * Fri (5/1). Dylan and Sora; Aly
 
 * Week 16:  
   * Thurs. Final exam 2-5pm
