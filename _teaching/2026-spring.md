@@ -10,6 +10,7 @@ location: "Providence, USA"
 
 ## Announcements
 
+* (5/1). [Exam practice problems](https://bena-tshishiku.github.io/files/courses/2026-spring/exam-practice.pdf). 
 * (4/22). Final project presentation schedule is posted below. We'll begin Monday with Claire/Mac and Pierre/Ben. 
 * (4/22). Don't forget. HW9 is due tomorrow (Thursday!) 
 * (4/7). Final project slides are due _Friday_, April 17 (not Tuesday as in the instructions). [Instructions](https://bena-tshishiku.github.io/files/courses/2026-spring/final-project-slides.pdf). Please consider feedback on your project outline while working on your slides. 
