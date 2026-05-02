@@ -123,7 +123,7 @@ Some project ideas: (or you can pick something else)
 12. Hamiltonian graphs
 13. unit distance graphs/Hadwiger--Nelson problem (Claire and Mac)
 14. Tutte's theorem on perfect matchings
-15. matroids (Ali) 
+15. matroids (Aly) 
 16. Whitney's planarity criterion
 17. Kasteleyn’s Theorem: counting Domino tilings
 18. Heawood conjecture
