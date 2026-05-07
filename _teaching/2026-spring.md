@@ -10,6 +10,7 @@ location: "Providence, USA"
 
 ## Announcements
 
+* (5/7). The exam is today at 2pm in Smith-B 206.
 * (5/1). [Exam practice problems](https://bena-tshishiku.github.io/files/courses/2026-spring/exam-practice.pdf). 
 * (4/22). Final project presentation schedule is posted below. We'll begin Monday with Claire/Mac and Pierre/Ben. 
 * (4/22). Don't forget. HW9 is due tomorrow (Thursday!) 
