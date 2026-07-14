@@ -17,6 +17,4 @@ compact flat manifolds of dimension equal to the real rank. We give a
 lower bound for the contribution of these cycles to the homology of congruence 
 covers. Similar results are proved for other families of locally symmetric spaces. 
 
-Note: there is a simpler proof of the main results, which we learned from a referee. This has not yet been incorporated into the draft. 
-
 Talks: [notes](http://bena-tshishiku.github.io/files/talks/flat-cycle-count.pdf)

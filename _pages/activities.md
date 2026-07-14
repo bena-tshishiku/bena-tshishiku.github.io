@@ -16,7 +16,20 @@ author_profile: true
 
 Some past and upcoming travel/talks: 
 
+**2026** \
+Nov 13. Harvard Gauge theorem and topology seminar\
+Nov 6-8. Ontario topology seminar\
+Oct 3-4. AMS sectional: hyperbolic dynamics and geometric structures (GWU)\
+Aug 10-14. El Encuentro Colombiano de Geometría y Topología (Cali, Colombia)\
+July 13-17. Summer conference on topology and its applications (Split, Croatia)\
+June 8-12. Topology student workshop (Vanderbilt)\
+April 18. GATSBY (Brown)\
+Mar 11-13. Spring topology and dynamics conference (Birmingham, AL)\
+
+
+
 **2025** \
+Nov 8. GATSBY (Yale)\
 Oct 18-19. AMS sectional: Topology and Group Actions (Saint Louis University)\
 Sept 8-12. Hyperbolic manifolds in dimensions 4 and more (CRM)\
 July 28- Aug 1. Workshop on Interactions between Group Theory and Homotopy Theory (Fields Institute)\
