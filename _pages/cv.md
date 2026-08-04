@@ -63,10 +63,29 @@ Other articles
   
 Talks
 ======
+
+* 2026
+  * Ontario topology seminar (conference) 
+  * AMS sectional: hyperbolic dynamics and geometric structures (GWU)
+  * El Encuentro Colombiano de Geometría y Topología (Cali, Colombia)
+  * Summer conference on topology and its applications (Split, Croatia)
+  * Spring topology and dynamics conference (Birmingham, AL)
+  * Seminars: Harvard
+
+
+* 2025
+  * AMS sectional: Topology and Group Actions (Saint Louis University)
+  * Hyperbolic manifolds in dimensions 4 and more (CRM)
+  * Workshop on Interactions between Group Theory and Homotopy Theory (Fields Institute)
+  * Mapping Class Groups, Surface Subgroups, Bundles, and Group Extensions (ICMAT)
+  * Motives and mapping class groups (AIM)
+  * Hyperbolic manifolds, their submanifolds and fundamental groups (IMPA)
+  * Seminars: Columbia, Tufts 
+
 * 2024
   * Ceresa cycle in arithmetic and geometry (ICERM) 
   * Spring topology and dynamics conference (Charlotte) 
-  * Seminars: Tufts, Wesleyan
+  * Seminars: Tufts, Wesleyan, Brandeis
 
 * 2023
   * Texas Geometry and Topology Conference (Rice) 
