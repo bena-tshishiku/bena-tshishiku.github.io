@@ -6,7 +6,7 @@ excerpt: ''
 date: 2026-07-01
 venue: 'with F. Manin and Sh. Weinberger'
 paperurl: ''
-citation: 'arxiv:2607.20259'
+citation: 'Submitted. arXiv:2607.20259'
 
 ---
 
