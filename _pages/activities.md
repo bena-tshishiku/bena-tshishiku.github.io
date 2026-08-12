@@ -17,7 +17,7 @@ author_profile: true
 Some past and upcoming travel/talks: 
 
 **2026** \
-Nov 13. Harvard Gauge theorem and topology seminar\
+Nov 13. Harvard Gauge theory and topology seminar\
 Nov 6-8. Ontario topology seminar\
 Oct 3-4. AMS sectional: hyperbolic dynamics and geometric structures (GWU)\
 Aug 10-14. El Encuentro Colombiano de Geometría y Topología (Cali, Colombia)\
