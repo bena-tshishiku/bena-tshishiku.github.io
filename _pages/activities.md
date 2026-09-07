@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-[Brown Geom-Top seminar](https://www.math.brown.edu/reschwar/seminar.html)
+[Brown Geom-Top seminar](https://sites.google.com/view/ethandlugie/research/brown-geometry-and-topology-seminar?authuser=0)
 [GATSBY](https://sites.google.com/view/brown-yale-gatsby)
 
 
