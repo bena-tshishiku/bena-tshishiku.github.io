@@ -8,8 +8,9 @@ author_profile: true
 
 {% include base_path %}
 
-[Brown Geom-Top seminar](https://sites.google.com/view/ethandlugie/research/brown-geometry-and-topology-seminar?authuser=0)
-[GATSBY](https://sites.google.com/view/brown-yale-gatsby)
+[Brown Geom-Top seminar](https://sites.google.com/view/ethandlugie/research/brown-geometry-and-topology-seminar?authuser=0)\
+[GATSBY](https://sites.google.com/view/brown-yale-gatsby)\
+[Benson Farb's 60th birthday conference](https://sites.google.com/umich.edu/benson60th/home)
 
 
 ## Travel 
