@@ -1,5 +1,5 @@
 ---
-title: "Morse complexity of homology classes"
+title: "Finite group actions on nonpositively curved 3-manifolds"
 collection: publications
 permalink: publication/equivariant-npc
 excerpt: ''
