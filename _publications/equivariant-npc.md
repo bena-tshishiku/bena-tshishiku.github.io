@@ -6,7 +6,7 @@ excerpt: ''
 date: 2026-10-01
 venue: 'with Z. Zou'
 paperurl: ''
-citation: 'preprint'
+citation: 'Preprint. arXiv:2610.10730'
 
 ---
 
